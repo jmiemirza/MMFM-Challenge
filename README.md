@@ -117,3 +117,7 @@ For any questions, please write an email to the organizers, a team member will g
 
 [contactmmfm2024@gmail.com](contactmmfm2024@gmail.com).
 
+# License
+
+This repository is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
+To view the licenses of the datasets used in the challenge, please see [LICENSES](docs/licenses.md).
