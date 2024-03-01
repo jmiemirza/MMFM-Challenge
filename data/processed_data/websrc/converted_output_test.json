@@ -1,0 +1,2802 @@
+[
+    {
+        "id": "websrc_1_0_213",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100026.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What's the engine info?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "3.0 L Intercooled Turbo Hybrid V-6, 335 HP"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_426",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100050.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What are the engine specs?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "2.0 L Intercooled Turbo Premium Unleaded I-4, 255 HP"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_753",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100091.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What's the engine info?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "6.2L Gas V8, 490 HP"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_1640",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100085.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"How many seats are there?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_1740",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100095.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"How many seats are there?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_1953",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100015.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"How does the transmission works?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Automatic"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_2083",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100028.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"What is the vehicle transmission?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "Automatic"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_2104",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100030.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"Tell me the transmission type\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Automatic"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_2848",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100002.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What is the drive train type?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Front Wheel Drive"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_3004",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100010.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What type of drivetrain is used in this engine?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "Front Wheel Drive"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_3088",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100015.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What drivetrain is this?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "All Wheel Drive"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_3666",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100046.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What type of drivetrain is used?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "All Wheel Drive"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_4164",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100075.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What's the drivetrain?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Front Wheel Drive"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_4338",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100084.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What type of drive does it have?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "Front Wheel Drive"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_4559",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100096.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What type of drivetrain is used?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "Front Wheel Drive"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_4680",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100012.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What is the drivetrain warranty policy?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "4 Years / 50,000 Miles"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_5165",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100061.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Tell me the basic warranty policy.\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "4 Years / 50,000 Miles"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_5230",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100079.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"Mention the basic warranty policy.\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "4 Years / 50,000 Miles"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_5698",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100019.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"What is the fuel efficiency?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "22 mpg City, 29 mpg Hwy"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_5958",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100078.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"What is the fuel efficiency?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "23 mpg City, 34 mpg Hwy"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_6079",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100002.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Tell me the number of passenger doors.\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_6141",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100011.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"How many doors in it?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_6339",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100040.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"How many doors are there on this model?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_6620",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100083.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"How many doors does this car have?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_6699",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100094.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many number of doors available in the above mentioned auto?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_6718",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100097.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"How many doors does this car have?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_6974",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100026.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the actual size of the engine of this auto?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "3.0 L"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_7186",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100047.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the size of the engine?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2.0 L"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_7297",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100061.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"What is the measurement of the engine of the auto?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "2.0 L"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_7311",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100062.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What's the engine size?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "2.0 L"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_7508",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100011.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"How many mpg of fuel is used on the highway?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "35 mpg Hwy"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_0_8181",
+        "image": "data/raw_datasets/websrc/release/auto/01/processed_data/0100076.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What is the mpg for highway driving?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "32 mpg Hwy"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_1_653",
+        "image": "data/raw_datasets/websrc/release/auto/08/processed_data/0800092.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"What is the volume of fuel for Turbo to travel a distance?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "17 MPG"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_1_732",
+        "image": "data/raw_datasets/websrc/release/auto/08/processed_data/0800108.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What's the engine info of the Standard Range Plus?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "AC Electric Motor"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_1_738",
+        "image": "data/raw_datasets/websrc/release/auto/08/processed_data/0800109.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Name the type of engine the Long Range use.\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Dual AC Electric Motors"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_1_951",
+        "image": "data/raw_datasets/websrc/release/auto/08/processed_data/0800165.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What horsepower value is given for S Line Premium Plus?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "228 @ 5000 RPM"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_2_545",
+        "image": "data/raw_datasets/websrc/release/book/17/processed_data/1700034.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"The writer of the book \"The Husband's Secret\" is?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "Liane Moriarty"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_2_718",
+        "image": "data/raw_datasets/websrc/release/book/17/processed_data/1700047.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"What is the name of the person who wrote \"Nineteen Eighty-Four: Popular ...\"?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "George Orwell"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_2_894",
+        "image": "data/raw_datasets/websrc/release/book/17/processed_data/1700080.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"Name of the writer of \"The Wiggles: Do The Propeller\"?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "The Wiggles"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_2_992",
+        "image": "data/raw_datasets/websrc/release/book/17/processed_data/1700102.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"Who wrote the book \"5 Ingredients - Quick & Easy...\"?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Jamie Oliver"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_2_1013",
+        "image": "data/raw_datasets/websrc/release/book/17/processed_data/1700103.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"Who wrote the book \"Super Food Family Classics\"?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Jamie Oliver"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_2_1188",
+        "image": "data/raw_datasets/websrc/release/book/17/processed_data/1700117.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What is the name of the person who wrote \"Plenty\"?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Yotam Ottolenghi"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_2_1237",
+        "image": "data/raw_datasets/websrc/release/book/17/processed_data/1700120.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"\"Wrecking Ball: Diary of a...\" was written by which author?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "Jeff Kinney"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_2_1744",
+        "image": "data/raw_datasets/websrc/release/book/17/processed_data/1700010.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"How fair was the book \"All Our Shimmering Skies\"?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "$22.99"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_2_2237",
+        "image": "data/raw_datasets/websrc/release/book/17/processed_data/1700043.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"How much is the book \"Crime And Punishment\"?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "$14.99"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_2_3130",
+        "image": "data/raw_datasets/websrc/release/book/17/processed_data/1700231.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"How much do you need to buy the book \"Gangsta Granny\"?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "$14.99"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_351",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000082.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"Which game was released on 30 October 2012?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Borderlands 2 (Xbox 360)"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_355",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000005.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What game did Sam George make?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Ride 3 (PS4)"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_1050",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000089.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"On what date was Soulcalibur IV (Xbox 360) released?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "06 November 2010"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_1146",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000003.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is the morality score designated to Pinball FX3 Williams Pinball: Volume 4 (PS4)?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "84"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_1254",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000102.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"The Spiderwick Chronicles (PS2) was written by whom?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Jason Gress"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_1430",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000058.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"What are the game points for Penny-Punching Princess (Switch)?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "74"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_1648",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000024.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the overall game score for Dragon Ball Xenoverse (PS4)?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "84"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_1693",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000047.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What is the morality score designated to FUN! FUN! Animal Park (Switch)?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "96"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_1712",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000063.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"What is the morality score designated to Just Dance 2018 (Switch)?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "84"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_1766",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000100.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"Who is the author of Defense Dome (Wii U)?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Cheryl Gress"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_1948",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000098.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Where does Severed (Wii U) stand on the morality score?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "75"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_2255",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000059.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Which game had its release on 21 May 2018?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Tallowmere (Switch)"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_2330",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000055.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What was the release date for Drawful 2 (Switch)?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "20 October 2018"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_2567",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000005.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Outward (PS4) was written by whom?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "Cinque Pierre"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_2576",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000044.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What was the release date for Super Robot Wars V (Switch)?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "01 December 2019"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_3363",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000006.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"When was Prey (2017) (PS4) released?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "16 February 2019"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_3369",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000044.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What are the game points for PDP Nintendo Switch Pokemon Pokeball Commuter Case?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_3482",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000005.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"What was the release date for Earth Defense Force 5 (PS4)?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "25 March 2019"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_3796",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000027.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"The writer of Spacejacked (Switch) is?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "Sam George"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_4539",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000073.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"Super Street Fighter IV (PS3) had what morality score?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "74"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_4581",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000088.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Which game was released on the date of 09 December 2010?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "Rock Band 3 (Xbox 360)"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_4655",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000076.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What game did Nate DaZombie and JOJ650S make?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Bomberman: Act Zero (Xbox 360)"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_4679",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000028.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What score has Collar X Malice (Switch) get?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "86"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_4806",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000093.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"When was Grand Theft Auto IV (Xbox 360) released?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "29 September 2008"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_4816",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000037.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"The person who wrote Bubble Bobble 4 Friends (Switch) is?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Daniel Cullen"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_4866",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000087.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What game was made by the company ArcticFox?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Warhammer 40,000: Space Marine (Xbox 360)"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_5011",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000015.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"What morality score did Atelier Sophie: The Alchemist of the Mysterious Book (PS4)  get?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "86"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_5344",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000092.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Who is the author of Dead Space (Xbox 360)?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Drewsov"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_5530",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000022.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What game did Jason Gress produce?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "Earth Defense Force 4.1: The Shadow of New Despair (PS4)"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_5537",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000054.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What score has SNK 40th Anniversary Collection (Switch) get?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "84"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_5551",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000054.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What date was Marble It Up! (Switch) released on?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "28 November 2018"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_6285",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000031.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What was the release date for Code: Realize ~Future Blessings~ (Switch)?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "02 August 2020"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_6533",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000099.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"What is the morality score designated to Zelda: A Link To The Past (Wii U VC)?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "93"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_6554",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000032.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"Which game was released on 07 July 2020?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Darius Cozmic Collection Arcade (Switch)"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_3_6878",
+        "image": "data/raw_datasets/websrc/release/game/10/processed_data/1000042.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"Which game came out on 23 January 2020?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Super Robot Wars T (Switch)"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_4_626",
+        "image": "data/raw_datasets/websrc/release/game/12/processed_data/1200022.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Who developed the game\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "Capcom Pipeworks Software, Inc. Six Shooter Games LLC QLOC"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_4_677",
+        "image": "data/raw_datasets/websrc/release/game/12/processed_data/1200024.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"Who is the publisher for this game?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Ubisoft Entertainment"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_4_1256",
+        "image": "data/raw_datasets/websrc/release/game/12/processed_data/1200048.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Is this game in category Action?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_4_2063",
+        "image": "data/raw_datasets/websrc/release/game/12/processed_data/1200081.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"Who was responsible for publishing the game?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "Konami Imagine Software HAMSTER Corporation"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_4_2297",
+        "image": "data/raw_datasets/websrc/release/game/12/processed_data/1200090.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"The title of this game is?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "Darkened Skye"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_4_2302",
+        "image": "data/raw_datasets/websrc/release/game/12/processed_data/1200090.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"What date was this game released on?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "January 27, 2002"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_4_2545",
+        "image": "data/raw_datasets/websrc/release/game/12/processed_data/1200097.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Is this game in category Compilation?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_4_3287",
+        "image": "data/raw_datasets/websrc/release/game/12/processed_data/1200123.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Can I use my iPad to play the game?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_4_3530",
+        "image": "data/raw_datasets/websrc/release/game/12/processed_data/1200133.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Does the game is compatible with a GameCube?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_174",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100072.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the required experience for this job \"Senior Software Engineer - DevOps\"?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1 - 4 yrs."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_197",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100092.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"How many years of experience is needed for the job \"Petroleum Engineers To Be Placed in Canada\"?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "2 - 7 yrs."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_383",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100057.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"On what date job offer \"Full Stack Software Engineer,Software Developer\" posted?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "few days ago"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_734",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100078.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"Who is the job \"IOS Developer\" for?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Krishna Consultants"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_978",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100042.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What salary can I expect for the job \"Quality Engineer\"?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Rs 4.00 - 9.00 Lacs p.a."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_1281",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100089.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"What is the salary offered for the job \"Healthcare Administration Under PR Visa For Canada | New Zealand\"?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "Rs 40.00 - 70.00 Lacs p.a."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_1341",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100113.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"What about the experience for the job \"Operating System\"?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "5 - 10 yrs."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_1372",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100080.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"When was the job offer \"Online Web marketing for Tourism Company\" posted?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "a month ago"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_1385",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100050.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"How about the salary of the job \"B2B sales\"?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Rs 2.15 - 5.20 Lacs p.a."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_1483",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100067.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the experience requirement for the job \"Senior Software Engineer\"?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "4 - 9 yrs."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_1690",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100117.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"What is the experience is needed for the job \"Endpoint Management\"?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "5 - 10 yrs."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_2402",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100030.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"What is the salary offered for the job \"Junior .Net Developer, Senior .Net Developer\"?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Rs 4.00 - 8.90 Lacs p.a."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_2649",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100037.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the required experience for this job \"Network Applications Engineer,Network Engineer,Hardware Engineer\"?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "2 - 7 yrs."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_2764",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100081.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"How much salary can the job \"Hiring for Full Stack Developer\" get me?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Rs 3.00 - 6.50 Lacs p.a."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_3967",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100026.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"Where is the address of the job \"Graphic/web Designer\"?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Ahmedabad, Bengaluru / Bangal..."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_4125",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100010.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"For the job \"software engineer\", how much experience is required?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1 - 6 yrs."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_4140",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100018.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"How much experience is required for the job \"Senior Manager, Development Java, Cloud\"?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "12 - 17 yrs."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_4170",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100043.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many years of experience is needed for the job \"Telesales Executive\"?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "1 - 2 yrs."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_5_4551",
+        "image": "data/raw_datasets/websrc/release/jobs/11/processed_data/1100002.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What is the required experience for this job \"Hiring for Vue JS Developer/Vue .js Developer\"?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "1 - 4 yrs."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_6_156",
+        "image": "data/raw_datasets/websrc/release/movie/02/processed_data/0200136.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"What's the movie's name?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "Captain America: Civil War (En Espa\u00f1ol)"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_6_1103",
+        "image": "data/raw_datasets/websrc/release/movie/02/processed_data/0200145.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What's the name of the film?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "Teenage Mutant Ninja Turtles: Out of the Shadows"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_6_1378",
+        "image": "data/raw_datasets/websrc/release/movie/02/processed_data/0200079.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"This movie is what kind?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Action / Family / Kids"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_6_1399",
+        "image": "data/raw_datasets/websrc/release/movie/02/processed_data/0200061.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Is Keith Ferguson an actor?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_6_1735",
+        "image": "data/raw_datasets/websrc/release/movie/02/processed_data/0200169.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the title of the movie?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "The Way You Look Tonight"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_6_1772",
+        "image": "data/raw_datasets/websrc/release/movie/02/processed_data/0200056.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"When is it released?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2020"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_6_1958",
+        "image": "data/raw_datasets/websrc/release/movie/02/processed_data/0200150.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"The movie is how many minutes long?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "151 min."
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_6_2338",
+        "image": "data/raw_datasets/websrc/release/movie/02/processed_data/0200139.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"Is the director of the film Alfred Molina?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_6_4007",
+        "image": "data/raw_datasets/websrc/release/movie/02/processed_data/0200167.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What category does this movie belong to?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Comedy / Fantasy / Horror"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_112",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400003.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"How large is the ram?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "3GB/4GB"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_201",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400006.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"The charge in max can be fast as?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "10W"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_513",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400015.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What's the specs of the primary camera?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "16MP (f/1.7) + 20MP (f/2.6), 2X Zoom"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_665",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400019.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Can I expand the storage?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_666",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400019.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What's the model name of this phone?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Samsung Galaxy A20"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_787",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400024.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What's the dimension of this phone?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "154.8 x 75 x 7.9 mm"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_2071",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400061.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What is the size of the RAM?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "6GB/8GBLPDDR4x"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_2400",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400067.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"The price of this phone is?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "Rs 12,499"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_2537",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400069.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"The operating system this phone is?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "MIUI 11 based on Android Pie"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_2585",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400075.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"How powerful in terms of specs is the secondary camera?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "16MP with f/2.0 aperture"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_2717",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400078.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"What type of ufs is it using?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "UFS 2.1"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_3108",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400091.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"What is the size of this phone?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "142.5 x 69.3 x 8.1 mm"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_3136",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400091.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"The size of RAM of this phone is?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "3GB"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_3573",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400098.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"What kind of operating system does it run on?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Android Nougat 7.1.1"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_3651",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400100.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What's the specs of the primary camera?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "16MP, dual-tone flash, PDAF"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_3895",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400107.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"What operating system does it come with?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Android 8.1 Oreo-basedMIUI 10"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_4176",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400116.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What are the features for the second camera?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "16MP with f/2.0 aperture"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_4184",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400116.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"Which version of OS does the phone use?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Android 8.1 Oreo-based Oxygen OS, Compatible with Android P Preview"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_4565",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400130.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What does this phone weigh?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "155g"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_7_5232",
+        "image": "data/raw_datasets/websrc/release/phone/04/processed_data/0400144.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What is the specified model of this phone?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "Vivo Nex 3"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_51",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900100.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"8/4/1997 is which player's \"DOB\"?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Miye Oni"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_120",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900044.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What's the \"EXP\" of the player Jeremy Lamb?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_427",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900051.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Who holds the \"DOB\" of 6/19/1986?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Marvin Williams"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_507",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900012.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"220 is which player's \"WT\"?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Maurice Harkless"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_861",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900024.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What \"College\" does Matisse Thybulle hold?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Washington"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_895",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900090.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"SF is which player's \"POS\"?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Abdel Nader"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_1262",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900003.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What \"WT\" does Semi Ojeleye hold?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "240"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_1374",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900074.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is the \"NO\" of Shabazz Napier?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_1718",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900081.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"Who holds the \"EXP\" of 3?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Jamal Murray"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_1729",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900094.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"What's the \"DOB\" of the player Nassir Little?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "2/11/2000"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_2344",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900055.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"Who holds the \"College\" of Vanderbilt?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "Damian Jones"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_2788",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900077.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What's the \"WT\" of the player Will Barton?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "181"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_2929",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900025.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"What is the \"WT\" of Wendell Carter Jr.?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "270"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_3007",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900091.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What's the \"WT\" of the player Nerlens Noel?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "220"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_3422",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900064.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"Kentucky is which player's \"College\"?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Tyler Herro"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_3469",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900036.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"Who holds the \"College\" of ?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Ante Zizic"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_3683",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900099.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What is player Emmanuel Mudiay's \"POS\"?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "PG"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_3714",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900022.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Whose \"EXP\" is R?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Norvel Pelle"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_3752",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900040.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What is the \"AGE\" of Jordan McRae?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "29"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_3815",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900039.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"Who holds the \"NO\" of 5?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Luke Kennard"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_3938",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900037.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is Jordan Bone's \"College\"?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Tennessee"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_4278",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900094.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"What is player Damian Lillard's \"NO\"?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_4399",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900079.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"Who holds the \"POS\" of SG?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Troy Daniels"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_4763",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900099.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"What \"AGE\" does Georges Niang hold?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "27"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_5145",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900099.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"Denver; Baylor is which player's \"College\"?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Royce O'Neale"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_5729",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900025.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What's the \"DOB\" of the player Kris Dunn?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "3/18/1994"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_6157",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900014.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What's the \"WT\" of the player Dennis Smith Jr.?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "205"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_6392",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900031.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What \"WT\" does Darius Garland hold?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "192"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_6405",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900045.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Who has the \"WT\" as 218?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Naz Mitrou-Long"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_6485",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900009.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"6/19/1996 is which player's \"DOB\"?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Jeremiah Martin"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_6605",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900009.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Whose \"NO\" is 0?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Jeremiah Martin"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_6675",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900091.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Whose \"AGE\" is 35?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "Chris Paul"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_8_6908",
+        "image": "data/raw_datasets/websrc/release/sports/09/processed_data/0900017.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What \"WT\" does Serge Ibaka hold?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "235"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_245",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000113.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"In 2017, what was this player's Solo?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_454",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000017.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What is this 1998 player's COMP?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_486",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000033.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What is this 2019 player's Solo?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "37"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_666",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000005.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What's the \"RATE\" of this player in 2012?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "108"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_1417",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000021.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Can you identify the \"INT\" of this player in 2016?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_1541",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000094.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What is this 2016 player's OWN FR?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_1656",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000009.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"In 2006, what was this player's SCK?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "46"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_1725",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000003.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"For 2017, what 1st did this player have?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "55"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_1815",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000009.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"For 2004, what 20+ did this player have?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "43"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_2276",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000090.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"In 2018, what was this player's 20+?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_2315",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000012.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Which team did this player play for in 1999?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "St. Louis Rams"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_2757",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000013.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"What's the \"1st\" of this player in 2004?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "21"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_3032",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000124.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. I am trying to figure out the answer to the question \"Which team did this player compete for in 2017?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Philadelphia Eagles"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_3090",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000039.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"This player belonged to which team in 2020?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Denver Broncos"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_3315",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000087.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"For 2020, what PDEF did this player have?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_3448",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000045.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"This player belonged to which team in 2019?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "New York Giants"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_3701",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000045.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Which team did this player play for in 2019?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "New York Giants"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_4022",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000020.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What's the \"YDS\" of this player in 1967?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "4007"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_4221",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000045.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. You must extract the answer to the question \"What is this 2020 player's Solo?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_4427",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000013.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Label the REC of this player in 1993.\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "98"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_4463",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000087.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"What is this 2019 player's YDS?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "99"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_4528",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000028.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"In 2018, what was this player's TDS?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_4844",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000012.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What's the \"COMP\" of this player in 2001?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "375"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_4862",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000043.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage. Can you answer my question \"In 2015, what was this player's SCK?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_5155",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000040.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What team did this player suit up for in 2020?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Philadelphia Eagles"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_5347",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000097.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"Name the team that this player was a member of in 2018.\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Indianapolis Colts"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_6401",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000055.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"What's the \"20+\" of this player in 2017?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_7251",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000087.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the webpage document. Answer shortly the following question \"What's the \"YDS\" of this player in 2019?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "99"
+            }
+        ]
+    },
+    {
+        "id": "websrc_1_9_7302",
+        "image": "data/raw_datasets/websrc/release/sports/10/processed_data/1000008.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"For 2015, what TDS did this player have?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    }
+]

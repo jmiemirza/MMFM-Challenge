@@ -1,0 +1,2802 @@
+[
+    {
+        "id": "wtq_1_1_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_341.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"which is deeper, lake tuz or lake palas tuzla?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "Lake Palas Tuzla"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_2_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_706.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"what was the venue when he placed first?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "New Delhi, India"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_4_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_430.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"which model comes after m939 truck?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "M35 Truck"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_9_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_879.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"what was the total number of overall wins for harvard?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_9_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_879.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"when was the last time the event was held in minnesota?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "2007"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_11_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_634.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"what number of games did new zealand win in 2010?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_11_8",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_634.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"how many matches have been won by wales?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_11_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_634.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"in total throughout both teams' histories, did new zealand or wales win more union rugby matches?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "New Zealand"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_16_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_198.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"what is the only series listed in 2007-2008?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "A1 Grand Prix"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_17_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_89.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"how many teams have ford f-150 as their trucks?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_17_10",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_89.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"who is at the top of the list?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "Addington Racing"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_21_2",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_476.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"was no.1 or veteran built in 1847?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Veteran"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_23_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_956.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"how many voltes did romney get in harding county?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "327"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_24_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_336.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"how many trains were headed for harrisburg, pa?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_25_10",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_557.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"who was the last team they beat?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "Ottawa Senators"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_26_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_17.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"how many years are listed for howard ashman under the year column?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_28_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_346.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"when was the first friendly competition?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "21 October 2003"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_29_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"what province has the least population?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "Huelva"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_31_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_804.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"how long is the song remixed by y-front?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "5:20"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_32_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_592.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"how many shows won drama desk awards?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "53"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_33_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_202-csv_178.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"when was bobbie phillips first role in tv?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "1991"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_34_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_533.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"tell me province that drank more than 15 liters of wine.\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "Yukon"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_35_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_330.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"who finished earlier, hindoocraft or spokane?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "Spokane"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_36_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_583.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"what is the number of titles released by psikyo in 2004?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_36_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_583.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"how many games were released for the psp?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_36_10",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_583.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"which year had the most game releases?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "2004"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_38_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_39.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"which element is listed directly above copper?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "nickel"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_39_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_201-csv_27.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"who was thompson's secretary of state?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "John Costigan"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_40_2",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_793.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"which programming is played the most?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "RTV (WIVM-LD Simulcast)"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_41_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_593.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"tell me the total number of chairpersons.\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "21"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_44_10",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_443.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"how many games were played total in the 1995 season?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "16"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_50_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_761.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"how many nations did not receive any gold medals?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_50_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_761.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"which nation is the top nation in number of gold awards won?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "Germany"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_53_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_682.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"in what consecutive years did kevin grimes, unc serve as a defender?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "1988-1989"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_56_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_418.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"what is the number of players from the edinburgh kings?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_56_14",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_418.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"who is the least tallest player?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "Grant Gibson"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_57_10",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_287.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"how many programs are after the start of june?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_58_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_30.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"in which year were the most steam locomotives built?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "1898"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_58_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_30.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"what is the total number of preserved hunslet narrow gauge locomotives currently located in ffestiniog railway\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "554"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_59_2",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_420.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"what is the total number of people holm park can hold?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "3000"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_59_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_420.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"what is the difference between the stadium capacity at taylor's avenue and the stadium capacity at dixon park?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "667"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_61_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_146.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"what home team is above gloucester city?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Farnborough Town"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_63_12",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_64.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"what is the population difference between lusaka and star diamond mine?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "5898"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_69_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_726.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"how many years has stanford been national champion?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_72_2",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_448.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"what team has won twice but has been runner-up 5 times?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "Arsenal"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_75_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_297.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"how many countries had at least 2 total medals?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_75_12",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_297.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"how many countries earned at least one silver medal?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_76_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_707.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"what was the next movie zhao dan starred in after crossroads?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "Far Away Love"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_77_2",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_24.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"were they league champions at least 5 times?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_78_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_200-csv_35.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"which party, democratic or republican, has a better ratio of active to inactive voters?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "Democratic"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_79_2",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_151.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"how many games did the harrisburg heat lose to the cleveland freeze in total.\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_79_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_151.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"how many times did the team play at home but did not win?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_79_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_151.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"which opponent is listed first in the table?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "Detroit Waza"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_80_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_439.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"their final points is equal to 15\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Jack Milne"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_82_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_897.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"how many games were played at the ben hill griffin stadium during the 2010-2011 season?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_83_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_104.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"which opera has at least 5 acts?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Il Giustino"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_84_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_893.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"how many runners in the 2002 european athletics indoor championships completed the men's 3000 metres event in under 8 minutes?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_84_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_893.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"how many athletes had times that were at least 8 minutes?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_88_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_906.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"which song came before grand groove on the album?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "\"Funk Mode\""
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_88_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_906.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"what is the total number of titles listed?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "16"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_88_11",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_906.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"how many titles did k-def produce?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "9"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_90_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_460.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"which player has his high checkout as 116?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "Colin Osborne"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_94_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_663.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"mel berry scored the same amount of points as which other english competitor?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Georgia Stevens"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_94_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_663.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"how many of the top ten women from the 2007 women's six nations championship played for england\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_95_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_108.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"how many sections intersect highway 2?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_95_2",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_108.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"which location comes after kfar yona?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "Haniel"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_96_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_514.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"how many of these attacks lasted at least 2 days?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_96_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_514.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"how many people were killed in total in the attacks in 1973 and 1974?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "90"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_96_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_514.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"what is the number of people hurt on april 2,1986?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_96_13",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_514.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"which had the most pax.?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "27 June 1976"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_98_10",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_200.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"who was louisville's coach, dean smith or denny crum?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "Denny Crum"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_100_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_426.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"what is the lowest place they came in\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "5th"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_100_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_426.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"what was the last year they were 5th?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "2010"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_103_7",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_234.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"which country had the larger death tole?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "Poland"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_104_7",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_193.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"what comes before donny hathaway\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Les McCann"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_104_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_193.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"count the number of number one records (on any chart) that gene paul has engineered after 2000.\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_106_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_630.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"which type of medal does belarus not have?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "Silver"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_112_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_200-csv_32.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"in what year did the muncie flyers have an undefeated record?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "1910"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_112_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_200-csv_32.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"name one of the coaches for the muncie flyers.\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "Earl Ball"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_116_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_622.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"which player was not a free agent?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "Dikembe Mutombo"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_120_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_689.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"the least amount of points scored by phoenix during the season is...\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "67"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_121_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_623.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"what is the average number of losses for the first three on the list?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_122_8",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_648.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"tell me the total number of volumes published in 2008.\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_126_8",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_77.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"name a train that was built after ss&iw 's.\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "M-300"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_128_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_121.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"what game is listed before dodgy dealer in 1984?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Oil Barons"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_128_12",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_121.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"what are the total number of times ccs is listed as the developer?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_129_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_330.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"how many more seats were available in 1975 than 1963?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "17"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_129_12",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_330.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"year with largest number of candidates selected\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "1990"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_132_2",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_659.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"what is the difference in majority between hindmarsh and hinkler?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "01.9"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_133_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_778.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"how many total representatives have there been?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "50"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_135_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_76.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"what is the number of toyota's on the list?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_135_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_76.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"who was the first driver to finish in a car made by sauber-petronas?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Felipe Massa"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_135_11",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_76.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"how many finished more than a lap behind the winner?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_136_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_228.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"which songwriter is credited with the largest number of songs?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "O. Credle"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_137_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_276.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"what label was she working with before universal music?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "B'in Music"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_141_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_420.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"last song of the year to chart in the top ten\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "\"Return\""
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_143_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_889.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"what was the song choice after week 5?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "\"DJ Got Us Fallin' in Love\""
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_143_8",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_889.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"which was the first song he performed that was originally a beatles song?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "\"Can't Buy Me Love\""
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_150_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_178.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"which route was eliminated first?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "U.S. Route 630"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_151_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_131.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"what is the number of class 08 models whos voltage is 90 v\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_151_7",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_131.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"how many designs have a weight of at least 45?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "14"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_151_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_131.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"how many design variations have an electrical system of at least 110 v?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_153_13",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_261.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"which nation has the highest amount of gold medals?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "Russia"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_155_11",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_466.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"name a player on the same team as marie dorin.\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Marie-Laure Brunet"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_161_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_311.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"how many countries total only received one bronze medal in the 1987 championship?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "11"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_162_8",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_88.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"where there at least two titles in 1991?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_162_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_88.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"name a year that had at least 4 things released.\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "1996"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_164_8",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_191.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"what was the only award in 1994?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Best actor"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_164_10",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_191.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"before tetouan international mediterranean film festival, when's the last time he won an award?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "2007"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_166_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_498.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"in what year was the last design of passenger baseplates for vehicle registration issued in vermont?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "1985"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_169_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_136.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"who won two years after the uk?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "Israel"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_177_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_960.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"other than mecklenburg which county has the largest population?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "Wake County"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_180_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_202-csv_287.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"which parameter has the most number of doors per car per side?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "EW58"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_181_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_651.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"what was the total number of points scored in this player's first two games of this season?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "17"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_182_7",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_872.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"which year has the most buildings listed?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "1974"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_183_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_481.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"how many players are older than cyril guittet?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "12"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_183_14",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_481.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"who many players were on the 2013/2014 squad?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "18"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_192_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_922.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"did panama receive more gold medals than peru in taekwondo at the 2013 bolivarian games?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_193_11",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_169.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"what is the difference in time for petar popangelov in race 1and 2\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "3.94"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_194_8",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_258.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"what is the next call sign listed after kdsu?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "KUND-FM"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_194_11",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_258.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"what are the number of stations grand forks have?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_195_7",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_267.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"what song is the longest?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Yarum Ariya"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_199_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_42.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"is the vista more than the aspect?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_199_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_42.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"how many models are available in lengths longer than 30 feet?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_201_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_810.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"did will.i.am or talib kweli produce \"a dream\"?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "will.i.am"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_201_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_810.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"on how many songs is m. isham listed as a songwriter?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_202_12",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_187.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"the top team had how many bids?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_205_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_563.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"how many districts are tampere but have only one cup?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_205_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_563.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"was tampere the district featured the most?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_207_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_122.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"how many countries are listed?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_211_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_609.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"what was its best starting position?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_214_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_732.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"how many consecutive years did the christian social people's party get over 30% of the votes?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_214_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_732.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"in which year was there the same decrease in seats as the decrease in seats in the year 1948?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "1989"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_215_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_618.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"tell me the total number of goals in the playoffs and concacaf champions leage.\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_216_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_503.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"how many times did imma clopes compete?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_218_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_163.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"what is the difference between the time air uganda commenced operations and skyjet airlines commenced operations?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "4 years"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_218_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_163.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"what was the name of the only airline that commenced operations in 2005?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Royal Daisy Airlines"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_220_2",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_282.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"previous to july 6, 2004 what is the highest prize money?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "\u00a356,760.56"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_221_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_341.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"team that won before mazowszanka pekaes pruszk\u00f3w\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "\u015al\u0105sk Eska Wroc\u0142aw"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_223_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_135.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"which institution began with the most enrollment?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "Savannah College of Art and Design at Atlanta"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_223_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_135.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"which aac school has the most students?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "Savannah College of Art and Design at Atlanta"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_228_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_219.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"oliveira walewska has the same block as how many other players?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_230_10",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_829.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"how many buildings are on water street?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_231_8",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_226.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"which batter has the most runs?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "Anthony McGrath"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_232_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_89.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"how many governors did the union of south africa go through during the reign of george v?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_234_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_490.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"how many losses did the southern miss golden eagles football team have in 1990?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_234_8",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_490.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"which 1990 southern miss golden eagles football game had the most people in attendance?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "November 10"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_236_2",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_835.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"how many swimmers finished in less than 1:55?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_236_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_835.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"how long did it take ryosuke irie to finish?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "1:55.72"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_236_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_835.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"how many names are listed?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_236_10",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_835.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"what is the number of nationality represented by the eight swimmers?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_237_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_661.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"which album had the single automatic?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Losing Streak"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_239_8",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_814.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"who served the top number of years as head coach?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "Marty Brill"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_240_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_790.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"how many games had less than 30,000 people in attendance?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_242_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_679.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"which year had the least amount of parts published?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "2008"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_244_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_485.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"how many total television shows has gauri starred in?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "12"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_247_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_51.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"how many private owned channels are there?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_249_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_90.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"what is the number of racers ethiopia had finish in the top 5?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_250_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_813.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"what is the difference between mckoy's longest and shortest javelin throws?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "24.73"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_250_10",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_813.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"where was the location of the last venue held?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Guadalajara, Mexico"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_251_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_318.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"what was the date of the game played before august 10 2004.\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "7 August 2004"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_251_10",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_318.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"how many games were played before november?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "14"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_252_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_646.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"name a city with more than 400,000 people.\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "Arequipa"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_253_12",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_755.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"how many games were attended by at least 45000 people?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "12"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_257_11",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_507.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"otto zimmermann and which other player had a qualifying score of 2.5?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Dawid Daniuszewski"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_259_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_415.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"in season 1996/97 was the place above or below 10th?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Below"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_259_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_415.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"what was the team's best season?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "1995/96"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_260_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_344.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"who was the first team to beat the 1987 chicago cubs in august?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "Pirates"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_266_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_978.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"how many goals does zolt\u00e1n kiss have?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_266_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_978.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"which athlete came in first?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "Gergely Rudolf"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_267_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_47.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"what is the total number of doubles tournaments stephanie has won?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_268_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_196.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"what is the number of titles in which the surface played on was carpet?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "9"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_268_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_196.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"prior to 1969 when was the previous wimbledon won?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "1968"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_271_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_410.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"what was the average combined score in february, 2009?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "22.4"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_271_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_410.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"which month had the least amount of games?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "March"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_274_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_766.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"is the distance of meters longer in the first event or the third event?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "third"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_275_13",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_628.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"what was the name of the last trial on december 1?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "Scareoke"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_276_3",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_547.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"how many lanes were there?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_277_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_868.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"how many games did this player play in 2011?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_278_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_537.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"how long does a chromic catgut maintain it's strength for\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "10-14 days"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_280_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_982.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"name a party that got, at most, 2% of the votes.\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "Autonomist Party of Corrientes"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_283_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_965.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"what is the difference in foundation date between cusco and motul?\" after reading and comprehending the document.\nAnswers can be either a specific span of the document or a numerical value (such as \"2,\" \"2.5,\" \"2%,\" etc.). Numerical questions require counting or summing  values."
+            },
+            {
+                "from": "gpt",
+                "value": "50 years"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_284_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_401.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"how long did it take elin backman to finish the race?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "24.13"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_285_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_637.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"what is the total number of garratts produced in 1911?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_286_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_213.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"which month had the most number of losses on the road?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "January"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_286_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_213.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"what is the top month on the list?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "October"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_288_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_173.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"how many shows did he play someone else?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_288_10",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_173.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"which shows was he the host of?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "Shaitaan - A Criminal Mind"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_291_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_201-csv_49.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"during what month are the highest temperature records at bari karol wojtyla airport?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "August"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_292_8",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_964.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"what team has the same number of seasons as the blackhawks?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "New York Rangers"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_301_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_650.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. There is some text on the image. Provide your short answer to the question \"what is the name of the first category listed on this chart?\" based on the document.\nThe answer type can be divided into following types:\n- Directly extract the words from the document\n- Calculating the values in the document"
+            },
+            {
+                "from": "gpt",
+                "value": "Best Romantic Movie"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_308_6",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_747.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"in how many seasons did david nedohin play?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "12"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_308_9",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_747.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"who was the lead before pat mccallum?\" with a short answer based on the content of the document. \nAnswers contain either:\n- a span inside of document\n- a number (for example \"2\", \"2.5\", \"2%\" etc.). For example, there are questions asking for count of something or cases where answer is sum of values."
+            },
+            {
+                "from": "gpt",
+                "value": "Doug Armstrong"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_309_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_790.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"what was the difference in points scored between the two teams in 1996?\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_309_10",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_790.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"when is the last time the bears lost to northern colorado?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "2002"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_315_4",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_191.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. Answer shortly the following question \"which artist is listed next after charles grafly?\" based on the document. \nThe answer to the question is a word span from the document or number."
+            },
+            {
+                "from": "gpt",
+                "value": "Adolfo Nesti"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_320_0",
+        "image": "data/raw_datasets/wtq/jpgs/csv_204-csv_429.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"what is the number of battles that took place in 1836?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_322_2",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_57.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the table. I am trying to figure out the answer to the question \"largest victory\".  I found the following the document has the answer. Can you tell me the short answer?\nYou can select the following types:\n- The answer is a piece of contiguous text from the document.\n- The answer is a number, which is obtained by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "7-1"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_329_5",
+        "image": "data/raw_datasets/wtq/jpgs/csv_202-csv_122.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"what was the highest-grossing movie in the us in 1987?\" based on the content of the given document.\nThe answer for a question can be following types:\n1. Answer is a piece of contiguous text from the document.\n2. Answer is a number. The number is basically calculated by counting or summing the items."
+            },
+            {
+                "from": "gpt",
+                "value": "Three Men and a Baby"
+            }
+        ]
+    },
+    {
+        "id": "wtq_1_331_1",
+        "image": "data/raw_datasets/wtq/jpgs/csv_203-csv_801.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"what is the number of cup attempts listed here?\" by finding the evidence on the document?\nAnswers contain either:\n- a span inside of document\n- not exist explicitly as span of document (the answer should be freely generated text)"
+            },
+            {
+                "from": "gpt",
+                "value": "19"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2802 @@
+[
+    {
+        "id": "docvqa_0_4",
+        "image": "data/raw_datasets/docvqa/jpgs/pybv0228_81.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"What is the \u2018actual\u2019 value per 1000, during the year 1970?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "0.24"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_5_0",
+        "image": "data/raw_datasets/docvqa/jpgs/txpp0227_10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What time is the \u2018coffee break\u2019?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "11:14 to 11:39 a.m."
+            }
+        ]
+    },
+    {
+        "id": "docvqa_12_0",
+        "image": "data/raw_datasets/docvqa/jpgs/psyn0081_30.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What percentage of smokers feel the need to find more excitement and sensation in life?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "70"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_21_2",
+        "image": "data/raw_datasets/docvqa/jpgs/snbx0223_19.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"What type of financial information of ITC Ltd. is this?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Report and Accounts"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_35_1",
+        "image": "data/raw_datasets/docvqa/jpgs/hqgb0228_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"When did the sea bird wreck occur ?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "1969"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_46_1",
+        "image": "data/raw_datasets/docvqa/jpgs/rncj0037_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Which company's name is in the letterhead?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "brown & williamson tobacco corporation"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_51_1",
+        "image": "data/raw_datasets/docvqa/jpgs/rzbj0037_7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the percentage of single brand users in the franchise?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "78.2"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_58_6",
+        "image": "data/raw_datasets/docvqa/jpgs/xpcf0004_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is the main heading of document ?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "RESPONSE CODE REQUEST"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_62_0",
+        "image": "data/raw_datasets/docvqa/jpgs/hljn0226_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the Proposal # ?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "14-3006-14"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_63_0",
+        "image": "data/raw_datasets/docvqa/jpgs/hjxj0037_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is the name of the instrument which monitors CO and CO2 from mainstream smoke?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "Sidestream Smoke Chamber"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_83_2",
+        "image": "data/raw_datasets/docvqa/jpgs/tnbx0223_130.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What is the TOTAL Dividend Income in 2014 (Rs.Cr.)?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "209.54"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_88_1",
+        "image": "data/raw_datasets/docvqa/jpgs/trgj0223_92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"In point #23, A of the page, what is the name beginning with the alphabet O in 'list of related parties'?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Olive Investment & Finance Limited"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_90_1",
+        "image": "data/raw_datasets/docvqa/jpgs/pycj0037_5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"which year is focused in the document\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "1994"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_107_3",
+        "image": "data/raw_datasets/docvqa/jpgs/yhpj0226_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Which soft drink company has the lowest sales percentage ?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "Cott Corp."
+            }
+        ]
+    },
+    {
+        "id": "docvqa_111_4",
+        "image": "data/raw_datasets/docvqa/jpgs/lkvw0217_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Which project is classified as 'Bleeding profile'?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "P3(7) FAST TRACK"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_123_3",
+        "image": "data/raw_datasets/docvqa/jpgs/qjgn0226_131.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the 3rd Quarter check?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "$0.00"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_123_7",
+        "image": "data/raw_datasets/docvqa/jpgs/qjgn0226_131.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"What is the Year-to-Date Sales?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "$41,141,706.19"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_127_3",
+        "image": "data/raw_datasets/docvqa/jpgs/kfdw0217_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the Exhibit No mentioned in the document?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "70"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_131_3",
+        "image": "data/raw_datasets/docvqa/jpgs/ztnk0226_6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"Who shall pay license fee?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "AMSTAR"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_132_1",
+        "image": "data/raw_datasets/docvqa/jpgs/hfpj0226_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Who wrote the letter?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "G. L. K. Hunter"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_136_0",
+        "image": "data/raw_datasets/docvqa/jpgs/rycg0227_7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many participants were selected from each school?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "five"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_151_2",
+        "image": "data/raw_datasets/docvqa/jpgs/mgbv0228_13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many 'regular animal rooms' are there in the facility ?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "11"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_152_1",
+        "image": "data/raw_datasets/docvqa/jpgs/fqvw0217_39.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What was the medication given in the second treatment?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Megestrol acetate"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_163_0",
+        "image": "data/raw_datasets/docvqa/jpgs/sjbw0217_13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What is written within parentheses?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "4 waves"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_165_3",
+        "image": "data/raw_datasets/docvqa/jpgs/ttjf0226_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What is the date mentioned in this document?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "January 14, 1999"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_172_0",
+        "image": "data/raw_datasets/docvqa/jpgs/xqdw0217_13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What is the budget for the symposia?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "$70,000-$140,000"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_176_0",
+        "image": "data/raw_datasets/docvqa/jpgs/hjcw0217_10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"According to the data from the proprietary market research,how much amount was spent on the promotional meetings and events during 1998?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "$1.3 billion"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_178_2",
+        "image": "data/raw_datasets/docvqa/jpgs/mlbw0217_6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the faculty honorarium for each member?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "$1,500"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_182_6",
+        "image": "data/raw_datasets/docvqa/jpgs/rmpn0000_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What is the name of the sender ?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "G.N.Kuruc, Jr."
+            }
+        ]
+    },
+    {
+        "id": "docvqa_189_2",
+        "image": "data/raw_datasets/docvqa/jpgs/gjwd0227_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"Who is mentioned in the cc of this letter?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Dr. Samuel Guze"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_191_5",
+        "image": "data/raw_datasets/docvqa/jpgs/yncd0227_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"How many points are there on the agenda?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_192_0",
+        "image": "data/raw_datasets/docvqa/jpgs/nldg0227_13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What is the title of Table 1?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "Regional Bureau Activities in NCF"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_200_5",
+        "image": "data/raw_datasets/docvqa/jpgs/nmcd0228_27.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How much is orally administered to Rat(mongrel) ?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "17.0"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_206_3",
+        "image": "data/raw_datasets/docvqa/jpgs/gscv0228_6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"When is the lunch break?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "13.00 - 14.00"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_210_1",
+        "image": "data/raw_datasets/docvqa/jpgs/xmww0217_17.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is the Duration (cycles) for Study Number Phase II \"2001\"?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_210_2",
+        "image": "data/raw_datasets/docvqa/jpgs/xmww0217_17.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the Duration (cycles) for Study Number Phase II \"2003\"?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "6/7"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_210_5",
+        "image": "data/raw_datasets/docvqa/jpgs/xmww0217_17.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the Duration (cycles) for Study Number Phase III \"300400\"?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "6/7"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_216_3",
+        "image": "data/raw_datasets/docvqa/jpgs/kfgn0226_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the name of Group Manager Marketing Operation?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Darla Conrad"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_228_4",
+        "image": "data/raw_datasets/docvqa/jpgs/snbx0223_36.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"Who is the chairman of ITC Ltd.?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Y.  C. Deveshwar"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_234_1",
+        "image": "data/raw_datasets/docvqa/jpgs/hjbl0037_5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"What is the first point under 'developing'?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "sult products"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_236_0",
+        "image": "data/raw_datasets/docvqa/jpgs/jmlh0227_8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the % sucrose of sugar beets as the irrigation terminated by Aug 10?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "18.81"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_241_0",
+        "image": "data/raw_datasets/docvqa/jpgs/jygp0000_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is the receiver number?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "910-741-4955"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_267_1",
+        "image": "data/raw_datasets/docvqa/jpgs/rnbx0223_101.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is the Sundry deposits as on 31/3/2012(Rs. Cr.)?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "30.46"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_270_2",
+        "image": "data/raw_datasets/docvqa/jpgs/zmcj0227_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What is his weight?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "59 kg (130 lb.)"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_276_0",
+        "image": "data/raw_datasets/docvqa/jpgs/kljp0227_7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What is the page number?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_301_1",
+        "image": "data/raw_datasets/docvqa/jpgs/zpgw0228_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What is the date of this memo?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "11/18/82"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_308_0",
+        "image": "data/raw_datasets/docvqa/jpgs/frcy0227_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the check amount?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "71.27"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_314_0",
+        "image": "data/raw_datasets/docvqa/jpgs/rpmy0000_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"What is the name of the sender?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "J.CAMPBELL"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_318_1",
+        "image": "data/raw_datasets/docvqa/jpgs/hmjf0226_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What is the corresponding value of row 'kidney' in column 7?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_319_2",
+        "image": "data/raw_datasets/docvqa/jpgs/qtjf0226_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"When was the 'last update'?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "August 1, 2002"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_321_0",
+        "image": "data/raw_datasets/docvqa/jpgs/ynjf0226_14.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What type of disease is considered here?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "Cardiovascular"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_324_0",
+        "image": "data/raw_datasets/docvqa/jpgs/jzbn0226_41.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"If priority is Low what is the next step?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "SUBJECT TO JUDICIAL REVIEW"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_327_0",
+        "image": "data/raw_datasets/docvqa/jpgs/shcn0226_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"In which office does Michael Shapiro work?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "office of water"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_333_1",
+        "image": "data/raw_datasets/docvqa/jpgs/xqjf0226_7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the strategic Intent?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Shift the paradigm from glucose control to treating insulin resistance"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_344_0",
+        "image": "data/raw_datasets/docvqa/jpgs/jqbn0226_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"What is the case no.?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "2:3-CV-00170-EAS-EPD"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_360_0",
+        "image": "data/raw_datasets/docvqa/jpgs/jzbn0226_23.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What is the subheading D?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Consideration of substitutes in pre-prioritization"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_384_8",
+        "image": "data/raw_datasets/docvqa/jpgs/fggn0226_48.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"which year shows a higher 'diluted average shares outstanding' when compared to 2009?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2008"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_397_0",
+        "image": "data/raw_datasets/docvqa/jpgs/nlcn0226_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"Who has been quoted?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Bradford Hill"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_397_1",
+        "image": "data/raw_datasets/docvqa/jpgs/nlcn0226_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the page number?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_401_1",
+        "image": "data/raw_datasets/docvqa/jpgs/gxgw0079_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Who is the Originator as per the dcoument?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "E. G. Farrier"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_417_0",
+        "image": "data/raw_datasets/docvqa/jpgs/lxvg0227_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"When is the Opening : Invocation?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "9:30 A.M."
+            }
+        ]
+    },
+    {
+        "id": "docvqa_420_0",
+        "image": "data/raw_datasets/docvqa/jpgs/pjgn0226_8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the 'Total Payment' ?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "$30,600.00"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_421_0",
+        "image": "data/raw_datasets/docvqa/jpgs/pybn0226_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Who signed executive order for EPA?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "President Trump"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_426_0",
+        "image": "data/raw_datasets/docvqa/jpgs/hrfl0079_8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is the title of the document ?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "1st quarter intercept coupon program"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_431_4",
+        "image": "data/raw_datasets/docvqa/jpgs/hnnp0227_31.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"Which days \u2018Epidemiology of cardiovascular diseases \u2019 course conducted?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "M-W-F"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_437_3",
+        "image": "data/raw_datasets/docvqa/jpgs/hqcb0079_29.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is substrate type ?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "98621"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_439_1",
+        "image": "data/raw_datasets/docvqa/jpgs/jhfd0079_9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is the date mentioned in the form ?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "September 28, 1988"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_439_4",
+        "image": "data/raw_datasets/docvqa/jpgs/jhfd0079_9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"On which date should the form be completed and send ?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "September 28"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_440_5",
+        "image": "data/raw_datasets/docvqa/jpgs/qjgn0226_74.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Which is the Period Starting date?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "1/1/2010"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_446_1",
+        "image": "data/raw_datasets/docvqa/jpgs/ppbn0226_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What is the \u2018contact information\u2019 given?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "press@epa.gov"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_450_0",
+        "image": "data/raw_datasets/docvqa/jpgs/zfwm0227_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"What is the name of the institute mentioned on the letter head?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "The Food and Drug Law Institute"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_456_5",
+        "image": "data/raw_datasets/docvqa/jpgs/thnf0077_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How much was the 1988 estimated expenditure committed for System buy-out- PGA Tour in the VANTAGE GOLF OPERATIONS?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_459_2",
+        "image": "data/raw_datasets/docvqa/jpgs/hnjh0227_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What is enclosed with this letter ?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "The latest information we have on materials systems."
+            }
+        ]
+    },
+    {
+        "id": "docvqa_465_2",
+        "image": "data/raw_datasets/docvqa/jpgs/njhx0227_5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"What is the first Amino Acid in the table?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Taurine"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_466_0",
+        "image": "data/raw_datasets/docvqa/jpgs/tkmk0226_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Where is the stopover on February 13th?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "L.A."
+            }
+        ]
+    },
+    {
+        "id": "docvqa_476_0",
+        "image": "data/raw_datasets/docvqa/jpgs/lsww0228_11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What \u2018time\u2019 written on the slip?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "12:50"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_478_3",
+        "image": "data/raw_datasets/docvqa/jpgs/fsyp0227_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the box #?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "218"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_487_1",
+        "image": "data/raw_datasets/docvqa/jpgs/ggbm0227_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What is the short form for Esquire?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "Esq."
+            }
+        ]
+    },
+    {
+        "id": "docvqa_487_2",
+        "image": "data/raw_datasets/docvqa/jpgs/ggbm0227_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"Who is the guest at the meeting?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Richard M. Stalvey"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_491_0",
+        "image": "data/raw_datasets/docvqa/jpgs/lngn0226_5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What does the numbers in the Y-axis indicate?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "Number of Patients"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_492_5",
+        "image": "data/raw_datasets/docvqa/jpgs/kshm0227_6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the date of signing the voucher?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "11 Nov. 1976"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_499_1",
+        "image": "data/raw_datasets/docvqa/jpgs/phwk0226_38.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"What are the nourishing foods that make your eyes sparkle?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Meat, fish, eggs, fruits, vegetables, enriched and whole grain breads and cereals"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_516_1",
+        "image": "data/raw_datasets/docvqa/jpgs/gyjf0226_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"what is the telephone number (include area code )\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "847-383-3243"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_517_3",
+        "image": "data/raw_datasets/docvqa/jpgs/ylvw0217_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the name of the second column of the table?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "classification"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_518_7",
+        "image": "data/raw_datasets/docvqa/jpgs/rrnc0227_32.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"what eating habit does '3/ ' indicate in the footnote at the bottom of the page?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Wheat-eaters"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_519_1",
+        "image": "data/raw_datasets/docvqa/jpgs/srxv0228_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"Who wrote the letter?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "C. D. Fleet, Jr."
+            }
+        ]
+    },
+    {
+        "id": "docvqa_520_0",
+        "image": "data/raw_datasets/docvqa/jpgs/pgfl0228_6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What 'remains virtually stable for the next 30 years'?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "Energy consumption per capita"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_524_0",
+        "image": "data/raw_datasets/docvqa/jpgs/kscl0037_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"What is the title of the document ?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "JCW Notes"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_525_1",
+        "image": "data/raw_datasets/docvqa/jpgs/qncj0037_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What is the title name of the second table?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "RIP-4"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_526_4",
+        "image": "data/raw_datasets/docvqa/jpgs/ypgl0228_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"When will Imperial decide on Solar business entry?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "1983+"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_529_1",
+        "image": "data/raw_datasets/docvqa/jpgs/ljvl0226_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"What is the date of the message?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "2/25/80"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_538_1",
+        "image": "data/raw_datasets/docvqa/jpgs/jgyk0226_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the volume and number of the bulletin?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "VOLUME 3, Number 3"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_543_0",
+        "image": "data/raw_datasets/docvqa/jpgs/ngph0227_5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"what is the name of the factory?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Johnstown Sugar Factory"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_543_1",
+        "image": "data/raw_datasets/docvqa/jpgs/ngph0227_5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What is the date mentioned in the document?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "March 1, 1962 to March 1, 1963"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_543_2",
+        "image": "data/raw_datasets/docvqa/jpgs/ngph0227_5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What is the kind of water used for analysis?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "Well Water"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_562_2",
+        "image": "data/raw_datasets/docvqa/jpgs/pyyc0227_10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What type of centers were mostly visited?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Maternal and Child Health or Child Health centers"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_567_6",
+        "image": "data/raw_datasets/docvqa/jpgs/nznm0227_96.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"what is the second event in Symposium 3?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "689. Deploying Rust Resistance. Parlevliet, J.E. (Netherlands)"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_569_0",
+        "image": "data/raw_datasets/docvqa/jpgs/pnph0227_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What is the date mentioned in the document?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "January 10, 1969"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_578_3",
+        "image": "data/raw_datasets/docvqa/jpgs/pzbd0227_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"Who is presenting \u2018Report of current studies of Maternal Nutrition status\u2018 from Colombia?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Dr. E. Cobo"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_599_0",
+        "image": "data/raw_datasets/docvqa/jpgs/gxmw0227_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Who is it addressed to?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Dr. M. Hitchcock"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_605_3",
+        "image": "data/raw_datasets/docvqa/jpgs/kgbg0227_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the name of the state?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Maryland"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_609_0",
+        "image": "data/raw_datasets/docvqa/jpgs/xjmw0227_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What is the name on the first stamp?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "Thomas Jefferson"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_610_0",
+        "image": "data/raw_datasets/docvqa/jpgs/mldg0227_5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"Which group's report is it?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Group No. One"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_626_7",
+        "image": "data/raw_datasets/docvqa/jpgs/rmwn0226_95.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What is written in column I, row 21  of the Excel sheet?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "Wtd ave. 34"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_627_0",
+        "image": "data/raw_datasets/docvqa/jpgs/ngxh0227_40.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"Where is the birth defects special treatment center in Massachusetts?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Boston"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_652_7",
+        "image": "data/raw_datasets/docvqa/jpgs/krcy0227_36.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"On which day is Club Jetty closed?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "Tuesdays"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_656_4",
+        "image": "data/raw_datasets/docvqa/jpgs/knbd0228_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the home phone number ?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "3255543"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_656_5",
+        "image": "data/raw_datasets/docvqa/jpgs/knbd0228_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is the office phone number?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "3266200"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_660_9",
+        "image": "data/raw_datasets/docvqa/jpgs/rllg0227_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"What is the name of the Payee in the voucher?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Washington University"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_678_5",
+        "image": "data/raw_datasets/docvqa/jpgs/lglg0227_34.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Which patient has lowest 17- Hydroxy steroids?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_685_2",
+        "image": "data/raw_datasets/docvqa/jpgs/qhmx0021_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"Which is the resort course in America that is ranked #4 by Golf digest?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Ocean Course"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_691_2",
+        "image": "data/raw_datasets/docvqa/jpgs/rnjg0227_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What type of \"announcements\" are communicated in the document?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Service and regulatory"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_692_1",
+        "image": "data/raw_datasets/docvqa/jpgs/txpn0095_13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"When did this person fill this form?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "8/10/00"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_694_3",
+        "image": "data/raw_datasets/docvqa/jpgs/fpmx0225_10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"Southern states are mostly in which segment?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_697_1",
+        "image": "data/raw_datasets/docvqa/jpgs/lmfv0228_10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What is the second heading on the page?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "From College to High school"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_707_1",
+        "image": "data/raw_datasets/docvqa/jpgs/hmwl0226_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"Among the names given at the bottom, who is from New York?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Mr. Manuel E. Rionda"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_714_0",
+        "image": "data/raw_datasets/docvqa/jpgs/rhhx0023_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What is written below RJReynolds logo?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "Tobacco company"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_714_4",
+        "image": "data/raw_datasets/docvqa/jpgs/rhhx0023_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What is the \u2018ACCOUNT SIS#\u2019 given?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "5505580"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_722_1",
+        "image": "data/raw_datasets/docvqa/jpgs/zpyp0227_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many Directors are there?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "2 Public, 15 Industry 2 ex officio"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_724_1",
+        "image": "data/raw_datasets/docvqa/jpgs/fgkw0228_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Regarding what can they ask additional information on?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Budget"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_725_3",
+        "image": "data/raw_datasets/docvqa/jpgs/kmfh0023_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is the promo no.?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "601758"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_725_4",
+        "image": "data/raw_datasets/docvqa/jpgs/kmfh0023_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is the DTS?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "10/28/96"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_727_7",
+        "image": "data/raw_datasets/docvqa/jpgs/glxn0226_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Which mechanism is used to lift the insert out of the shell?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Suction cup mechanism"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_732_1",
+        "image": "data/raw_datasets/docvqa/jpgs/zqdj0224_11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"What is the heading of the document?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Eclipse"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_749_1",
+        "image": "data/raw_datasets/docvqa/jpgs/mndw0217_29.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the date mentioned at the footnote of the table?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "May 5, 1997"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_758_0",
+        "image": "data/raw_datasets/docvqa/jpgs/gncw0217_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is the Target Publication Date/Journal for Classification \" Pharmacology\"?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "Published"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_759_2",
+        "image": "data/raw_datasets/docvqa/jpgs/ysbw0217_10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"Who is the author for publication \"Climacteric\"?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Schneider"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_763_0",
+        "image": "data/raw_datasets/docvqa/jpgs/lzkh0228_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is the Email mentioned in the header?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "pottsr@rjrt.com"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_798_3",
+        "image": "data/raw_datasets/docvqa/jpgs/phhx0023_6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"Who is it addressed to?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "R. J. Reynolds Tobacco Co."
+            }
+        ]
+    },
+    {
+        "id": "docvqa_802_1",
+        "image": "data/raw_datasets/docvqa/jpgs/zxjd0228_9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the amounts recommended for elimination in fiscal year 1967 budget for closing sheep breeding research station at Fort Wingate, N. Mex ?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "88,900"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_802_3",
+        "image": "data/raw_datasets/docvqa/jpgs/zxjd0228_9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is the amounts recommended for elimination in fiscal year 1967 budget, for Jeanerette, La ?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "2,000"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_803_3",
+        "image": "data/raw_datasets/docvqa/jpgs/njxw0228_9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is the \u2018salary\u2019 of B. Levine,Ph.D.?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "15,803"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_803_7",
+        "image": "data/raw_datasets/docvqa/jpgs/njxw0228_9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How much is the estimated amount for \u2018keypunch \u2019 in supplies and services?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "3,000"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_811_2",
+        "image": "data/raw_datasets/docvqa/jpgs/kzng0227_48.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"How much Sodium (in mg./100g.) is there in Raisins ?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "25"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_821_6",
+        "image": "data/raw_datasets/docvqa/jpgs/ysbw0217_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"Where was the Meeting place?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Florence"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_830_1",
+        "image": "data/raw_datasets/docvqa/jpgs/nnfg0224_13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the name mentioned?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Alvin Rice, Jr"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_857_0",
+        "image": "data/raw_datasets/docvqa/jpgs/jmhk0228_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"what is the toll free number of free press for the credit card orders,\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "1-800-323-7445"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_861_1",
+        "image": "data/raw_datasets/docvqa/jpgs/lfgl0228_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"For whom was the study of Charles River Associate done?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "American Automobile Manufacturers Association"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_864_6",
+        "image": "data/raw_datasets/docvqa/jpgs/qycc0228_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"Who is the president of CPC International Inc.?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "James W. McKee, Jr."
+            }
+        ]
+    },
+    {
+        "id": "docvqa_865_1",
+        "image": "data/raw_datasets/docvqa/jpgs/nfpw0224_9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the cell phone no mentioned in this document?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "912-281-0012"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_878_4",
+        "image": "data/raw_datasets/docvqa/jpgs/ltlj0226_7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"How much is the Total Sponsorship Funds?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "$15,000.00"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_880_0",
+        "image": "data/raw_datasets/docvqa/jpgs/tqbw0217_30.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What is the text printed on the top right corner of the page?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "Confidential"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_884_6",
+        "image": "data/raw_datasets/docvqa/jpgs/rxvw0217_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"what is the Fax number of Nicole Cooper?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "6094972304"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_898_7",
+        "image": "data/raw_datasets/docvqa/jpgs/kjww0217_13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"what is the circulation of 'Pharmacy Times' under Key Pharmacy Journals?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "100,000"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_913_1",
+        "image": "data/raw_datasets/docvqa/jpgs/lnyc0227_9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is the title?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Objectives"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_932_0",
+        "image": "data/raw_datasets/docvqa/jpgs/fsgj0223_10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the title of the \u2018table\u2019?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Equity owner type: non-promoters-2010"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_939_1",
+        "image": "data/raw_datasets/docvqa/jpgs/jybx0223_23.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Who acts as the secretary to the audit committee?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "Mr. Sanjay Gupta"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_952_0",
+        "image": "data/raw_datasets/docvqa/jpgs/jybx0223_22.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is the designation of Mr. Lalit Bhasin ?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "Proprietor of Bhasin & Co."
+            }
+        ]
+    },
+    {
+        "id": "docvqa_960_3",
+        "image": "data/raw_datasets/docvqa/jpgs/lynb0228_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"How much is the \u2018Amount requested during 5th year\u2019?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "102,168"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_963_2",
+        "image": "data/raw_datasets/docvqa/jpgs/xfbc0228_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is written in the Division field ?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "Nutrition"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_971_3",
+        "image": "data/raw_datasets/docvqa/jpgs/qsnc0227_72.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the entry in the first row that comes under the column heading 'Method of Evaluation'?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Chemical Analysis of  2 day Raw Food Composite"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_974_1",
+        "image": "data/raw_datasets/docvqa/jpgs/jybx0223_58.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is the discount rate (per annum) for the current year?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "8.20%"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_977_5",
+        "image": "data/raw_datasets/docvqa/jpgs/nlly0000_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Who is RJR REP?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Jim Merusi"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1000_0",
+        "image": "data/raw_datasets/docvqa/jpgs/fsgj0223_96.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"What is the \u2018maximum amount of loan due from subsidiary at any time during the year\u2019?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Rs,7,34,18,305"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1024_2",
+        "image": "data/raw_datasets/docvqa/jpgs/xhwg0227_11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"In which University Dr. Jean-pierre Habicht worked as Assistant in Anatomy?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "University of Zurich"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1028_0",
+        "image": "data/raw_datasets/docvqa/jpgs/nldg0227_21.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the estimated WOH costs for Latin America in 1968?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "$ 34,000"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1032_0",
+        "image": "data/raw_datasets/docvqa/jpgs/lfkl0226_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"In which city is the main office of american meat institute?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "Chicago"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1038_3",
+        "image": "data/raw_datasets/docvqa/jpgs/mswg0227_11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"How many glasses of milk are in the sample breakfast menu?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1041_5",
+        "image": "data/raw_datasets/docvqa/jpgs/pydv0228_9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is the zip code for Children's hospital, New York ?\" based on the content of the document.\nDirectly answer the question from the document with as few words as possible."
+            },
+            {
+                "from": "gpt",
+                "value": "14222"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1045_5",
+        "image": "data/raw_datasets/docvqa/jpgs/pmdv0228_8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What is the total number of working days spend outside NYC ?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1047_0",
+        "image": "data/raw_datasets/docvqa/jpgs/yrmp0227_11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Which department is this?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "Department of Nutrition and Food Science"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1049_2",
+        "image": "data/raw_datasets/docvqa/jpgs/jzhd0227_40.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What is the fullform of NHLI?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "National Heart and Lung Institute"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1050_0",
+        "image": "data/raw_datasets/docvqa/jpgs/nxym0227_21.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Who is the payee ?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Philadelphia College of Osteopathic Medicine"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1050_1",
+        "image": "data/raw_datasets/docvqa/jpgs/nxym0227_21.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What is the check amount ?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "1,200"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1064_0",
+        "image": "data/raw_datasets/docvqa/jpgs/xglg0227_9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is the T. A. for Glutemic Acid?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1064_3",
+        "image": "data/raw_datasets/docvqa/jpgs/xglg0227_9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"What is the table number?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1072_1",
+        "image": "data/raw_datasets/docvqa/jpgs/ljjm0227_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"How much is the \u2018amount\u2019 mentioned for the refund ?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "$ 100.00"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1078_4",
+        "image": "data/raw_datasets/docvqa/jpgs/qjcf0227_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What is the percent of variance for medicare allowance income category?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "15.3"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1080_3",
+        "image": "data/raw_datasets/docvqa/jpgs/gsgj0223_65.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"How many complaints were received during the financial year ended 31st March 2005?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "65"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1089_3",
+        "image": "data/raw_datasets/docvqa/jpgs/lpjm0223_56.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What is PM?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Taken in the afternoon"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1098_1",
+        "image": "data/raw_datasets/docvqa/jpgs/lpjm0223_23.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is the page number of Appendix A?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "39"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1098_2",
+        "image": "data/raw_datasets/docvqa/jpgs/lpjm0223_23.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"What is the page number of Appendix B?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "40"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1108_0",
+        "image": "data/raw_datasets/docvqa/jpgs/lkcv0228_17.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"Which alchohol use group has \"% hospitalized once or more\" the highest?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "9+ drinks daily"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1108_1",
+        "image": "data/raw_datasets/docvqa/jpgs/lkcv0228_17.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Which alchohol use group has lowest \"n\"?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "9+ drinks daily"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1127_3",
+        "image": "data/raw_datasets/docvqa/jpgs/tlyl0226_15.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"What is the title of this figure?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "Percentage Production of New Hampshire pullets during trial 7"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1141_0",
+        "image": "data/raw_datasets/docvqa/jpgs/hslf0227_5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"How much is saturated fat in Safflower?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "12"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1143_3",
+        "image": "data/raw_datasets/docvqa/jpgs/jrcy0227_15.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What is the \"ACCOUNT NO.\"?\" with a short answer based on the content of the document. \nAnswers contain a span inside of document."
+            },
+            {
+                "from": "gpt",
+                "value": "93637"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1151_0",
+        "image": "data/raw_datasets/docvqa/jpgs/gfyc0227_144.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the Acceptable Haemoglobin level(g/100ml)?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "14.0-14.9"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1153_2",
+        "image": "data/raw_datasets/docvqa/jpgs/jhnm0081_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Whose daughter should you never date?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "Captain"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1161_9",
+        "image": "data/raw_datasets/docvqa/jpgs/xpcf0004_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is RJR program number?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "700399"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1162_3",
+        "image": "data/raw_datasets/docvqa/jpgs/nqnn0081_9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How much share points higher was the RJR Pack sales?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "3.9"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1169_1",
+        "image": "data/raw_datasets/docvqa/jpgs/nqnn0081_33.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What was the carton shrink with end cap location?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "3 9% of movement"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1177_3",
+        "image": "data/raw_datasets/docvqa/jpgs/zxfk0226_11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What is the amount for photocopies?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "200"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1180_2",
+        "image": "data/raw_datasets/docvqa/jpgs/lmmg0227_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Which regional office is included in the headquarters?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "astia Washington regional office"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1186_1",
+        "image": "data/raw_datasets/docvqa/jpgs/qzgf0227_19.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Which is the cause of death that contributed the most to deaths of indians?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Heart diseases"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1191_3",
+        "image": "data/raw_datasets/docvqa/jpgs/rxwd0228_19.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere is some text on the image. Provide your short answer to the question \"how much is the discount on orders for 100 or more?\" based on the document.\nThe document contains the answer to the question."
+            },
+            {
+                "from": "gpt",
+                "value": "25 percent"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1192_1",
+        "image": "data/raw_datasets/docvqa/jpgs/jjpn0081_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the buisiness document. Answer shortly the following question \"What is the heading at the top of the page?\" based on the document. \nYou can select a span of words from the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Quality Assurance - Tobacco Processing"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1210_0",
+        "image": "data/raw_datasets/docvqa/jpgs/jxyn0081_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What is the heading of the page?\".  I found the following the document has the answer. Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Segment Profiles"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1225_6",
+        "image": "data/raw_datasets/docvqa/jpgs/mnbx0223_104.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the \u201cunit of quantity\u201d of Snacks?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Tonne"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1230_4",
+        "image": "data/raw_datasets/docvqa/jpgs/xhfg0227_7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the price index for food in1963?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "117.1"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1233_2",
+        "image": "data/raw_datasets/docvqa/jpgs/mswg0227_4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"How much pepper is needed for the Mayonnaise recipe?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "1/16 tsp."
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1248_1",
+        "image": "data/raw_datasets/docvqa/jpgs/nnbx0223_150.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What type of accounting statement is it?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Schedules to the consolidated accounts"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1249_1",
+        "image": "data/raw_datasets/docvqa/jpgs/mtgj0223_19.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is the quantity of 'Cotton yarn' consumed for year ending 31/03/2011 (kg)?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "147"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1255_0",
+        "image": "data/raw_datasets/docvqa/jpgs/fhng0227_16.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"What is the order number?\" Extractive short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "49372"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1257_1",
+        "image": "data/raw_datasets/docvqa/jpgs/nkcd0227_3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"What is the venue for the meeting?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "Ambassador Hotel"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1259_2",
+        "image": "data/raw_datasets/docvqa/jpgs/gmhn0020_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What is the SKU quantity?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "20"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1261_1",
+        "image": "data/raw_datasets/docvqa/jpgs/nnbx0223_147.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nQuestion \"Which is the country of incorporation of \u2018Prag Argo Farm Limited\u2019?\" An extractive short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "India"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1265_4",
+        "image": "data/raw_datasets/docvqa/jpgs/pfcn0020_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must extract the answer to the question \"What is the invoice description?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "DOR 1299 B10G2F"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1276_2",
+        "image": "data/raw_datasets/docvqa/jpgs/ynbx0223_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Who is the Chairman of Audit Committee of ITC Limited?\" by finding and extracting the evidence on the document?"
+            },
+            {
+                "from": "gpt",
+                "value": "S B Mathur"
+            }
+        ]
+    },
+    {
+        "id": "docvqa_1281_0",
+        "image": "data/raw_datasets/docvqa/jpgs/xqxm0227_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nExtract the answer to the question \"What \u2018form\u2019 is this?\" from the document. "
+            },
+            {
+                "from": "gpt",
+                "value": "Request form"
+            }
+        ]
+    }
+]

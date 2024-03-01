@@ -1,0 +1,6 @@
+pillow
+opencv-python
+tqdm
+pandas
+openpyxl
+datasets

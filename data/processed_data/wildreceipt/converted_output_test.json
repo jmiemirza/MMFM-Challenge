@@ -1,0 +1,2802 @@
+[
+    {
+        "id": "wildreceipt_1_3_73_73_7",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_36/16/03dd7bee9110ab404811a8a9a151023677998706.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"3J\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_4_41_40_26",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_28/14/3716a29f41402e22fe4c96b85d539b8119f6218a.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"3.79\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_11_35_34_6",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_86/8/9e2d082d00e98c884b25c45f822bde9fbdc53a2e.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"Order#:12907\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_12_36_36_4",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_9/1/ba80600eba5485f259e9932ec6d5f7a5939f23ee.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"0001\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_14_52_35_6",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_7/1/4b017b140427879133ba70c627bcbb343b55f278.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"2.00\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_15_74_72_11",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_83/7/f297cb70cc2f3cb67dc9fed74da1634ebfa2036b.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"ARTISOUP\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_15_74_72_16",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_83/7/f297cb70cc2f3cb67dc9fed74da1634ebfa2036b.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"0.00\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_20_27_26_15",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_88/9/1064992b525a4f16793f30515f4ef730e56989cb.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"SpeedwayMC\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_21_34_34_28",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_80/7/5e5ddd069832e638a2008ff723e4faf899dcbbd5.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"EAGLES7-1\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_22_42_41_15",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_81/7/9bbeb3f7ee5caf426397666f966509806c02346c.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \".26\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Tax_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_26_39_29_4",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_77/6/edac5e0993826aee0d71787fa58d71013c2d64ad.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"2129667799\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Tel_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_29_44_44_33",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_85/8/5b72895500ae6d07d37191d7facbf3f51fa31835.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"10%SVCCHG\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_31_40_40_3",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_47/18/785.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"206-441-9785\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Tel_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_32_55_55_23",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_82/7/e25a6d8b772f170657026c8c80acf9a2f8640b66.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"$3.90\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_33_24_19_6",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_50/19/4e3c557a27f9c4b0406b562d0b7760c740a602e6.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"09/13/15,\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Date_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_37_35_35_2",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_33/15/575a5c7429ef7312641401e48791bb8d51797721.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"ANNARBOR,MI48104\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Store_addr_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_37_35_35_18",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_33/15/575a5c7429ef7312641401e48791bb8d51797721.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"AddChicken$4.50\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_41_29_29_17",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_36/15/e9bb4a254724a00ec61c998e8e5ad18bb5ce70bd.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"Acceptance\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_43_34_33_9",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_18/12/2731.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"Gst1\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_44_35_34_12",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_67/4/a221b7382790db58f068307baecba12175af2e54.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"ANTIPASTO\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_44_35_34_28",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_67/4/a221b7382790db58f068307baecba12175af2e54.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"CONTANTE\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_45_65_63_47",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_7/1/4c84494cf987487762157108f140386b8692bf36.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"HONEYBOURBON\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_48_59_59_1",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_2/0/6e26dc59f2dd4cb87b4abf96c799e86556fcc0ea.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"FISHTAVERN\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_48_59_59_21",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_2/0/6e26dc59f2dd4cb87b4abf96c799e86556fcc0ea.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"3.00\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_48_59_59_26",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_2/0/6e26dc59f2dd4cb87b4abf96c799e86556fcc0ea.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"3\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_quantity_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_51_47_46_29",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_68/4/dcff7be58f5c0252fb3c1e89e7602532cc372d79.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"SUBTOTAL\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Subtotal_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_52_30_30_17",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_21/12/d1b85e4417343974227ed6704724f0ce11e0a304.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"$65.19\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Total_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_54_50_50_19",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_70/5/3321.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"63.00\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_59_46_45_12",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_75/6/557a0e324bfa3ef7223ba29aae0a69b060cf4a2b.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"quinoa\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_66_31_31_5",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_65/4/3797.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"LOSTHILLS,CA93249\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Store_addr_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_66_31_31_25",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_65/4/3797.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"EATINTAX\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Tax_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_66_31_31_26",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_65/4/3797.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"5.29\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Total_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_68_37_36_17",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_55/2/76f478046418ee335546aec96a365856ca6295d4.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"1\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_quantity_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_73_73_72_14",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_20/12/b4113afb7e241ab6ba9bdde81f394ece64a25d4f.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"1590006105\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_73_73_72_57",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_20/12/b4113afb7e241ab6ba9bdde81f394ece64a25d4f.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"DEBITCARDTENDER\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_76_28_26_20",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_43/17/82f67d28b59867f3dbd08612fce3351e55aba56b.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"$2.30\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_77_45_45_1",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_49/19/1870ec2299732e04db5476c47bd62de41015359c.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"255HIGHWAY99\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Store_addr_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_78_25_25_6",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_27/14/1d890038368f4ec51db2cc4005c69bc9c53747b0.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"YOURCASHIERTODAYIS:CoffeeBarComputer\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_78_25_25_19",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_27/14/1d890038368f4ec51db2cc4005c69bc9c53747b0.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"CHANGEDUE:\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_83_31_31_10",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_32/15/0b68821f16ae341370f9edc7a11151cbf6ed4f4a.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"SO#831753INV#722035\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_95_41_31_4",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_36/15/ff3cfcb0b9f4c10e12d010ef0d14b232f4bcdd50.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"KellyBeautySupply\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Store_name_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_98_46_45_17",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_4/0/e4a3117f4d44df4985c77d5d1b1730778a2eab81.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"****TAX\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Tax_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_103_45_44_21",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_89/9/60cdf601780080a8f550d060a92c1db00f656c63.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"MASALACHEESET\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_104_31_31_5",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_10/10/3755a671aa0c4daf0f4c523e23bc067d45dd4526.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"#ORD30-REG12-\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_105_31_30_2",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_14/11/1f0bb6cc516b9f221b87a6a10e34b4cf1c7e3e0d.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"TulsaOK74137\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Store_addr_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_106_29_23_21",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_65/4/4031ed5a1c77afaad2a1bac875d1e462e48ed870.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"22:48\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Time_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_108_31_31_14",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_65/4/4c8ba0750fea3147d457bd77fb52d43e6f9cab6e.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"7.80\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_108_31_31_25",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_65/4/4c8ba0750fea3147d457bd77fb52d43e6f9cab6e.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"GopalSandya\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_109_45_45_0",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_32/15/2286.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"WELCOMETOBESTBUY#478\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Store_name_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_109_45_45_13",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_32/15/2286.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"427477925301475\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_110_31_29_14",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_37/16/1078.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"8.00\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_112_87_87_34",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_69/5/15c0d4ff788941e37abbb8fc88106e813916561b.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"HalfPintEstrella...\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_112_87_87_53",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_69/5/15c0d4ff788941e37abbb8fc88106e813916561b.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"TotalDue\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_113_88_88_48",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_70/5/4507edb99c827050da398f72d395b2b31f57d509.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"SORRY\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_113_88_88_51",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_70/5/4507edb99c827050da398f72d395b2b31f57d509.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"TotalPaid\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_119_41_41_26",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_31/14/b4d343d98233cd7dd04ec4c5c35253c125838a77.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"$19.38\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Total_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_119_41_41_28",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_31/14/b4d343d98233cd7dd04ec4c5c35253c125838a77.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"+Tip:\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Tips_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_120_36_35_19",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_16/11/a41d7364b3a7bb55890fb1bd36ff2ec01271bd8d.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"35,80\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_122_53_50_33",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_32/15/0f5df5d296cb9c9a88486b513d2c4e66001faa6e.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"328.00\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_128_42_41_28",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_6/1/22fed6ab8659459866a7d8332a8072af95608fe0.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"8.24\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Tax_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_130_20_19_0",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_82/7/d971f51654c9b491d39ce899eeccadd22c77b7d5.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"SHELLKINGSMAY\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Store_name_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_130_20_19_6",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_82/7/d971f51654c9b491d39ce899eeccadd22c77b7d5.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"C181/5671\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_131_28_28_22",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_62/3/296f42bfafc1219f27591fed66cf78db02700e89.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"3.52\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Tax_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_132_26_25_6",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_3/0/c62899025130c58c5feae16834d7f3f4f11701ee.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"VatNumber:660454836\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_133_32_31_18",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_7/1/3b5ee37ed70dace8d0fdaa2d3084c3e3ca62a1f6.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"PILAURICE\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_136_54_52_14",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_61/3/25ceaee9d29a816b93cecf8765ac6af8fdf3cdf6.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"7.00\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_137_54_54_22",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_54/2/31069916ee9a545fdf5b3aef0e5be30b0e719e94.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"40c.BasilChicken\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_137_54_54_24",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_54/2/31069916ee9a545fdf5b3aef0e5be30b0e719e94.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"19.00\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_137_54_54_27",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_54/2/31069916ee9a545fdf5b3aef0e5be30b0e719e94.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \">imaplada\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_140_74_72_55",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_61/3/222463feb66c1a585453a005399f4d096a06a22e.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"15:22:33\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Time_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_142_41_36_22",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_70/5/3453.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"SubTotal\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Subtotal_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_149_26_23_20",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_14/11/2ef60571a3b1e1da2d5b0a6cd7f95c7fc420339c.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"02/55590ss7/7\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_150_40_39_10",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_63/3/b9d9c1a398823545278fadeb5aa86c46466f73ad.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"400\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_154_33_33_24",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_37/16/19ec332feaa036cc747c2447d39fc2afd638059c.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"-0.65\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_159_38_38_35",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_86/8/a528088663166437057ab31eb28532fcf93587e0.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"www.onimtait.com\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_162_62_61_3",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_34/15/8d7179bcb278dc14b5f057303fe21b9867a40bad.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"LowerParel(W),Numbai400013\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Store_addr_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_163_21_21_18",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_50/19/451798d215561a0152017668194b8f5e1ea3c7a4.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"380,00\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_170_25_22_13",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_65/4/3c4647e237876088b9aa0fb6d15aef1a0a60882e.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"29g-00628\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_172_39_39_8",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_13/10/ce16914d6f7a8c21a3d6a6b4c3075003eac7e86a.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"Jam:\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Time_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_173_60_59_18",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_35/15/d7582a2de64ddc3e2b3d7b669b83850fe2e4861b.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"$-15.00\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_173_60_59_23",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_35/15/d7582a2de64ddc3e2b3d7b669b83850fe2e4861b.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"Tax\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Tax_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_174_32_31_15",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_52/19/8b9b86807b63dd61e3141f9114fc561b1e154ae1.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"SamsungG935S7Edge32GHandsetPkg-gold\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_178_35_30_3",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_73/5/f54ee2a67096869ca5c5d73244247eea2608f4e3.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"Ph:\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Tel_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_182_31_31_1",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_60/20/fda09a8db93c25ca6f9d837f659ddcbdb837b444.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"3022COCHRANAVENUE(CORNEROFJEFFERSON)\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Store_addr_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_182_31_31_16",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_60/20/fda09a8db93c25ca6f9d837f659ddcbdb837b444.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"1\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_quantity_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_182_31_31_24",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_60/20/fda09a8db93c25ca6f9d837f659ddcbdb837b444.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"TOTAL\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Total_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_182_31_31_27",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_60/20/fda09a8db93c25ca6f9d837f659ddcbdb837b444.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"07-12-2017\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Date_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_184_31_29_5",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_82/7/b536e431ea32260b9373772171a431deb72b295f.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"CHECK#27123\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_186_22_20_14",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_72/5/9dbe3eb2729633d4f8aa7bc1a9861cfee941c7f7.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"0.00\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Tax_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_191_48_47_36",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_72/5/ba5337092c5d2d015e568ec8aefc72d67e8f2661.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"IMPUESTOSINCLUIDOS\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_194_28_28_18",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_6/1/3247.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"CHANGE\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_195_62_61_20",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_84/8/3c610b660ee3c758e8f1cab3510ecbb90d5e23c4.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"LISTTOTALCARE3.2Z\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_204_43_41_4",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_46/18/2918.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"Reg.nr.10190065\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_205_43_39_6",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_88/9/1265ac53a8adf66a8a7079678d9c38f540a7f5fa.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"AmericasCraaaziestBurgers!\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_205_43_39_10",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_88/9/1265ac53a8adf66a8a7079678d9c38f540a7f5fa.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"-ID#:0108341\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_205_43_39_18",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_88/9/1265ac53a8adf66a8a7079678d9c38f540a7f5fa.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"CreditPurchase\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_208_19_19_8",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_89/9/46de3d1a8a77885026f75d00e64b577bee6ed4be.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"-4Guests\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_220_39_37_9",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_64/3/cbf512cf7bde07e24c262b770d304143eac0bbaa.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"Store:107Inv#:002-00157478Trs#:157498\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_221_64_58_42",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_60/20/f7354af6e1d9858b92b3fab52676062dd5c11e91.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"NOSIGNATUREREQUIRED\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_224_24_23_19",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_47/18/55f5417f2fa9902f9c7b69510372c09c22d70de6.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"Weekdays2-4PMandnow2-4AM!\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_225_38_38_6",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_29/14/6e4606b4fc65119c6b45c5dcac05a88551a017a2.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"restaurantleswann@outlook.fr\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_226_47_47_15",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_30/14/955e0c716ca6f27326ace43682f5ca33ccbf935c.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"$5.14\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_228_82_77_46",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_55/2/6fe07898eafbfba6af910a2f5281a36d60e25349.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"180.00\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Total_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_243_34_34_2",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_81/7/9ebdc29b5d0b8f415ce9b908706c88a3a37bc076.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"GSTReg:M2-0077257-1\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_245_43_42_30",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_44/17/c8cfb8b4d248600ed1dc9d7bd8cc2d4f73f87812.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"$261.00\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_249_41_39_18",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_40/16/a017aba0403cbaecf7f7a55e12b0194bcc9990d1.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"\u0e3f200.00\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_250_82_82_53",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_82/7/b680a37bf5ace9a5ff4a197cf15a2e8d83a34dd1.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"Eur154,40\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Total_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_261_39_36_26",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_37/16/11bf48348723c0d5a12e1355b1757ece145a39ed.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"TAVERNDOUBLEBURGER\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_263_56_56_42",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_78/7/0bda337518ced88e59f31c39a63bb2405a828420.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"AC-00\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_264_39_36_23",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_69/5/16d8198f9119a59e68b8a3884f874b57527226d6.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"FrenchFries\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_264_39_36_35",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_69/5/16d8198f9119a59e68b8a3884f874b57527226d6.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"BalanceDue\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_265_52_52_32",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_63/3/689682f492336bbab09e5b3382371d921b836411.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"TOTAL\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Total_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_269_34_34_11",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_12/10/80a19afbc300c83d6d42d67793f74f5a1eca2698.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"DATE\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Date_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_269_34_34_18",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_12/10/80a19afbc300c83d6d42d67793f74f5a1eca2698.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"$3.399\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_272_195_195_14",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_87/8/e368026983ab8c87212fcd1c8d4ad15420140d76.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"09/06/2009\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Date_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_272_195_195_34",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_87/8/e368026983ab8c87212fcd1c8d4ad15420140d76.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"PICKLEDEGGS\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_272_195_195_95",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_87/8/e368026983ab8c87212fcd1c8d4ad15420140d76.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"GLOWHITE\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_273_39_26_22",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_86/8/96e1646e0c7d260dac02c0e4a43f7a1192724dc4.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \":A0000000031010\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_274_30_27_0",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_65/4/456e2badd999564fc7535161aaa08b6254e1cac1.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"TUKTUKCHA\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Store_name_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_276_47_47_33",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_51/19/8478b4dc8864a5c95abbd708a4279792d5c218c2.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"Issuer\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_281_73_70_29",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_84/8/4460.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"7.99\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_284_32_31_0",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_78/7/25266f92935f86e84824233bc81b53495ba044a6.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"SushiYasuda\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Store_name_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_284_32_31_17",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_78/7/25266f92935f86e84824233bc81b53495ba044a6.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"262.50\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Subtotal_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_287_31_31_7",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_67/4/7a2214a2c783522c4a8a3bb0987d5986b2f3901a.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"5/6/2016\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Date_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_287_31_31_27",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_67/4/7a2214a2c783522c4a8a3bb0987d5986b2f3901a.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"TranSeqNo:4233297\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_290_31_31_15",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_13/10/dd627dcbe42bba6bf700f5df2eab16316015a067.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"2.50\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_290_31_31_23",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_13/10/dd627dcbe42bba6bf700f5df2eab16316015a067.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"04:02PM\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Time_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_293_75_75_15",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_41/16/da701a7941640935b59c6d2cfdfc178798108adf.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"6.40\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_293_75_75_43",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_41/16/da701a7941640935b59c6d2cfdfc178798108adf.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"TOTAL\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Total_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_296_42_42_11",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_14/11/3f915c4fd0e664ee1c6332d5cba5f8e737d71dc7.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"Quantity\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_quantity_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_300_60_59_30",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_46/18/23bdf3141a5531d18ea9a4be14f3e002ce6f02c5.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"12\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_quantity_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_303_70_67_53",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_5/1/16.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"13/02/2016\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Date_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_304_58_58_14",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_10/10/18.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"DESCRIPTION\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_307_29_29_6",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_59/20/c80355fe12fa03f10e8e888af4d872f87999923b.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"11:15AM\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Time_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_307_29_29_18",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_59/20/c80355fe12fa03f10e8e888af4d872f87999923b.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"2.69\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_309_59_48_30",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_80/7/51.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"PARKING\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_310_25_22_1",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_85/8/5b350408c54a07df3a5d26523b416137e386a429.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"#03-15100AM,100TrasSt\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Store_addr_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_312_80_80_1",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_79/7/36c95886591cc6aea16d3a5f78775a27dd591567.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"RuedelaMontgne16\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Store_addr_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_314_57_51_13",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_2/0/8503b34e776ac42c1ac3f3daf314001a022d5737.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"MBRCHTLANGSTINOS\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_315_58_58_3",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_50/19/4d728e1b86613027e4e30c83c07354ade3537b1b.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"(718)478-1500\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Tel_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_316_58_58_45",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_6/1/2badb362a9e0bee89cc04754df0519f549f56bcd.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"1/14/2012\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Date_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_319_39_36_32",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_58/20/626.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"***GRACIASPORSUVISITA***\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_324_58_41_17",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_78/7/0c0b19ea80a94e37a2d6eb53e5c2f8deb4d14606.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"1.95\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_327_50_48_40",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_59/20/952eb692fc85176a6a2b2b4233760d8e6762d97a.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"801.00\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_329_69_69_15",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_19/12/67c10ac3c00c5da07f0600a5a6bfac69062dc5c0.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"Qty\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_quantity_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_329_69_69_19",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_19/12/67c10ac3c00c5da07f0600a5a6bfac69062dc5c0.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"300.00\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_329_69_69_39",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_19/12/67c10ac3c00c5da07f0600a5a6bfac69062dc5c0.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"Rs82.75\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Tax_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_330_33_32_19",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_51/19/62afa3fa08bb415d703691a0d335001792ecbb61.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"Rs13.13\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Tax_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_331_51_45_4",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_9/1/a43852905f43c1a8e02fff45e3a0d55fad0c5c1d.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"LGFloor,IOICityMall\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Store_addr_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_332_37_36_19",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_21/12/e54888ae18d2bc0036252a841e281f398190098a.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"+SpicyMustard\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_337_45_44_8",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_68/5/035328b05be076b4f7568a5f3efa10575e176ec0.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"Date:\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Date_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_338_21_21_20",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_30/14/917a6b46f8c0e4d6b774d7c0544ffb56e15b1abd.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"(TaxInvoiceInclusive6%GST:\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Tax_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_339_22_22_7",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_5/1/10650cc9be0ddd432fe89d1d8ec3c674af0da98e.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"\u20ac32,00\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_340_37_37_30",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_47/18/5326bd45e6b9ee953f4265f54ff48108bfd37b40.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"-0.12\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_346_31_31_14",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_90/9/980.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"FARE:\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_347_46_44_15",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_91/9/c6e5ea8e90fc7304523ce01cf2e0d6f3bb9a52ae.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"SIZE-XL\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_348_26_26_19",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_10/10/2c6512feaa251a848ab63a10b19218af33de89e9.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"05:30PM\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Time_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_353_37_37_26",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_17/12/0df88ba3783cdf3a78a420276e25937e43b983ee.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"Store:1361\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_353_37_37_35",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_17/12/0df88ba3783cdf3a78a420276e25937e43b983ee.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"www.rossstores.com\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_357_31_29_17",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_50/19/3332.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Total_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_359_34_32_24",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_80/7/6cf7f60a4dadb542fad5cd60b4976b41ffddcb44.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"TenderDetail#:1-01-0-01-007797\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_360_50_45_8",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_81/7/84701b0a041ae581cd9b3e090883c4150a554884.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"Lg1Pc3Drawer/S\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_361_33_32_23",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_8/1/9a89277521036d2a1792d5180c788cb849c4207c.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"35.18\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Total_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_362_49_47_29",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_70/5/3476.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"AngusRendang\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_365_38_38_3",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_28/14/5667994ad15df84989d2a0b978749c6cd7bc8a40.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"08401\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Store_addr_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_367_39_38_16",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_62/3/4040.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"SalmonAvocadoRoll\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_369_39_24_2",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_71/5/888756a3b06b16053a78ff352b850440af89c4b1.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"063966353/012349501\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Tel_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_372_62_53_20",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_49/19/018af7323503309c0b84d729a28f32df63e396e9.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"475.00\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_374_66_65_26",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_58/20/5936232104d33abc6715b732f56c14a6a5b2497e.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"85.00\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_376_41_40_17",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_75/6/525595db8efd2eedb4f8827e007a18629129b305.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"2.00\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_377_38_38_32",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_27/14/3167.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"engraagtotziens!\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_387_24_24_4",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_74/6/185.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"SanRafaelca94901\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Store_addr_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_394_39_38_20",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_66/4/6b8438773301606410b00a7c418ce8e8647457e3.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"1.19Dsc-0.24\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_395_42_42_1",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_29/14/756d2b05655f64537f53149f2af971cecaa62e58.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"TheLoftRestaurant\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_395_42_42_22",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_29/14/756d2b05655f64537f53149f2af971cecaa62e58.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"8,40\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_price_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_396_47_47_23",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_68/4/eec27f8cefcf113d35f15e80f1d74ce1f9a3caef.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"Zabayone\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_402_36_31_4",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_7/1/44e413be8de5be5f72a9b0a633c632028e5026bf.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"TABLE#10\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_404_44_44_32",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_55/2/8676002ade8369332c153fefce85fb67cf244b15.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"WholeGrainMiche\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_407_34_25_22",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_16/11/b56293eb365607660b541ddad8ff96b523044ecf.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"inyourcountryofresidence.\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_413_42_41_13",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_57/20/1e7343cf45b676a82ee1c5829cbd1357e76fa8bb.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"JacketPotato&Butter\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_415_41_41_14",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_11/10/52a546ea9b2782e512ba22e6e3c11c70803c2e0f.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"ChickenteriyakiBento\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_419_25_25_12",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_31/14/d44773384ca5f1cc0158a03098aa0cde38ca5dc3.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"SalesTax\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Tax_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_422_42_37_23",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_48/18/db4bd9e297b688294dcc91bffba80580ac32d2b8.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"Tax\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Tax_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_422_42_37_28",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_48/18/db4bd9e297b688294dcc91bffba80580ac32d2b8.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"CheckUsOutelfarolsf.com\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_423_50_50_7",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_80/7/5edc0cd8c2c8232e160f4852219ce9f5766976e4.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"Tbl2/1\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_425_30_28_6",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_20/12/aec4aed16250b817cc524e2b226708e9662de9ce.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"120'CERTIFIEDSCALE\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Store_addr_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_426_41_28_25",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_8/1/8984a19efb882f4a3cac1e80030ff75bf405b0a4.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"Discount\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_430_35_35_31",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_69/5/0abd54c958f8658dac0ba32ee5ca8f8b264ce131.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"Thankyou!\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_435_36_35_23",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_4/0/e7d1a689a98a34874f53c3c531318665b6a8a6c8.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"2ApplePies\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_435_36_35_25",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_4/0/e7d1a689a98a34874f53c3c531318665b6a8a6c8.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"Subtotal\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Subtotal_key"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_436_26_24_2",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_45/18/1721.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"6375SouthRainbowBlvd\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Store_addr_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_440_50_50_10",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_47/18/565131355216578dd63083b0b93eacd70895b9e3.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"Auth#01336C\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_442_30_29_0",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_44/17/c046099c78028056472cdcd0f221d2920c4a64c0.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 25 categories for selection: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \\n Please output the category corresponding to the text \"Mr.Lucky's\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Store_name_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_450_31_29_14",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_40/16/9e403c71abaddd8e4c2328d54bc00496899df768.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"AQUAFINALARGE\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_451_35_32_12",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_45/18/11a34f2628528d2ee10d23a7b9a33a536821f880.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThe document contains 25 key categories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Kindly identify the category  related to the text \"FRESHLYORANGEJUICE\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "Prod_item_value"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_455_22_22_2",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_40/16/b429d844a01fff1ec2eb0d099f8564e33395dcf3.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\".  \u00a5n Please select the category  associated with the text \"NIE:\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_456_36_36_33",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_30/14/8cadfeaea2270b669b9b497e90d1bded5439e0de.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"ThanksforvisitingBurgerCraft\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_462_50_48_38",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_70/5/2522b072b9bfde5f2031f7352abb48ef9c7207fc.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"TotalItems-4,NoofQuantity.4.00\" to select from following classes: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_466_28_28_9",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_48/18/9fe91f986d372f7bc15d100121fbeb3c0b907d64.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"T2\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Others"
+            }
+        ]
+    },
+    {
+        "id": "wildreceipt_1_466_28_28_17",
+        "image": "data/raw_datasets/wildreceipt/wildreceipt/image_files/Image_48/18/9fe91f986d372f7bc15d100121fbeb3c0b907d64.jpeg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"Store_name_value\", \"Store_name_key\", \"Store_addr_value\", \"Store_addr_key\", \"Tel_value\", \"Tel_key\", \"Date_value\", \"Date_key\", \"Time_value\", \"Time_key\", \"Prod_item_value\", \"Prod_item_key\", \"Prod_quantity_value\", \"Prod_quantity_key\", \"Prod_price_value\", \"Prod_price_key\", \"Subtotal_value\", \"Subtotal_key\", \"Tax_value\", \"Tax_key\", \"Tips_value\", \"Tips_key\", \"Total_value\", \"Total_key\" and \"Others\". \u00a5n Kindly provide me with the category of the text  \"$1.53\". "
+            },
+            {
+                "from": "gpt",
+                "value": "Tax_value"
+            }
+        ]
+    }
+]

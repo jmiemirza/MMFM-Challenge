@@ -1,0 +1,2802 @@
+[
+    {
+        "id": "tabfact_1_0_9",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1859269-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"from round 1 to the final round , there be 4 club remain to complete the round\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_5_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-14993514-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"1 station have a frequency mhz that be less than 90.0 , k210cb with a frequency mhz of 89.9 with a city of license of broken bow , nebraska\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_10_6",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11871805-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"choi moon - sik play in bangkok 3 time in total\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_18_8",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11379937-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"babe padilla be lead the touchdown race against teammate tom flores\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_41_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-14201926-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"there be 3 station with a license from connecticut , while only 1 have a license from massachusetts\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_43_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-15715109-45.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"only 1 of the athlete on the united state national ice hockey team be undrafted\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_48_9",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11552751-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"the least number of way to deliver a ship be do in may 1942\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_52_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10728418-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"commerzbank tower be 2 meter taller than messeturm build\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_52_7",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10728418-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"commerzbank tower be 2 meter taller than tour montparnasse\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_71_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-13258823-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the highest number of attendee be at los angeles memorial coliseum on december 15 , 1985 with 56283 crowd\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_75_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-13939267-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"for representative 2 , 6 be represent the liberal party (v)\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_77_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12207553-5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"t5he toronto blue jay have 28 baseball game schedule in july of 1984\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_92_0",
+        "image": "data/raw_datasets/tabfact/jpgs/1-25246990-5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"3 episode of big time rush be written by 2 people together\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_104_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-15502952-15.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"there be 2 professional team\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_108_9",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18926074-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"the last draw be 19 on the list at 35 point\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_114_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1064198-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"s\u00f8r - tr\u00f8ndelag be the only region with no change between 1960 and 2000\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_117_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12660586-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"the 29th government have the most ministerial change , with 3 minister during its tenure\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_129_6",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10516844-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"raphael butler fought in new mexico every time\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_131_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18517323-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"the number of electorate (2009) for chachoura be greater than that of raghogarh\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_142_9",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12807043-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"there be 14 year between the first movie sagarika ghatge star in , and their most recent film\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_149_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18564451-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"during the world half marathon championship of 2001benedict ako compete in turin italy\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_152_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11801795-5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"the highest - attend anaheim duck game during december 2007 be december 27 against the oiler\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_154_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10791466-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"player charles de jesus from the united state be pick before jomar tierra from the philippine\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_159_0",
+        "image": "data/raw_datasets/tabfact/jpgs/1-26996293-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"the only quarterback (qb) pick in the top 8 be at number 1 with wayne holm\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_166_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12206211-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"over the past 30 day , the toronto blue jay have get progressively worse\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_168_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12536374-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"the kansas city chief do not win more than 1 game in any single calendar month of 1978\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_168_7",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12536374-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"the kansas city chief do not win more than 2 game in any single calendar month of 1978\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_175_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-14904972-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"kim eun - jung of team jeju unite versus opponent ulsan hyundai have the total goal of 119\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_180_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12868148-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"ireland have 1 more point in the pole than switzerland\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_183_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-180802-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"virgo represent september , while leo represent august\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_183_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-180802-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"capricon , cancer , and virgo be all represent by sanskrit word for animal\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_188_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1361602-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"s trim only come with the l (cuin) turbo ecotec lnf i4 engine\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_205_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10560886-19.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"1 player be from mali , 2 from canada and the rest be from the us\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_227_7",
+        "image": "data/raw_datasets/tabfact/jpgs/1-30108346-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"ireland send half as many troop to afghanistan for the mission than austria and iceland\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_229_7",
+        "image": "data/raw_datasets/tabfact/jpgs/2-14614110-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"vijay singh do not place t3\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_229_8",
+        "image": "data/raw_datasets/tabfact/jpgs/2-14614110-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"there be 2 player that place t3\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_235_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-14803173-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"in 4 game play by kristine kunce there be a score of 6 - 4\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_251_7",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17140608-6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"kendrick perkins do not lead the team in rebound for the most total game\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_256_0",
+        "image": "data/raw_datasets/tabfact/jpgs/1-27547668-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"steve scaini direct the series on 3 occasion while james allodi direct only 2\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_260_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1421760-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the median household income of york be 486 less than that of sagadahoc\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_262_9",
+        "image": "data/raw_datasets/tabfact/jpgs/2-16374099-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"in the uci cyclo - cross world championships men 's under - 23 , the germany win more bronze medal than unite stats\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_263_5",
+        "image": "data/raw_datasets/tabfact/jpgs/1-2570269-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the episode , another happy day be release 7 year after have a happy day\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_266_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10103807-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"when the discipline be downhill and the place be 10th the location be kitzb\u00fchel , austria and date be 11 jan 1985\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_267_8",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11440693-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"tampa bay lose all but 1 of the overtime game that they play\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_269_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18400-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"there be 10 version of the loonie design and mint between 2002 and 2012\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_281_7",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10746808-17.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"the team with the highest home team score be geelong\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_295_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1219630-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"the chesterfield racing team be feature more often than the team surtees race team during the year of 1975 through 1978\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_317_7",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1473672-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"during the 1972 nhl draft , all 16 of the draft pick be from india\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_328_7",
+        "image": "data/raw_datasets/tabfact/jpgs/2-15345389-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"on 15 march 2008 the opponent be airdrie unite against the berwick ranger in 2007 - 08 with result 1 - 0\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_328_8",
+        "image": "data/raw_datasets/tabfact/jpgs/2-15345389-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"the result on 29 march 2008 against alloa be 0 - 1 with attendance 1836 while the result on 5 april 2008 against ayr unite be 1 - 0 with attendance 1212\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_346_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-14123911-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"the maple leaf shut their opponent out a total of 5 time\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_348_6",
+        "image": "data/raw_datasets/tabfact/jpgs/1-2985987-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"p mertens be the jockey that win at the longest distance\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_351_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17100961-11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"a halfback and run back be the first position to be draft by the redskin\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_355_8",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17162199-6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"john morse be the only player to shoot + 4 during the 1996 us open\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_361_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1851722-36.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"the legend of zelda series win the award 3 time\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_362_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1226331-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"ghinzani drive a megatron straight - 4 more than any other engine\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_363_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10577658-5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"the australian open , french open , wimbledon , and us open all have an 1r in 2011\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_364_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-15367861-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"the corinthian and the santos be each against 38\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_368_9",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18534152-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"at the weightlifting at the 2008 summer olympics - men 's 105 kg , 5 people compete\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_376_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10600564-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"grant hackett be the only swimmer from australia\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_378_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-13063126-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"east germany garner 10 bronze medal , follow by west germany with 9\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_383_14",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17759945-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"sam mcgregor be the oldest player on the roster\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_383_17",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17759945-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"4 player be from the brisbane barracuda\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_403_3",
+        "image": "data/raw_datasets/tabfact/jpgs/1-27455867-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"more golden ticket be give at the bradley center than at the izod center\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_403_5",
+        "image": "data/raw_datasets/tabfact/jpgs/1-27455867-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"on january 19 , 2011 2 episode be air in total\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_406_3",
+        "image": "data/raw_datasets/tabfact/jpgs/1-27744976-10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"patrick patterson do not ever have the highest number of assist\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_414_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12109851-6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"cartagena fc and real oviedo have a draw of 14 with 44 game play\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_433_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17360840-9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"the highest attendance be 21273\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_434_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17785973-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the team with the least goal for in the 1986 - 87 north west county football league be whitworth valley\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_435_9",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10806852-9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"a huge game at the lake oval , with a crowd of 10000 attend to see south melbourne play against hawthorn\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_436_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10640687-9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"essendon be the only away team with a score of over 10.0\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_439_7",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1750635-13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"richard gasquet be present in none of the open grand slam tournament\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_440_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18228282-11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"peter john ramos have a higher height than jos\u00e9 juan barea\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_441_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-15325500-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"6 wrestler compete and the winner be the 5th to enter\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_444_8",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11636955-40.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"yann sauve be 1 of the 4 player with a reg gp and pl gp of 0\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_453_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1614982-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"2 four nation tournament match be play on march 31 1988\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_458_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11901273-5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"the most attended game in december of the toronto maple leafs'2007 - 2008 season be the december 15 game\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_458_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11901273-5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"toronoto only win 2 of their 5 home game in december of their 2007 - 2008 season\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_458_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11901273-5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"the most attended game in december of the toronto maple leaf 's 2007 - 08 season be the december 22 game\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_477_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1390721-8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"out of the race list , ryan briscoe 's lowest start in a race be in 26th place in 2011\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_483_9",
+        "image": "data/raw_datasets/tabfact/jpgs/2-16050349-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"lynn greer , team olympiacos , finish with a rank of 4 , while hollis price and kene bajramovi\u0107 share the rank of 3\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_484_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12186237-17.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"ben spies race 2 of the race for the rizla suzuki motogp team\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_492_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-16218598-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"a minority of the motorcycle be make by the manufacturer aprilia\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_519_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1629175-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"gd estoril praia have 5 different opponent in the 2013 - 2014 uefa europa league\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_520_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12195635-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"the red sox have a record of 14 win and 15 loss\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_535_1",
+        "image": "data/raw_datasets/tabfact/jpgs/1-27537870-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"there be 3 game buffalo play with an attendance greater than 19000\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_555_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1014145-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"there be 6 player pick for the m position\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_561_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17554307-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"alex davy result be all lq or dnq in tournament he participate in\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_561_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17554307-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"alex davy participate in 1 tournament in 2011 / 12 and 1 tournament in 2012 / 13 and 1 the year after\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_567_6",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1551537-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"there be a total of 5 in the top 25 , include 2 at the pga championship\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_586_9",
+        "image": "data/raw_datasets/tabfact/jpgs/1-25386974-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"the best placing pedro nunes receive be 1st in the formula 3 sudamericana series in the 2008 season\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_593_1",
+        "image": "data/raw_datasets/tabfact/jpgs/1-24798489-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"there be 3 episode of man v food that originally air in september 2009\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_597_7",
+        "image": "data/raw_datasets/tabfact/jpgs/2-14420686-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"barbados , guyana , us virgin island , venezuela and panama all only win 1 medal\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_598_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17751859-6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"out of all of the match a team be only hold to zero point 2 time\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_602_9",
+        "image": "data/raw_datasets/tabfact/jpgs/2-14189125-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"the 2004 - 05 and 2007 - 08 season both result in postseason quarterfinalist\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_611_7",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17058226-5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"the timberwolves didn't play in any location more than 1 time\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_618_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18756696-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"all of the destroyer be complete after they be launch\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_624_15",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17622423-10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"in the playoff of the 2001 - 2002 season , the boston celtic beat the philadelphia 76ers 3 game to 1\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_626_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17537584-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"the (m) finish position be 10th for the year 2008 and 2010\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_626_8",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17537584-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"tammy bowen be the president of the club for the longest time\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_627_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-13931429-6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"chicago black hawk be the opponent 2 time , on game 51 and 58\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_629_6",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18940490-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"the us receive 13 more medal in total than canada\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_634_8",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17717981-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"marcus stewart have the most league appearance with 4 more than kevin gray\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_653_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-16924792-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the game on october 1 have the lowest attendance\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_659_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10775890-8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"home team north melbourne and south melbourne have a home team score of 13.12 (90)\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_662_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-15374691-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"the montreal maroon never lose more than 3 game in a row throughout the season\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_692_6",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11135453-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"chris brandon be 1 of 6 player that have 3 total goal\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_696_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18786505-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"while normally hold every 4 year , there be 2 5 - year gap , between the 3rd and 4th , and 5th and 6th festival of pacific art\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_696_9",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18786505-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"there be no recurrent theme in the festival of pacific art , but harmony have appear 2 time\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_697_7",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1554464-6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"2005 and 2006 be the only year in which oliver rochus not participate in any tournament\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_707_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1799173-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the taonui branch be the first branch to close on the 14th of august in 1895 , it be 3.5 km long\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_717_6",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11913905-6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"no e53645 w53926 be the only railway car that be a british rail class 127 dmbs dm tslrb\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_741_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18132662-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"there be (4) 4 player that be select from the montreal expo team\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_748_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10289926-15.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"jacinto ayala , achieve the highest overall rank of any swimmer on the list with an overall rank of 45\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_748_8",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10289926-15.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"georgi palazov , achieve the highest overall rank of any swimmer on the list with an overall rank of 45\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_757_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-14768306-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"10 state have male awareness hiv at 90% or above\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_758_2",
+        "image": "data/raw_datasets/tabfact/jpgs/1-24648983-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"bad dream be the most recently air production\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_762_8",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17631799-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"the bolton wanderer score only 4 point in each of their 3 game against the chelsea fc during the 1954 - 55 season\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_771_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10637415-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"cronulla shark have less than 2 against brisbane bronco in the championship\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_813_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10823719-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"the game between melbourne and richmond have the highest attendance\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_822_9",
+        "image": "data/raw_datasets/tabfact/jpgs/2-15040971-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"include sprint winner and feature winner , ireland have the most win and switzerland have the least\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_825_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-13573373-9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"kansas city play the indian a total of 7 time\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_833_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-136773-8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"kvtv have hd 1080i resolution as well as sd 480i resolution\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_836_9",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1252089-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"gene hartley never have a starting position of less than 10\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_840_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-15746889-6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"marta domachowska beat liana balaci on august 11 , 2002\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_892_4",
+        "image": "data/raw_datasets/tabfact/jpgs/1-262560-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the panther have only 1 location\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_895_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18059698-5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"vijay singh 's score be in the top 5\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_912_0",
+        "image": "data/raw_datasets/tabfact/jpgs/1-26124171-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"the pole service team score 0 point\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_921_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11960944-10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"in game 3 , billups have a game - high 7 assist\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_923_5",
+        "image": "data/raw_datasets/tabfact/jpgs/1-28211988-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"when men 's single be ma long , men 's double be trinko keen danny heister\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_930_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1305623-10.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"east 80 indoor percussion only get 1 medal and it be a bronze\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_932_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10758793-13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the ntfs yes v3.0 have fat32 and do not have hpfs or refs\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_952_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10775890-7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"the home team of carlton play on june 4 1960\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_953_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1516564-12.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"this athlete have play in the master tournament 13 time and have win 1 time\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_969_5",
+        "image": "data/raw_datasets/tabfact/jpgs/1-18042409-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"colin doyle attend wilfred laurier university\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_972_6",
+        "image": "data/raw_datasets/tabfact/jpgs/2-16431762-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the 250cc yamaha team earn more point in 1971 than they do in 1972\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_984_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1596383-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"the label before 1969 be columbia\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_999_11",
+        "image": "data/raw_datasets/tabfact/jpgs/1-11677100-18.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"montvale , nj be the hometown of the infielder whose school be saint joseph regional high school\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_999_13",
+        "image": "data/raw_datasets/tabfact/jpgs/1-11677100-18.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"taylor hawkins attend oklahoma and his position be a pitcher\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1017_10",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18823880-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"the release date for the model number core i7 - 975 extreme edition be the same as the release date for the corei7 - 965 extreme edition\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1045_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1375378-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"\u0447\u0430\u0301\u0440\u043a\u0430 be russian for wine glass and be equivalent to 4.16 fl oz in us customary\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1058_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10773753-16.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"the crowd size when the home team be north melbourne be 9000\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1062_4",
+        "image": "data/raw_datasets/tabfact/jpgs/1-1965650-6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the nationality for neil korzack be united kingdom\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1081_1",
+        "image": "data/raw_datasets/tabfact/jpgs/1-1342233-17.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"virgil chapman be a member of the democratic party\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1084_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-14292964-15.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"car 33 be the car for po 1\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1098_7",
+        "image": "data/raw_datasets/tabfact/jpgs/2-13193466-5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"the houston oiler be victorious over pittsburgh steelers on december 30 , win by more than 20 point\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1100_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-16193157-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"rider casey stoner drive a ducati for 27 lap and have 7 grid\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1124_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-14904046-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"victor yusim michael schneidman win the men 's double in 1979 the year after carol silman ben shushan win the women 's double\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1130_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1226504-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"stp march be the only entrant with a march 711 chassis\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1149_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-16022252-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"the score for the 2014 fifa world cup qualification (uefa) be 1 - 0\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1150_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11622496-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"bob charles of new zealand have the most win at 13 , earn him 2910413\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1181_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-14171191-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"alex figge 's best score be 1:26.582\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1203_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1637055-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"the match that result in a 4 - 1 win in daegu be a 1998 fifa world cup qualification\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1211_0",
+        "image": "data/raw_datasets/tabfact/jpgs/1-2668367-7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"stephen ormsby redistricted from the 3rd district be the incumbent in kentucky 's 8th district\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1213_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-16339330-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"western illinois win the championship with a score of 73 - 70\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1231_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18458106-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"february 16 , 1996 be the day of 1996 asian cup qualification\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1233_7",
+        "image": "data/raw_datasets/tabfact/jpgs/1-28243323-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"sydney have a song writer name harry angus\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1243_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-16919628-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"the race on 09 - 13 - 2008 take the place in salem\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1244_2",
+        "image": "data/raw_datasets/tabfact/jpgs/1-27782699-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"kim fogh replace the previous manager on 1 january 2011\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1245_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10809351-16.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"when st kilda as the home team score 8.12 (60) the crowd be 12000\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1248_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17794738-9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"2 people be kill in jaffa on march 17 , 1992\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1256_4",
+        "image": "data/raw_datasets/tabfact/jpgs/1-2866456-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"hidden with the production code of 2t6404 be direct by bradford may and have 6.40 million viewer\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1270_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10775038-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"carlton 's home field be prince park\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1274_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-14129554-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"spain have 0 for bronze\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1288_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1723582-9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the surface with the most match play be carpet\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1307_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1235127-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"the team with zero win and 2 point be rank 15th and 20th\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1340_8",
+        "image": "data/raw_datasets/tabfact/jpgs/2-15184672-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"4 et demi be the 8:00 feature with a 7:00 feature air farce\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1366_6",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11945691-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the score for december 5 be 2 - 12 with a record of 16 - 8 - 4\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1381_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17702363-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"as gubbio 1910 , come in 10th place in the serie c2 / b\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1382_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1242447-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"strong 's transliteration of \u05d9\u05d5\u05b9\u05d9\u05b8\u05e7\u05b4\u05d9\u05dd be yowyaqiym\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1385_4",
+        "image": "data/raw_datasets/tabfact/jpgs/1-28925058-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"on may 2 , daniel ruiz win the spanish grand prix for the first time\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1390_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-10809444-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"on may 10 1947 , carlton be the home team who score 16.16\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1391_5",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17933600-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"bogi\u0107evi\u0107 resign when he be the outgoing manager\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1401_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-13041983-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the total number of round at ufc 114 be 1\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1432_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-16140345-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"ricky davis (21) be the lead scorer , with a score of 74 - 78\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1443_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18124696-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"kaimganj do not have sc reserve\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1445_4",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12815540-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"the street address of the building that have 42 floor be 2345 mcgee street\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1455_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-16653153-12.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the home team venue for the new zealand breaker be north shore event centre\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1490_7",
+        "image": "data/raw_datasets/tabfact/jpgs/1-26040604-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"the minimum die size for an sm count of exactly 2 be more than 116\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1497_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12195931-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"fairhaven school be coed , with a decile of 3\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1504_3",
+        "image": "data/raw_datasets/tabfact/jpgs/1-18703133-6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"the atl colegiales in the 6 position score 18\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1507_8",
+        "image": "data/raw_datasets/tabfact/jpgs/2-16982165-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"the sco anger (d1) have a score of 2 - 2 in the second round against rc lens (d1)\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1512_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-15124803-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"on october 20.1946 , there be 24357 in attendance on week 4\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1537_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11203591-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"vere maina anani or yentho dooram be the name of the song in amma cheppindi\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1538_3",
+        "image": "data/raw_datasets/tabfact/jpgs/1-255885-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"the municipality of santa elena have an area of approximately less than 199.35 sq km\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1563_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17361114-13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"when the round be less than 6 , the player from denmark play the (lw) position\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1580_6",
+        "image": "data/raw_datasets/tabfact/jpgs/1-17282875-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"2 - 2was the score of the first leg , when they play universidad de chile\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1582_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12725824-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDetermine if the hypothesis is true based on the text below:\nHypothesis: \"the height of trondra island in the scalloway islands be 135\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1591_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18943126-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"michel jourdain , jr 's best and qual 2 time be 58.700\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1597_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12720275-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"the rank of a result of (msa 348) have a population of 99962 in 2000\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1608_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-15531181-15.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"maryland be the opponent and 14 - 0 winner , in the october 17th , 1987 game\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1624_2",
+        "image": "data/raw_datasets/tabfact/jpgs/1-26036389-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the table, can we conclude that  Hypothesis: \"dadh malan as a sr number of 44.0in\"?  Options: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1634_2",
+        "image": "data/raw_datasets/tabfact/jpgs/2-1473672-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"the nhl team with pick number 32 be the boston bruin\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1647_1",
+        "image": "data/raw_datasets/tabfact/jpgs/2-17930993-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"jon dahl tommason have 112 cap\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1649_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-11972799-5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"andy reynolds' speed be 93.563 mph , with a time of 1:36.46.93\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1653_1",
+        "image": "data/raw_datasets/tabfact/jpgs/1-261906-2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"in 1997 , 3199 student join mac\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1671_3",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12206491-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"a record of 43 - 28 occur on june 24\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1671_7",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12206491-4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question. Can we conclude that \"the game when the record be 43 - 28 be against the opponent ranger on june 21\"?, based on the content of the given document? \nAnswers are selected from given options \"yes\" or \"no\", and you should not output other than the selected option. "
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1686_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-12859623-3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the following paragraph and determine if the hypothesis is true:\nHypothesis: \"the tournament on august 26 2001 be play on hard surface\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "tabfact_1_1695_0",
+        "image": "data/raw_datasets/tabfact/jpgs/2-18018214-1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRead the text and determine if the hypothesis is true:\nHypothesis: \"fbk kaunas earn the most win , 26\"\nOptions: \"yes\" or \"no\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    }
+]

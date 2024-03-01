@@ -1,0 +1,2802 @@
+[
+    {
+        "id": "textbookqa_1_10_2_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/earth_parts_10184.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What is the part of the earth corresponding with the letter U?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['SOLID IRON INNER CORE', 'MANTLE', 'CRUST', 'LIQUID IRON OUTER CORE']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "Solid iron inner core"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_13_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/earth_parts_10546.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Which label refers to the crust?\" by finding the evidence on the document? Answer options: \"['T', 'M', 'P', 'U']\""
+            },
+            {
+                "from": "gpt",
+                "value": "T"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_26_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/earth_parts_10649.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Which of the labels in the diagram identifies the layer of the Earth that is made of hot, solid rock?\" based on the content of the given document. Options: \"['V', 'D', 'W', 'K']\""
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_47_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/earth_parts_14058.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"Which label shows the crust?\" based on the document. Please select one answer from the followeing options: \"['R', 'S', 'F', 'A']\""
+            },
+            {
+                "from": "gpt",
+                "value": "F"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_79_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/seismic_waves_11695.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"Which label represents the epicenter?\" after reading and comprehending the document. Pick up one answer from the following options: \"['V', 'Y', 'C', 'W']\""
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_102_3_2",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_3997.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"What surrounds the solid inner core of the earth?\" based on the document. Options: \"['mantle', 'crust', 'molten outer core', 'ocean']\""
+            },
+            {
+                "from": "gpt",
+                "value": "molten outer core"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_108_3_7",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_4004.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Which layer of the earth is the cause why the plates of the Earth moves?\" by finding the evidence on the document? Answer options: \"['Mantle', 'Inner Core', 'Crust', 'Melted Rock']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Mantle"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_122_3_13",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_4022.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['5', '4', '3', '7']\" Question \"How many Earth layers are shown in this picture?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_130_3_9",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_4023.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['needed to form oceans', 'to keep the core in place', \"movement in the liquid iron core creates the earth's magnetic field\", 'to maintain the gravity']\" Question \"What is the purpose of the liquid iron core?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "movement in the liquid iron core creates the earth's magnetic field"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_131_3_4",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_4029.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['inner core', 'outer core', 'crust', 'mantle']\" Question \"Which layer has the highest temperature?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "inner core"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_177_3_4",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_4071.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"Which layer is labeled 3?\" after reading and comprehending the document. Pick up one answer from the following options: \"['Crust', 'Inner core', 'Outer core', 'Mantle']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Outer core"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_187_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_4078.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"What is the innermost layer of the earth?\" from the document. Options: \"['Outer core', 'Crust', 'Mantle', 'Inner core']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Inner core"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_192_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_540.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['Inner Core', 'Mantle', 'Crust', 'Outer Core']\" Question \"Which layer is the thinnest layer?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Crust"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_229_3_7",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_549.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many layers are there between the crust and inner core?\" based on the content of the given document. Options: \"['4', '2', '1', '3']\""
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_237_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_6013.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['three', 'one', 'four', 'two']\" Question \"How many layers of the earth are shown here?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "four"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_260_3_9",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_6017.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"How many layers of the earth are there?\" based on the document. Please select one answer from the followeing options: \"['3', '6', '4', '5']\""
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_262_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_6018.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Which part of the earth creates the magnetic field?\" based on the content of the given document. Options: \"['Outer core', 'Mantle', 'Crust', 'Inner core']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Outer core"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_271_3_17",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_6019.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"From the 'not to scale' diagram, how many layers are there in the mantle?\" from the document. Options: \"['4', '2', '5', '3']\""
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_283_3_13",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_6021.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"[\"lithosphere's lenght\", '2900 km', '5100 km', '6378 km']\" Question \"What is the radius of the earth?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "6378 km"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_284_3_4",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_6022.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"Which part of the diagram represents a liquid layer of the Earth?\" after reading and comprehending the document. Pick up one answer from the following options: \"['Lower Mantle', 'Outer Core', 'Crust', 'Inner Core']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Outer Core"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_292_3_2",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_6023.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many layers does the earth have in this diagram?\" based on the content of the given document. Options: \"['4', '3', '1', '2']\""
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_322_3_4",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_640.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"What is the innermost part of the Earth?\" based on the document. Please select one answer from the followeing options: \"['Inner core', 'Crust', 'Mantle', 'Outer core']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Inner core"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_326_3_7",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_641.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Which layer contains igneous rocks and is much less dense than the mantle?\" based on the content of the given document. Options: \"['inner core', 'crust', 'outer core', 'lithosphere']\""
+            },
+            {
+                "from": "gpt",
+                "value": "crust"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_350_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_676.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many layers of the earth are shown in the picture?\" by selecting an answer from given options\"['1', '2', '4', '3']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_356_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/seismic_waves_1705.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"This diagram illustrates what?\" from the document. Options: \"['waves', 'a fault plane', 'epicenter', 'scarp']\""
+            },
+            {
+                "from": "gpt",
+                "value": "a fault plane"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_372_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/seismic_waves_7554.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['core', 'surface waves', 'p waves', 'surface']\" Question \"What is inside the liquid outer core?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "core"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_379_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/seismic_waves_7555.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['none', '3', '2', '1']\" Question \"How many plates are moving in the diagram of an earthquake?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_383_3_15",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/seismic_waves_8191.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"How many types of seismic waves are present?\" based on the document. Options: \"['4', '3', '1', '2']\""
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_10_396_3_15",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/earth_parts_640.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['outer core', 'Inner core', 'Crust', 'Mantle']\" Question \"Which layer of the earth is above the outer core but under the crust?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Mantle"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_11_9_3_9",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/seafloor_spreading_8186.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"How many of the events in the diagram result in earthquakes?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['3', '4', '1', '2']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_11_14_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/seafloor_spreading_8187.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['mud', 'soil', 'magma', 'ocean']\" Question \"From the diagram, what is between plate 1 and plate 2?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "magma"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_11_15_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/seafloor_spreading_8187.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many plates form this mid-oceanic ridge?\" based on the content of the given document. Options: \"['4', '2', '3', '1']\""
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_12_6_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/tectonic_plates_motion_19283.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"What does label C depict in this image of tectonic plates motion?\" based on the document. Please select one answer from the followeing options: \"['SHELF', 'MELTING MAGMA', 'CONVERGING PLATES', 'TRENCH']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Trench"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_12_20_3_15",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/tectonic_plates_motion_9279.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"What is the layer between Asthenosphere and Oceanic crust called?\" based on the document. Please select one answer from the followeing options: \"['Ocean', 'Lithosphere', 'Trench', 'Volcano']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Lithosphere"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_12_27_3_7",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/tectonic_plates_motion_9280.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"What lies exactly below the Lithosphere?\" based on the document. Options: \"['Asthenosphere', 'Trench', 'Volcanoes', 'Oceanic crust']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Asthenosphere"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_12_29_3_7",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/tectonic_plates_motion_9280.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"In an oceanic-continental plate collision, would it be possible for the continental plate to undergo subduction?\" after reading and comprehending the document. Pick up one answer from the following options: \"['No', 'Not enough information to determine', 'Yes', 'It depends']\""
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_12_40_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/tectonic_plates_motion_9283.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Which of these, when two of these move against each other, creates earthquakes?\" by selecting an answer from given options\"['melting magmas', 'converging plates', 'islands', 'trenches']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "converging plates"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_12_66_3_11",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/tectonic_plates_7622.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Which plate lies between the Pacific plate and South American plate?\" by selecting an answer from given options\"['Nazca plate', 'Indian plate', 'Eurasian plate', 'North American plate']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Nazca plate"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_12_82_3_23",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/tectonic_plates_9269.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What plate lies in between the Arabian Plate and the Australian Plate?\" by finding the evidence on the document? Answer options: \"['Pacific Plate', 'Nazca Plate', 'South American Plate', 'Indian Plate']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Indian Plate"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_12_86_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/tectonic_plates_9270.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['Indonesia', 'Japan', 'Pacific Ring of Fire', 'China']\" Question \"Major area in the basin of the Pacific Ocean where many earthquakes and volcanic eruptions occur.\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Pacific Ring of Fire"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_12_96_3_21",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/tectonic_plates_9271.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['5', '6', '4', '3']\" Question \"How many plates does Asia stand on?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_18_17_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/volcanoes_11457.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"Which vulcan would you find in Hawaii?\" after reading and comprehending the document. Pick up one answer from the following options: \"['F', 'L', 'R', 'P']\""
+            },
+            {
+                "from": "gpt",
+                "value": "P"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_18_22_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/volcanoes_11460.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Which label refers to the crater?\" based on the content of the given document. Options: \"['P', 'Y', 'J', 'K']\""
+            },
+            {
+                "from": "gpt",
+                "value": "K"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_18_36_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/volcanoes_11464.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"Where is the cloud above the volcano?\" based on the document. Please select one answer from the followeing options: \"['T', 'U', 'L', 'Y']\""
+            },
+            {
+                "from": "gpt",
+                "value": "T"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_18_77_3_9",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/volcanoes_1458.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"How many vents are labelled?\" from the document. Options: \"['3', '1', '2', '4']\""
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_18_87_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/volcanoes_1462.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many craters are shown in the diagram?\" based on the content of the given document. Options: \"['2', '4', '1', '3']\""
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_18_98_3_4",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/volcanoes_1464.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What connects the crater cone to the magma chamber?\" by finding the evidence on the document? Answer options: \"['ash and gas cloud', 'slope', 'lava', 'vent']\""
+            },
+            {
+                "from": "gpt",
+                "value": "vent"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_18_104_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/volcanoes_1469.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"What connects the crater to the magma chamber?\" from the document. Options: \"['ash cloud', 'side vent', 'lava', 'main vent']\""
+            },
+            {
+                "from": "gpt",
+                "value": "main vent"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_18_106_3_4",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/volcanoes_1471.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"Which identified part of the volcano is visible when it's in an eruption?\" after reading and comprehending the document. Pick up one answer from the following options: \"['Crater', 'Magma Room', 'Ash and rock', 'Magma Pipe']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Ash and rock"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_18_112_3_4",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/volcanoes_1471.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What is pushed upwards through the volcano to cause an eruption?\" by finding the evidence on the document? Answer options: \"['Air', 'Ash', 'Rock', 'Magma']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Magma"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_18_117_3_1",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/volcanoes_378.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"This type of igneous rock forms when magma cools off beneath the Earth's surface.\" based on the content of the given document. Options: \"['Sedimentary Rock', 'Intrusive Igneous Rock', 'Extrusive Igneous Rock', 'Metamorphic Rock']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Intrusive Igneous Rock"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_18_120_3_1",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/volcanoes_378.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"From where does magma come out as lava and cool on the surface?\" after reading and comprehending the document. Pick up one answer from the following options: \"['Extrusive Igneous Rock', \"Earth's surface\", 'Magma', 'Intrusive Igneous Rock']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Extrusive Igneous Rock"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_18_127_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/volcanoes_4845.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What type of volcano has an almost flat top?\" based on the content of the given document. Options: \"['Caldera', 'Stratovolcano', 'Shield volcano', 'Somma volcano']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Shield volcano"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_18_151_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/volcanoes_4878.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many parts of the volcano are described in the diagram?\" by selecting an answer from given options\"['8', '7', '9', '6']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_18_182_3_15",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/volcanoes_7670.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What do you call the connection between 1 and 10?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['lava', 'bedrock', 'ash layer', 'pipe']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "pipe"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_19_26_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/soil_horizons_1411.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"What is the layer with the most organic material?\" from the document. Options: \"['B (subsoil)', 'C (parent material)', 'A (topsoil)', 'E (eluviated horizon)']\""
+            },
+            {
+                "from": "gpt",
+                "value": "A (topsoil)"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_19_53_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/soil_horizons_4263.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many layers are there between the O horizon and B horizon?\" by selecting an answer from given options\"['2', '5', '1', '3']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_19_62_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/soil_horizons_4269.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"Which horizon is in the bottom part of the soil?\" from the document. Options: \"['B Horizon', 'A Horizon', 'O Horizon', 'R Horizon']\""
+            },
+            {
+                "from": "gpt",
+                "value": "R Horizon"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_19_97_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/soil_horizons_1411.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"Where is the subsoil located?\" based on the document. Please select one answer from the followeing options: \"['C', 'b', 'e', 'o']\""
+            },
+            {
+                "from": "gpt",
+                "value": "b"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_23_4_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/types_clouds_17649.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"Identify the cirrocumulus clouds on the diagram\" based on the document. Please select one answer from the followeing options: \"['F', 'Y', 'C', 'E']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Y"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_23_7_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/types_clouds_17652.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"Which letter indicates stratocumulus clouds?\" based on the document. Please select one answer from the followeing options: \"['R', 'E', 'J', 'T']\""
+            },
+            {
+                "from": "gpt",
+                "value": "R"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_23_10_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/types_clouds_17653.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"Identify the cirrus in this picture\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['K', 'X', 'R', 'F']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "F"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_23_21_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/types_clouds_18207.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Identify the clouds that are so high in the troposphere that they are made of ice crystals.\" by finding the evidence on the document? Answer options: \"['K', 'N', 'H', 'D']\""
+            },
+            {
+                "from": "gpt",
+                "value": "H"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_23_35_3_24",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/types_clouds_7650.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Which type of cloud is most likely to be made up of ice crystals?\" based on the content of the given document. Options: \"['Nimbostratus', 'Cirrus', 'Stratus', 'Altostratus']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Cirrus"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_23_38_3_24",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/types_clouds_7650.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Above what height from the ground is the altostratus present?\" based on the content of the given document. Options: \"['7 kilometer', '5 kilometer', '2 kilometer', '3 kilometer']\""
+            },
+            {
+                "from": "gpt",
+                "value": "7 kilometer"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_23_39_3_24",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/types_clouds_7650.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"How many types of clouds are shown in the diagram?\" after reading and comprehending the document. Pick up one answer from the following options: \"['4', '5', '6', '3']\""
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_23_42_3_15",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/types_clouds_7651.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"What causes weather?\" after reading and comprehending the document. Pick up one answer from the following options: \"['Altostratus', 'Unequal heating of the atmosphere', 'Movement of the earth', 'Cirrus']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Unequal heating of the atmosphere"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_23_54_3_13",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/types_clouds_7653.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Which type of cloud usually occurs in the low troposphere?\" by selecting an answer from given options\"['Stratus', 'Cirrocumulus', 'Cumulonimbus', 'Cirrus']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Stratus"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_23_60_3_14",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/types_clouds_7655.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Where are cirrus clouds formed?\" by finding the evidence on the document? Answer options: \"['In space', 'High in the troposphere', 'In mid-troposphere', 'Low in the troposphere']\""
+            },
+            {
+                "from": "gpt",
+                "value": "High in the troposphere"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_23_73_3_11",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/types_clouds_8206.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"At how many kilometers do cirrus clouds originate?\" based on the document. Options: \"['5', '9', '4', '6']\""
+            },
+            {
+                "from": "gpt",
+                "value": "9"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_23_78_3_12",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/types_clouds_8207.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['cumulonimbus', 'nimbostatus', 'altostatus', 'cirrus']\" Question \"What kind of cloud covers low, medium, and high altitudes?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "cumulonimbus"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_23_92_3_26",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/types_clouds_8209.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"How many types of clouds are in the diagram?\" from the document. Options: \"['10', '9', '8', '11']\""
+            },
+            {
+                "from": "gpt",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_23_93_3_26",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/types_clouds_8209.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['Altocumulus', 'Nimbostratus', 'Cumulonimbus', 'Stratus']\" Question \"Which among the clouds extends from the lowest to the highest altitudes?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cumulonimbus"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_66_24_3_20",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/ocean_currents_7114.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"Which ocean movement is located just below the Californian ocean movement?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['West Austalian', 'South Equatorial', 'Gulf stream', 'Labrador']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "South Equatorial"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_79_0_3_28",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/phagocytosis_9209.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"What happens after the phagocyte consumes a foreign particle?\" after reading and comprehending the document. Pick up one answer from the following options: \"['A phagosome is formed.', 'It adheres to the microbe.', 'It is digested.', 'Waste material is discharged.']\""
+            },
+            {
+                "from": "gpt",
+                "value": "A phagosome is formed."
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_79_16_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/phagocytosis_9213.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What happens after detection?\" based on the content of the given document. Options: \"['Delivery to lysosome', 'Digestion', 'Phagosome formation', 'Small molecules recycled']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Phagosome formation"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_79_17_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/phagocytosis_9213.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is the responsible for the recirculation of small invasor molecules?\" based on the content of the given document. Options: \"['Lysosome', 'Immune System', 'Phagosome', 'Blood']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Phagosome"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_79_24_3_9",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/phagocytosis_9214.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What happens after pseudopodia surround microbes?\" by finding the evidence on the document? Answer options: \"['Vacuole containing microbes forms.', 'Microbes are engulfed into cell.', 'Toxic compounds and lysosomal enzymes destroy microbes.', 'Vacuole and lysosome fuse.']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Microbes are engulfed into cell."
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_79_29_3_21",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/phagocytosis_9216.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"From the diagram, what happens after bacterium is engulfed?\" by finding the evidence on the document? Answer options: \"['White cell moves towards bacterium', 'Waste products expelled', 'Bacterium is digested', 'Waste products left']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Bacterium is digested"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_79_43_3_13",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/phagocytosis_9219.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"What stage of phagocytosis comes after attachment?\" based on the document. Options: \"['killing', 'digestion', 'degradation', 'ingestion']\""
+            },
+            {
+                "from": "gpt",
+                "value": "ingestion"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_80_37_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/human_system_immune_9112.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"What is in the neck?\" after reading and comprehending the document. Pick up one answer from the following options: \"['thymus', 'lymph nodes', 'liver', 'spleen']\""
+            },
+            {
+                "from": "gpt",
+                "value": "lymph nodes"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_80_39_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/human_system_immune_9112.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What organ is located in the abdomen below the lungs?\" based on the content of the given document. Options: \"['Lymph vessels', 'Lymph nodes', 'Thymus', 'Spleen']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Spleen"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_80_44_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/human_system_immune_9113.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many immune system organs do you see in the diagram?\" by finding the evidence on the document? Answer options: \"['1', '5', '3', '2']\""
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_80_45_3_7",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/human_system_immune_9114.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['to produce white blood cells called lymphocytes', 'trap pathogens that enter the body through the mouth or nose.', ' It stores some types of lymphocytes while they mature', 'It filters pathogens out of the blood']\" Question \"What is the purpose of the spleen?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "It filters pathogens out of the blood"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_80_46_3_7",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/human_system_immune_9114.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"What are the green round circles called?\" after reading and comprehending the document. Pick up one answer from the following options: \"['spleen', 'thymus', 'lymph nodes', 'bone marrow']\""
+            },
+            {
+                "from": "gpt",
+                "value": "lymph nodes"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_80_53_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/human_system_immune_9115.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"Which organ has the job of filtering pathogens out of the blood?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['Thymus', 'Tonsils', 'Liver', 'spleen']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "spleen"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_80_54_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/human_system_immune_9115.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"Organ of the immune system that is located besides the liver\" after reading and comprehending the document. Pick up one answer from the following options: \"['tonsils', 'spleen', 'thymus', 'liver']\""
+            },
+            {
+                "from": "gpt",
+                "value": "spleen"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_80_57_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/human_system_immune_9115.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"Which of these is larger; the spleen, liver, tonsils, thymus?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['thymus', 'liver', 'tonsils', 'spleen']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "liver"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_6_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/parts_cell_11082.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"Where is the cilia located?\" from the document. Options: \"['P', 'F', 'J', 'M']\""
+            },
+            {
+                "from": "gpt",
+                "value": "J"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_27_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/parts_cell_11182.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Which letter represents a cell membrane?\" by selecting an answer from given options\"['C', 'R', 'F', 'M']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "R"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_39_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/parts_cell_11223.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Which label marks the plant cell nucleus?\" based on the content of the given document. Options: \"['T', 'U', 'D', 'H']\""
+            },
+            {
+                "from": "gpt",
+                "value": "U"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_40_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/parts_cell_11223.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"Which label shows the Centrosome?\" based on the document. Please select one answer from the followeing options: \"['C', 'D', 'W', 'M']\""
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_86_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/parts_cell_13296.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"Which label shows the nucleus?\" based on the document. Options: \"['D', 'W', 'E', 'A']\""
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_101_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/parts_cell_13337.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"Identify the centriole in this picture\" after reading and comprehending the document. Pick up one answer from the following options: \"['W', 'M', 'Y', 'E']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Y"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_103_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/parts_cell_13337.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"Identify the structure that makes energy available to the cell.\" based on the document. Options: \"['V', 'R', 'P', 'M']\""
+            },
+            {
+                "from": "gpt",
+                "value": "V"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_123_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/parts_cell_16237.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"Which label shows the Peroxisome?\" from the document. Options: \"['W', 'C', 'H', 'U']\""
+            },
+            {
+                "from": "gpt",
+                "value": "W"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_160_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/parts_cell_16254.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['T', 'V', 'D', 'A']\" Question \"Which part of the cell makes energy available to the cell?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "T"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_177_3_18",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_1067.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['golgi body', 'vacuole', 'ribosomes', 'cell wall']\" Question \"Which part surrounds and protects the cell?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "cell wall"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_189_3_11",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_1079.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Which structure is immediately before the cell wall protecting the cell?\" by selecting an answer from given options\"['Nucleus', 'Membrane', 'Ribossome', 'Cytoplasm']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Membrane"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_193_3_14",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_1082.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"What is the cell casing called?\" after reading and comprehending the document. Pick up one answer from the following options: \"['Ribosomes', 'Nucleus', 'Vacuole', 'Plasma membrane.']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Plasma membrane."
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_228_3_14",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_1171.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many nuclei is shown in the illustration?\" by selecting an answer from given options\"['4', '1', '3', '2']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_229_3_14",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_1171.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"What is shown in the diagram?\" from the document. Options: \"['Anatomy of an animal cell', 'Photosynthesis', 'Energy Wave', 'Anatomy of an human cell']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Anatomy of an animal cell"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_279_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_1217.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"Which part of the animal cell makes energy available to the cell?\" from the document. Options: \"['Ribosome', 'Cell Wall', 'Chloroplast', 'Mitochondrion']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Mitochondrion"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_294_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_1222.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many features of a plant cell do not appear in animal cells?\" by selecting an answer from given options\"['3', '2', '6', '5']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_309_3_14",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_2855.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"How many membrane layers are there?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['3', '2', '4', '1']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_356_3_15",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3050.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"How many parts are only present in one kind of cell?\" based on the document. Please select one answer from the followeing options: \"['4', '3', '1', '2']\""
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_371_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3066.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"What is the fluid portion of cytoplasm?\" based on the document. Options: \"['Rough ER', 'Cytosol', 'Golgi Apparatus', 'Chloroplast']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Cytosol"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_382_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3086.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Where is the Chromosomal DNA located?\" based on the content of the given document. Options: \"['capsule', 'cell membrane', 'cell wall', 'nucleoid']\""
+            },
+            {
+                "from": "gpt",
+                "value": "nucleoid"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_383_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3086.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"How many parts are there in a prokaryotic cell?\" after reading and comprehending the document. Pick up one answer from the following options: \"['4', '6', '2', '7']\""
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_387_3_12",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3235.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many microtubules are shown in the figure?\" by finding the evidence on the document? Answer options: \"['5', '3', '6', '4']\""
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_395_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3238.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"Which part helps organize the DNA in the nucleus before cell division takes place?\" based on the document. Options: \"['Nuclear envelope', 'Microtubules', 'Centrioles', 'Nuclear pore']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Centrioles"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_417_3_15",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3242.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"What's the name of the outermost part of the cell in the diagram?\" based on the document. Please select one answer from the followeing options: \"['Cytoplasm', 'Microvili', 'Karyon', 'Ribosomes']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Microvili"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_430_3_10",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3244.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"Which part of the cell controls what substances enter and leave the cell?\" based on the document. Options: \"['Nucleus', 'Lysosome', 'Endoplasmic reticulum', 'Cell membrane']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Cell membrane"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_432_3_10",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3244.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['cell membrane', 'cell wall', 'nucleolus', 'in the cytoplasm']\" Question \"Where is the Golgi apparatus located?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "in the cytoplasm"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_451_3_21",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3248.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many parts does the nucleus have?\" by selecting an answer from given options\"['4', '2', '5', '3']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_455_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3253.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What protects and supports the cell?\" by finding the evidence on the document? Answer options: \"['Cytoplasm', 'Golgi body', 'Vacuole', 'Cell wall']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Cell wall"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_457_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3253.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Which part of the cell is identified with the color green?\" by selecting an answer from given options\"['Flagellum', 'Chloroplast', 'nucleus', 'Golgi body']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Chloroplast"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_464_3_14",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3255.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What gives shape to the cell and includes other structures?\" by selecting an answer from given options\"['Ribosomes', 'Nucleus', 'Organelles', 'Cytoplasm']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Cytoplasm"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_477_3_18",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3261.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"What is the inner cell part?\" based on the document. Options: \"['flagellum', 'vesicle', 'nucleolus', 'cytoplasm']\""
+            },
+            {
+                "from": "gpt",
+                "value": "nucleolus"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_521_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3274.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"How many types of endoplasmic reticulum are there?\" based on the document. Please select one answer from the followeing options: \"['3', '1', '4', '2']\""
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_535_3_13",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3284.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"In a typical animal cell what is the number of lysosome?\" based on the document. Please select one answer from the followeing options: \"['1', '4', '3', '2']\""
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_536_3_13",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3284.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['Rough ER', 'lysosomes', 'golgi apparatus', 'smoth ER']\" Question \"What is an organelle containing degradative enzymes enclosed in a membrane?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "lysosomes"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_544_3_13",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3287.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is the outermost part of a mitochondrion?\" based on the content of the given document. Options: \"['ribosome', 'granule', 'outer membrane', 'matrix']\""
+            },
+            {
+                "from": "gpt",
+                "value": "outer membrane"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_619_3_13",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3328.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"By which structure is the cytoskeleton enveloped?\" by selecting an answer from given options\"['Golgi body', 'Nucleus', 'Nuclear Envelope', 'Plasma Membrane']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Plasma Membrane"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_629_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3331.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"What is the function of the nucleolus?\" based on the document. Options: \"['to guard the nucleus', \"to keep the cell's shape\", 'Its function is to form ribosomes', 'to keep the cells intact']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Its function is to form ribosomes"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_630_3_14",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3337.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"What does a plant cell have that an animal cell doesn't?\" from the document. Options: \"['ribosomes', 'nucleus', 'cytoplasm', 'cell wall']\""
+            },
+            {
+                "from": "gpt",
+                "value": "cell wall"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_632_3_14",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3337.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Which organ forms a barrier between the cytoplasm and the environment outside the cell\" by selecting an answer from given options\"['cytoplasm', 'cell membrane', 'ribosome', 'nucleus']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "cell membrane"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_634_3_14",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3337.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many organelles do animal and plant cells have in common?\" based on the content of the given document. Options: \"['1', '4', '2', '3']\""
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_655_3_14",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3500.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"How many parts make up the nucleo?\" from the document. Options: \"['2', '4', '1', '3']\""
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_681_3_17",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3518.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"How many components forms a nucleus?\" based on the document. Options: \"['2', '5', '3', '4']\""
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_695_3_15",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_3535.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What is the name of the star-like organelle inside the large central vacuole?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['chloroplast', 'Druse crystal', 'Cell membrane', 'Cytoplasm']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "Druse crystal"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_740_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_6235.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What part produce energy current of the cell?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['nucleus', 'mitochondria', 'golgi complex', 'nucleolus']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "mitochondria"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_750_3_14",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_6236.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many parts are shown in the diagram below?\" based on the content of the given document. Options: \"['10', '14', '9', '12']\""
+            },
+            {
+                "from": "gpt",
+                "value": "14"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_758_3_13",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_6238.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['ribosomes', 'mitochondria', 'vacuole', 'golgi body']\" Question \"From the diagram, identify the organelle that makes energy for the cell.\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "mitochondria"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_759_3_13",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_6238.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is present in an animal cell that is not present in a plant cell?\" based on the content of the given document. Options: \"['Chloroplast', 'Lysosomes', 'Ribosomes', 'Golgi body']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Lysosomes"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_780_3_12",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_6242.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"What is a membrane-enclosed organelle found in eukaryotic cells?\" based on the document. Options: \"['Vacuoles', 'Nucleus', 'Centrioles', 'Ribosome']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Nucleus"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_782_3_12",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_6242.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many smooth endoplasmic reticulums are shown in the picture?\" by selecting an answer from given options\"['3', '1', '4', '2']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_794_3_12",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_6244.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"How many chloroplasts are depicted in this diagram?\" after reading and comprehending the document. Pick up one answer from the following options: \"['3', '2', '1', '4']\""
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_818_3_7",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_6248.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"What is the outermost part of this cell called?\" based on the document. Please select one answer from the followeing options: \"['ribosomes', 'nucleus', 'cell membrane', 'cytoplasm']\""
+            },
+            {
+                "from": "gpt",
+                "value": "cell membrane"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_847_3_7",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_6252.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is a tiny cellular structure that performs specific functions within a cell?\" based on the content of the given document. Options: \"['Membrane', 'Organelle', 'Plasmid', 'Ribosome']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Organelle"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_891_3_21",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_6259.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Which cell part is the nucleolus located within?\" based on the content of the given document. Options: \"['Chloroplast', 'Nucleus', 'Lysosome', 'Mitochondrion']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Nucleus"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_82_902_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/parts_cell_6261.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['6', '8', '7', '2']\" Question \"How many parts of the cell are shown?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_84_6_3_14",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/cell_division_19037.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['X', 'L', 'D', 'T']\" Question \"When does the cell actually separate into two separate cells?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "X"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_84_29_3_12",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/cell_division_6618.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What happens after DNA Replication after Mitotic Cell Division?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['cell division 2', 'Duplicated chromosomes line up individually on the spindle', 'Pairing of duplicated homologous chromosomes', 'Cell division 1']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "Duplicated chromosomes line up individually on the spindle"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_84_35_3_2",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/cell_division_8019.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"What happens if the DNA replication is unsuccessful?\" after reading and comprehending the document. Pick up one answer from the following options: \"['Mitosis will still occur and the cell will divide normally.', 'The cell will multiply by other means.', 'Mitosis will not occur and the cell will not divide.', 'The new cells will have no DNA.']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Mitosis will not occur and the cell will not divide."
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_84_54_3_10",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/cell_division_9037.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['Telophase II', 'Prophase I', 'Telophase', 'Anaphase']\" Question \"What is the last phase of Meiosis I?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Telophase"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_84_64_3_7",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/cell_division_9040.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"What comes after metaphase?\" from the document. Options: \"['anaphase', 'prophase', 'interphase', 'telophase']\""
+            },
+            {
+                "from": "gpt",
+                "value": "anaphase"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_84_72_3_17",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/eukaryotic_cell_cycles_6868.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"When mitosis is complete, how many chromosomes does a daughter cell contain?\" by selecting an answer from given options\"['24', '25', '23', '26']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "23"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_84_104_3_7",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/eukaryotic_cell_cycles_9102.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"In this diagram of cell division, what occurs after G2 or Growth and Preparation for Mitosis?\" by finding the evidence on the document? Answer options: \"['G1', 'DNA Synthesis', 'Mitosis', 'Growth']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Mitosis"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_29_3_11",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/protozoa_19236.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"By what letter is the cilia represented in the diagram?\" based on the content of the given document. Options: \"['H', 'J', 'R', 'S']\""
+            },
+            {
+                "from": "gpt",
+                "value": "H"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_35_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/protozoa_9221.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What are the short, hair-like projections that help the protozoa move?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['Cilia', 'Micronucleus', 'Gullet', 'Food Vacuole']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "Cilia"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_40_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/protozoa_9221.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"Which of the following does the cell represented in the picture not contain?\" from the document. Options: \"['normonucleus', 'cilia', 'micronucleus', 'gullet']\""
+            },
+            {
+                "from": "gpt",
+                "value": "normonucleus"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_49_3_11",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/protozoa_9224.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What is the tail-like part called?\" by finding the evidence on the document? Answer options: \"['mitochondria', 'nucleus', 'eyespot', 'flagellum']\""
+            },
+            {
+                "from": "gpt",
+                "value": "flagellum"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_55_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/protozoa_9225.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Which part of the cell takes up the largest surface area?\" by selecting an answer from given options\"['Nucleus', 'Vacuole', 'Cytoplasm', 'Membrane']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "Cytoplasm"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_64_3_10",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/protozoa_9227.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"How many types of vacuoles are shown in the diagram?\" based on the document. Please select one answer from the followeing options: \"['2', '3', '4', '1']\""
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_67_3_10",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/protozoa_9227.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"Which part excretes water and waste?\" after reading and comprehending the document. Pick up one answer from the following options: \"['cytoplasm', 'pseudopod', 'cell membrane', 'contractile vacuole']\""
+            },
+            {
+                "from": "gpt",
+                "value": "contractile vacuole"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_75_3_11",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/protozoa_9229.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many flagella does the organism have?\" by finding the evidence on the document? Answer options: \"['One', 'Three', 'Ten', 'Two']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Two"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_76_3_11",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/protozoa_9229.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"How many flagellums are there?\" from the document. Options: \"['2', '4', '1', '3']\""
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_77_3_11",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/protozoa_9229.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is inside the nucleus?\" based on the content of the given document. Options: \"['nucleolus', 'chloroplast', 'pyrenoid', 'reservoir']\""
+            },
+            {
+                "from": "gpt",
+                "value": "nucleolus"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_100_3_12",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/protozoa_9233.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"What are the hair-like protrusions on the outside called?\" based on the document. Options: \"['gullet', 'food vacuoles', 'cilia', 'cytoplasm']\""
+            },
+            {
+                "from": "gpt",
+                "value": "cilia"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_101_3_12",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/protozoa_9233.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What is the larger type of nucleus in ciliates?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['Cilia', 'Food Vacuoles', 'Macronucleus', 'Cytoplasm']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "Macronucleus"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_119_3_10",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/protozoa_9236.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"What are the hair-like protrusions on the outside called?\" after reading and comprehending the document. Pick up one answer from the following options: \"['mouth pore', 'gullet', 'macronucleus', 'cilia']\""
+            },
+            {
+                "from": "gpt",
+                "value": "cilia"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_129_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/protozoa_9239.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"Which part of the cell helps it moves around?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['Cilia', 'Oral groove', 'Food vacuoles', 'Anal Pore']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "Cilia"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_87_134_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/protozoa_9240.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"What is a type of cell or organism which has the ability to alter its shape, primarily by extending and retracting pseudopods?\" based on the document. Options: \"['Cell', 'Snake', 'Amoeba', 'Nucleus']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Amoeba"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_88_4_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/fungi_reproduction_6903.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"According to the image what occurs between spores and the appearance of sporangia?\" based on the document. Please select one answer from the followeing options: \"['Sporangia bursts', 'Sporangia appears', 'Spores', 'Spores grow hyphae']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Spores grow hyphae"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_88_21_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/fungi_reproduction_6908.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many stages in the fungi life cycle are shown in the diagram?\" by selecting an answer from given options\"['2', '1', '3', '4']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_88_22_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/fungi_reproduction_6908.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['nothing happens', 'spores', 'sporangia bursts', 'spores grow hyphae']\" Question \"What happens after sporangia appears?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "sporangia bursts"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_96_9_3_16",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/types_cells_18202.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"Which letter represents the Red Blood Cells?\" based on the document. Please select one answer from the followeing options: \"['V', 'L', 'U', 'F']\""
+            },
+            {
+                "from": "gpt",
+                "value": "V"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_134_1_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/circuits_1052.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['It will stay on', 'It will explode', 'It will flicker', 'They will both go out']\" Question \"If one bulb goes out what will happen to the other?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "It will stay on"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_134_27_3_4",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/circuits_1369.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What type of switch is represented in this diagram?\" by finding the evidence on the document? Answer options: \"['Open Switch', 'Closed Switch', 'No Switch', 'Positive Switch']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Closed Switch"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_134_31_3_1",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/circuits_1373.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many bulbs are shown in the diagram?\" by finding the evidence on the document? Answer options: \"['2', '4', '1', '3']\""
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_134_50_3_4",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/circuits_1546.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['2', '5', '3', '1']\" Question \"How many bulbs does this battery power?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_134_55_3_0",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/circuits_1560.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"Where does the red wire from the battery connected to?\" based on the document. Options: \"['none', 'other end of battery', 'light bulb', 'switch']\""
+            },
+            {
+                "from": "gpt",
+                "value": "light bulb"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_134_77_3_4",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/circuits_1574.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"What type of metal is needed for electricity to flow?\" from the document. Options: \"['Conductive metal', 'insulating metal', 'wet metal', 'gold metal']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Conductive metal"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_134_79_3_0",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/circuits_1579.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['3', '5', '4', '2']\" Question \"How many bulbs are there in a series circuit?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_134_90_3_6",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/circuits_1610.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"How many batteries are there in a series circuit?\" based on the document. Options: \"['4', '3', '2', '1']\""
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_134_102_3_1",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/circuits_1616.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"In the parallel circuit what would happen if one of the bulbs were to blow out?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['The other bulb would flicker', 'The other bulb would also blow out', 'The other bulb would continue to work normally', 'The other bulb would go out']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "The other bulb would continue to work normally"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_134_109_3_5",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/circuits_210.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['3', '4', '2', '1']\" Question \"How many sides are there in a battery in the diagram below?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_134_121_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/circuits_217.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What will happen if you open the circuit?\" based on the content of the given document. Options: \"['the two bulbs will light', 'only one bulb will light', \"you can't open a circuit\", 'the bulbs will not light']\""
+            },
+            {
+                "from": "gpt",
+                "value": "the bulbs will not light"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_134_131_3_1",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/circuits_222.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer shortly the following question \"How many batteries are shown in this image?\" based on the document. Please select one answer from the followeing options: \"['1', '4', '3', '2']\""
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_134_132_3_1",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/circuits_222.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"How many types of circuits are depicted in the diagram?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['2', '1', '4', '3']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_137_7_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/electromagnetism_6796.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['Toggle Switch (negative side)', 'Nail', \"The Battery's Positive Pole\", 'Toggle Switch (positive side)']\" Question \"In the circuit, what is directly connected to the battery's negative pole through the copper wire?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Nail"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_141_1_3_4",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/states_of_matter_17613.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"Which container contains gas?\" based on the document. Options: \"['R', 'R AND D', 'D', 'P']\""
+            },
+            {
+                "from": "gpt",
+                "value": "P"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_141_10_3_4",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/states_of_matter_19252.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['T', 'F', 'S', 'F AND S']\" Question \"Which letter represents a Solid?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "T"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_141_14_3_4",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/states_of_matter_19258.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"Which label refers to the liquid matter?\" based on the document. Options: \"['M', 'J', 'W', 'K']\""
+            },
+            {
+                "from": "gpt",
+                "value": "W"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_141_40_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/states_of_matter_9251.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"According to the diagram, how many states does the matter have?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['1', '2', '3', '4']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_141_43_3_3",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/states_of_matter_9251.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer to the question \"Which of the following represents the states of matter that ice is?\" from the document. Options: \"['Gas', 'Solid', 'Ice does not have a state of matter', 'Liquid']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Solid"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_141_57_3_2",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/states_of_matter_9255.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"Which state of matter has particles which can partly overcome the force of attraction between them?\" after reading and comprehending the document. Pick up one answer from the following options: \"['Solid', 'Plasma', 'Liquid', 'Gas']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Liquid"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_141_59_3_2",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/states_of_matter_9255.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nYou must answer to the question \"How many states of matter are there according to the diagram?\" after reading and comprehending the document. Pick up one answer from the following options: \"['1', '3', '4', '5']\""
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_141_61_3_17",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/states_of_matter_9257.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Which state has its particles' arrangement be regular?\" by finding the evidence on the document? Answer options: \"['gas', 'liquid', 'solid', 'plasma']\""
+            },
+            {
+                "from": "gpt",
+                "value": "solid"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_141_65_3_17",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/states_of_matter_9257.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['2', '3', '4', '5']\" Question \"How many states of matter are there?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_141_73_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/abc_question_images/states_of_matter_17613.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Identify gas\" by finding the evidence on the document? Answer options: \"['R', 'D', 'P', 'PURPLE']\""
+            },
+            {
+                "from": "gpt",
+                "value": "p"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_142_20_3_11",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/evaporation_and_sublimation_6876.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"How many processes are involved in turning vapor into ice?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['3', '5', '2', '4']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_142_27_3_12",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/evaporation_and_sublimation_6877.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the scientific document. There is some text on the image. Provide your short answer to the question \"How many states of matter are there?\" based on the document. Options: \"['4', '2', '1', '3']\""
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_142_50_3_9",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/evaporation_and_sublimation_8077.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Which process changes a liquid to a gas?\" by selecting an answer from given options\"['melting', 'evaporation', 'freezing', 'condensation']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "evaporation"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_142_68_3_8",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/evaporation_and_sublimation_8081.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['Condensation', 'Melting', 'Freezing', 'Sublimation']\" Question \"What is the process of a solid turning into a liquid called?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Melting"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_142_74_3_11",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/evaporation_and_sublimation_8082.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"From the diagram, identify the process in which solid becomes gas.\" by selecting an answer from given options\"['evaporation', 'deposition', 'sublimation', 'melting']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "sublimation"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_142_111_3_13",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/state_change_7604.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nAnswer options: \"['Turn a liquid into a gas.', 'Turn a solid into a gas.', 'Turn a liquid into a solid.', 'Turn a solid into a liquid.']\" Question \"What does freezing do?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Turn a liquid into a solid."
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_142_117_3_13",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/state_change_7604.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to figure out the answer to the question \"What happens when a liquid substance freezes?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \"['It turns into gas', 'It sublimes', 'It becomes solid', 'It condenses']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "It becomes solid"
+            }
+        ]
+    },
+    {
+        "id": "textbookqa_1_142_137_3_15",
+        "image": "data/raw_datasets/textbookqa/tqa_train_val_test/val/question_images/state_change_8165.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What causes solid to turn to gas?\" by selecting an answer from given options\"['vaporization', 'condensation', 'sublimation', 'deionization']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "sublimation"
+            }
+        ]
+    }
+]

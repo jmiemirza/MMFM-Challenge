@@ -1,0 +1,2802 @@
+[
+    {
+        "id": "funsd_1_0_27_26_2",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82092117.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"ATT. GEN. ADMIN. OFFICE\". "
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_0_27_26_13",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82092117.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"(336) 335- 7363\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_0_27_26_26",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82092117.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"Primed an \" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_1_63_58_2",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82200067_0069.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"\u2611 001\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_1_63_58_20",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82200067_0069.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"Boise # REPS: 2. 5\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_1_63_58_33",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82200067_0069.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"Maid -O Clover\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_2_35_35_2",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82250337_0338.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"TO:\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_2_35_35_9",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82250337_0338.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"All Packings\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_2_35_35_25",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82250337_0338.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"They have crew- worked distribution, and it is reported that they may crew- work it again Sales force has been busy promoting old style backs to clean up inventory. All POS is being converted to \"B\" Kool.\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_2_35_35_31",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82250337_0338.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"Very well received. The packs are peing consolidated and promoted in select retail locations at 40 off $4 00 off cartons.\". "
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_3_41_40_9",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82251504.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"August 29\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_3_41_40_15",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82251504.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"October 31\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_3_41_40_17",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82251504.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"X\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_3_41_40_18",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82251504.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"Kent B. Mills\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_4_41_41_23",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82252956_2958.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"NO. OF STORES\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_5_42_42_0",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253058_3059.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"12/ 10/ 36 09: 51\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_5_42_42_5",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253058_3059.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"PROGRESS REPORT\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_5_42_42_20",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253058_3059.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"SEPT\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_5_42_42_34",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253058_3059.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"DISTRIBUTOR INVOLVEMENT:\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_5_42_42_42",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253058_3059.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"CAMEL WK1/ FMT\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_6_69_69_7",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253245_3247.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"SEP 22\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_6_69_69_11",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253245_3247.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"STYLE LOW PRICE PROGRESS REPORT\". "
+            },
+            {
+                "from": "gpt",
+                "value": "title"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_6_69_69_18",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253245_3247.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"BIGIF 2 FOR 1:\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_6_69_69_30",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253245_3247.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"Pollock Candy and Cigar\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_6_69_69_32",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253245_3247.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"104/ 22\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_6_69_69_41",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253245_3247.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"DIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION (15+ STORES) STOCKING NO LOW PRICE STYLE\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_6_69_69_46",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253245_3247.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"82\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_6_69_69_53",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253245_3247.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"5\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_6_69_69_54",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253245_3247.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"7- 11 318 Zon\". "
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_6_69_69_60",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253245_3247.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"Page 1 of 3 Pages\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_7_104_104_0",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253362_3364.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"TO:\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_7_104_104_16",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253362_3364.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"REGION:\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "title"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_7_104_104_30",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253362_3364.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"20\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_7_104_104_34",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253362_3364.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"ACO Texaco\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_7_104_104_58",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253362_3364.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"22\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_7_104_104_64",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82253362_3364.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"Brookshire Bro's\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_8_46_46_3",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82254765.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"DATE TO NYO:\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_8_46_46_10",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82254765.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"H. Levinson Tradeshow\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_8_46_46_13",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82254765.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"SAMPLES/ ITEMS REQUIRED:\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_8_46_46_14",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82254765.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"SAMPLE 10'S (400 PACKS PER CASE)\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_8_46_46_17",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82254765.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"2\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_8_46_46_27",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82254765.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"KENT K. S.\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_8_46_46_28",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82254765.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"KENT 100\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_8_46_46_32",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82254765.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"1500\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_8_46_46_34",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82254765.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"WATER BOTTLES\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_8_46_46_44",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82254765.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"01/17/97\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_9_18_18_4",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82491256.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"COURT:\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_9_18_18_5",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82491256.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"LORILLARD ENTITIES:\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_10_17_17_2",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82504862.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"CASE NAME:\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_10_17_17_14",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82504862.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"LORILLARD COUNSEL:\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_10_17_17_16",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82504862.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"TRIAL DATE:\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_11_35_34_5",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82562350.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"Fax\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "title"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_11_35_34_7",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82562350.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"Mr. Randy Spell\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_11_35_34_18",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82562350.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"4\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_12_16_13_10",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82573104.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"803E // Pages (including cover)\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_13_23_23_12",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82837252.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"BRAND NAME:\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_13_23_23_16",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/82837252.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"EXTENT OF DISTRIBUTION:\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_14_32_32_2",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83443897.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"FAX TRANSMISSION\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "title"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_14_32_32_18",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83443897.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"202/ 828- 2259 and 202/ 828 2241\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_15_50_50_11",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83553333_3334.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"1999\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_15_50_50_16",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83553333_3334.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"212- 450- 4785\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_15_50_50_19",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83553333_3334.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"17555 002\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_15_50_50_30",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83553333_3334.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"843- 720- 9290\". "
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_16_54_54_21",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83573282.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"(212) 403- 2000\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_16_54_54_31",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83573282.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"(917) 663- 5399\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_16_54_54_42",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83573282.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"Mr. Stephen R. Patton\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_16_54_54_48",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83573282.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"if you do\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_16_54_54_50",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83573282.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"at ext\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_17_20_20_1",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83594639.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"ROPER STARCH WORLDWIDE\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_17_20_20_6",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83594639.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"Date:\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_17_20_20_9",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83594639.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"To:\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_17_20_20_16",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83594639.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"(910) 335 7707\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_18_35_34_0",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83624198.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"FEB 25 '98 18: 23 FR \".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_18_35_34_19",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83624198.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"PAGES (including Cover Sheet):\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_19_16_16_16",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83635935.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"83635935\". "
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_20_102_102_19",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83641919_1921.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"DIVISION NAME:\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_20_102_102_47",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83641919_1921.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"Quik Stop\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_20_102_102_52",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83641919_1921.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"19\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_20_102_102_55",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83641919_1921.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"Arbor Rx\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_21_36_34_3",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83772145.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"1796\". "
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_21_36_34_12",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83772145.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"FROM:\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_22_33_32_13",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83823750.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"Voice Number\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_22_33_32_19",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83823750.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"Charles Duggan\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_22_33_32_22",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83823750.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"212 -450- 4785\". "
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_22_33_32_25",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83823750.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"17560 -188\". "
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_22_33_32_30",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83823750.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"Note:\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_22_33_32_32",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83823750.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"or otherwise protected from disclosure distribution or copying of this facsimile or the information herein by anyone other than the intended recipient, or an employee or agent responsible for delivering the message to the intended recipient is prohibited. If you love received the facsimile in error, please notify us immediately by telephone and return the facsimile by mail.\". "
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_23_42_41_3",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83996357.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"LEONARD JONES\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_23_42_41_17",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83996357.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"COUPON EXPIRATION DATE\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_23_42_41_20",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83996357.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"OCTOBER 1999\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_23_42_41_21",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83996357.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"CIRCULATION DATES\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_23_42_41_24",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83996357.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"COUPON VALUE\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_23_42_41_36",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/83996357.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"CODE ASSIGNED\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_24_23_23_0",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85201976.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"Marden - Kane, Inc.\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "title"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_24_23_23_13",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85201976.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"PLEASE LIST THREE ALTERNATIVE DATES YOU WOULD LIKE TO TRAVEL\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_24_23_23_17",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85201976.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"MAJOR AIRPORT NEAREST YOUR HOME\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_24_23_23_18",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85201976.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"AIRLINE: (CHECK ONE)\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_24_23_23_22",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85201976.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"SPECIAL DIETARY REQUIREMENTS\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_25_24_23_8",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85240939.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"Lorillard\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_25_24_23_9",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85240939.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"ADDRESS:\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_26_12_12_0",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85540866.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"MEDIA CONTACT SHEET\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "title"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_26_12_12_6",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85540866.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"(Phone number)\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_27_37_37_0",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85629964.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"CIGARETTE REPORT FORM\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "title"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_27_37_37_6",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85629964.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"VARIETY UNIT SALES:\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_27_37_37_15",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85629964.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"IST SALES DATE:\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_27_37_37_22",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85629964.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"CAT- A- EXPENSES:\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_27_37_37_23",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85629964.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"CAT- B- EXPENSES:\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_27_37_37_30",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85629964.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"CAT- I- EXPENSES:\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_27_37_37_35",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/85629964.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"CAT- N- EXPENSES:\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_28_56_42_0",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86075409_5410.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"From:\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_28_56_42_5",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86075409_5410.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"Vincent Losito George Baroody\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_28_56_42_11",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86075409_5410.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"Direct Mail\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_29_41_41_15",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86079776_9777.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"Why are we advertising? What do we plan to achieve?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "title"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_29_41_41_17",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86079776_9777.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"\u2610 Relationship-Building\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_29_41_41_22",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86079776_9777.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"\u2610 Up-Sell\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_29_41_41_23",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86079776_9777.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"\u2610 Competitive Blocking\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_29_41_41_24",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86079776_9777.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"\u2610 Direct Sale\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_29_41_41_31",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86079776_9777.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"To whom are we talking? Who is the primary target? Is there a secondary target? What is their relationship to the brand what do they currently think about it?\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_29_41_41_32",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86079776_9777.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"PLATFORM\". "
+            },
+            {
+                "from": "gpt",
+                "value": "title"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_29_41_41_35",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86079776_9777.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"What is the key benefit to the target? What's in it for the reader?\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_30_24_23_2",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86220490.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"To:\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_30_24_23_23",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86220490.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"Talk to you soon!\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_31_75_74_11",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86230203_0206.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"F. Strickland\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_31_75_74_12",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86230203_0206.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"FROM:\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_31_75_74_13",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86230203_0206.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"APR 4\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_31_75_74_58",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86230203_0206.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"22\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_32_22_22_10",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86236474_6476.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"EFFECTIVENESS OF DISTRIBUTION ALLOWANCE:\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "title"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_32_22_22_12",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86236474_6476.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"Distribution allowance was very effective in accomplishing our objectives. All accounts have purchased introductory products.\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_33_23_23_9",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86244113.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"BRAND\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_35_83_83_0",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86328049_8050.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"From- UNTON WILL\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_35_83_83_17",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86328049_8050.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"Ever Hurwitz\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_35_83_83_29",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86328049_8050.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"Steve Krigbaum\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_35_83_83_33",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/86328049_8050.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"Judy Bernstein- Gaeta\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_36_27_24_13",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87086073.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"This ethoxy substitued aromatic falls into class III.\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_36_27_24_14",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87086073.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"Engle\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_37_102_102_15",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87093315_87093318.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"Sample Specifications Written By\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_37_102_102_40",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87093315_87093318.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"Rod Length\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_37_102_102_46",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87093315_87093318.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"Pressure Drop\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_37_102_102_51",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87093315_87093318.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"67 mm White\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_37_102_102_55",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87093315_87093318.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"430\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_37_102_102_70",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87093315_87093318.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"White\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_38_26_23_19",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87125460.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"DIRECTOR\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_39_37_35_0",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87137840.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"TEST ARTICLE RECEIPT\". "
+            },
+            {
+                "from": "gpt",
+                "value": "title"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_39_37_35_15",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87137840.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"Clear brown liquid\". "
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_39_37_35_26",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87137840.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"03 /01 /90\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_39_37_35_27",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87137840.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"DATES:\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_39_37_35_31",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87137840.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"SIGATURE OF DEPARTMENT CONSIGNEE:\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_40_42_41_4",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87147607.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"\u2610 STATIONARY\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_40_42_41_26",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87147607.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"QUANTITY\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_40_42_41_39",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87147607.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"4111\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_40_42_41_41",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87147607.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"87147607\". "
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_41_47_47_18",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87332450.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"Continental Breakfast on Tuesday\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_41_47_47_22",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87332450.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"(prior to September 1)\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_41_47_47_24",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87332450.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"Advance Registration Fee:\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_41_47_47_31",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87332450.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"TOTAL\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_41_47_47_44",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87332450.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"(615) ) 638- 5532\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_43_89_83_8",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528321.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"Dan Straka\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_43_89_83_22",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528321.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"8410059\". "
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_43_89_83_23",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528321.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"611- 13 3rd Floor\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_43_89_83_31",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528321.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"Slit\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_43_89_83_37",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528321.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"Addition\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_43_89_83_52",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528321.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"Proposed Solution\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_43_89_83_55",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528321.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"3791\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_43_89_83_71",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528321.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"ACCEPTANCE\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_44_107_103_32",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528380.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"OTHER \u2610\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_44_107_103_42",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528380.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"4\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_44_107_103_43",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528380.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"NO \u2610\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_44_107_103_45",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528380.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"CUT TO SHAPE \u2610\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_44_107_103_47",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528380.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"SQUARE\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_44_107_103_48",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528380.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"ANGLE \u2610\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_44_107_103_68",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528380.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"500 Plaques\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_44_107_103_79",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528380.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"BILLING:\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "title"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_44_107_103_94",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87528380.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"A 15 service charge will be added to reight costs for all prepaid shipments involving 5 or more pieces.\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_45_70_70_11",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87594142_87594144.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"(D) DEPARTMENT\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_45_70_70_32",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87594142_87594144.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"(A)\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_45_70_70_54",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87594142_87594144.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"(B) TITLE\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_45_70_70_56",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/87594142_87594144.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"(410) 955-9253\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_46_53_50_0",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/89856243.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"October 17, 1979\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_46_53_50_8",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/89856243.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"PRODUCT\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_46_53_50_9",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/89856243.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"Triumph\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_46_53_50_30",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/89856243.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"Lenght Int\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_46_53_50_32",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/89856243.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"Prepared by:\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_46_53_50_44",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/89856243.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"Product Manager\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_46_53_50_45",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/89856243.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"Final\". "
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_47_74_70_14",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/91814768_91814769.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"1. Name of Treasurer\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_47_74_70_19",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/91814768_91814769.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"1 relating to Tobacco Excise Tax Increase\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_47_74_70_38",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/91814768_91814769.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"Fil in Dates:\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_47_74_70_39",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/91814768_91814769.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 5 categories for selection: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly identify the category related to the text \"Reporting Period Beginning\" mentioned in the provided document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_47_74_70_48",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/91814768_91814769.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"To Whom Paid (Alphabetical Listing Mandatory)\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_48_82_82_3",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/92380595.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"United States Corporation Company\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_48_82_82_20",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/92380595.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"(Represented Company)\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_48_82_82_21",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/92380595.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"NOTICE OF SERVICE OF PROCESS\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "title"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_48_82_82_22",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/92380595.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"We enclose the following documents which were served upon:\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_48_82_82_33",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/92380595.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"Notice of Default Jucgment\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_48_82_82_53",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/92380595.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nOptions: \"header\", \"key\", \"value\", and \"other\".  \u00a5n Please select the category associated with the text \"DATE\" in the given document."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_48_82_82_76",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/92380595.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"ORIGINAL\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_49_46_46_5",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/93106788.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nThere are 4 categories for selection: \"title\", \"key\", \"value\", and \"other\". Please output the category corresponding to the text \"ADVERTISER:\".  Your answer contains only the category, and you should not use a verb."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_49_46_46_24",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/93106788.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"- No coupon ad on backing page.\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_49_46_46_34",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/93106788.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nPlease tell me the category of the text \"The space is being brdered by:\" to select from following classes: \"header\", \"key\", \"value\", and \"other\"."
+            },
+            {
+                "from": "gpt",
+                "value": "key"
+            }
+        ]
+    },
+    {
+        "id": "funsd_1_49_46_46_42",
+        "image": "data/raw_datasets/funsd/dataset/testing_data/images/93106788.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCategories: \"header\", \"key\", \"value\", and \"other\". \u00a5n Kindly provide me with the category of the text  \"D. Advise us at once if instructions are not clear.\". "
+            },
+            {
+                "from": "gpt",
+                "value": "other"
+            }
+        ]
+    }
+]

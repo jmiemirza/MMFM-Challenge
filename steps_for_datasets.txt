@@ -1,0 +1,8 @@
+1. bash download.sh
+
+2. bash process_data.sh
+
+3. bash merge_data.sh
+
+
+#### PS:: ai2d_test_ids.txt -- is required for 'STEP 2' -- Please just add it to the folder, when you see an error.

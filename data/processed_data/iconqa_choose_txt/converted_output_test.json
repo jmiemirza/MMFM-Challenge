@@ -1,0 +1,2802 @@
+[
+    {
+        "id": "iconqa_1_4",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/16741/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many hearts are there?\" by selecting an answer from given options\": ['2', '6', '8', '10', '7']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_26",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/5017/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"Can you trace a circle with this shape?\" from the document. Options: \": ['no', 'yes']\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_53",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/8071/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['5', '3', '2', '1', '4']\" Question \"How many rectangles are there?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_94",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/3611/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"The first picture is a tractor. Which picture is sixth?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['sun', 'tractor', 'barn']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "sun"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_204",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/80287/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['3', '10', '8', '1', '7']\" Question \"How many shapes are there?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_217",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/25593/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['green', 'black']\" Question \"If you select a marble without looking, which color are you less likely to pick?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_244",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/37508/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['green', 'white']\" Question \"On which color is the spinner less likely to land?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_260",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/55636/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many shapes are there?\" by selecting an answer from given options\": ['10', '1', '4', '3', '8']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_262",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/31822/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"If you select a marble without looking, which color are you less likely to pick?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['black', 'pink']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_355",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/949/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['white', 'yellow']\" Question \"On which color is the spinner less likely to land?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_375",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/88440/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"On which color is the spinner more likely to land?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['white', 'yellow']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "yellow"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_385",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/67693/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['flip', 'turn', 'slide']\" Question \"What has been done to this letter?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "turn"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_458",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/74529/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"How many stars are there?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['3', '4', '8', '9', '10']\""
+            },
+            {
+                "from": "gpt",
+                "value": "9"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_520",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/101614/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"The clocks show when some friends went shopping Monday afternoon. Who went shopping first?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['Lena', 'Wendy', 'Andy']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Wendy"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_542",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/56136/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['9/12', '3/12', '6/9', '3/6']\" Question \"What fraction of the shape is pink?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "6/9"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_569",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/20326/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many stars are there?\" by selecting an answer from given options\": ['8', '7', '10', '5', '9']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "9"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_584",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/54403/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"The clocks show two things Amy did Friday after lunch. Which did Amy do later?\" based on the document. Options: \": ['got the mail', 'fed the fish']\""
+            },
+            {
+                "from": "gpt",
+                "value": "fed the fish"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_645",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/68991/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Can you answer my question \"Brenna is feeding the cat one morning. The clock shows the time. What time is it?\" by finding the evidence on the document? Answer options: \": ['6:00 P.M.', '6:00 A.M.']\""
+            },
+            {
+                "from": "gpt",
+                "value": "6:00 A.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_653",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/92243/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"The first picture is a barn. Which picture is sixth?\" based on the document. Options: \": ['sun', 'barn', 'tractor']\""
+            },
+            {
+                "from": "gpt",
+                "value": "tractor"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_712",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/90760/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Can you answer my question \"What fraction of the shape is orange?\" by finding the evidence on the document? Answer options: \": ['8/11', '10/12', '7/8', '7/10']\""
+            },
+            {
+                "from": "gpt",
+                "value": "7/8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_744",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/955/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"How many marbles are there? Estimate.\" after reading and comprehending the document. Pick up one answer from the following options: \": ['about 50', 'about 90']\""
+            },
+            {
+                "from": "gpt",
+                "value": "about 50"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_759",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/51422/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many triangles are there?\" based on the content of the given document. Options: \": ['8', '9', '4', '7', '5']\""
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_767",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/1415/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"The clocks show when some friends washed the dishes Tuesday before bed. Who washed the dishes earliest?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['Harper', 'Lena', 'Ben']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Ben"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_792",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/52924/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"Is the number of birds even or odd?\" based on the document. Please select one answer from the followeing options: \": ['even', 'odd']\""
+            },
+            {
+                "from": "gpt",
+                "value": "odd"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_827",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/2592/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"How many ovals are there?\" from the document. Options: \": ['64', '54', '56']\""
+            },
+            {
+                "from": "gpt",
+                "value": "54"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_837",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/35141/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['yes', 'no']\" Question \"Are there fewer hats than snowmen?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_839",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/41881/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What fraction of the shape is blue?\" by selecting an answer from given options\": ['1/3', '1/2', '1/5', '1/4']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "1/3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_871",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/25684/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"How many dots are there?\" from the document. Options: \": ['76', '71', '69']\""
+            },
+            {
+                "from": "gpt",
+                "value": "71"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_898",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/95926/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"The clocks show two things Jon did yesterday after lunch. Which did Jon do later?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['watched a movie', 'drew a picture']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "drew a picture"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_912",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/81503/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"Ella is taking an afternoon nap. The clock in Ella's room shows the time. What time is it?\" based on the document. Please select one answer from the followeing options: \": ['3:00 A.M.', '3:00 P.M.']\""
+            },
+            {
+                "from": "gpt",
+                "value": "3:00 P.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_913",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/99159/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Is this shape flat or solid?\" based on the content of the given document. Options: \": ['solid', 'flat']\""
+            },
+            {
+                "from": "gpt",
+                "value": "flat"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_938",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/29343/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['bucket', 'boat', 'crab']\" Question \"The first picture is a crab. Which picture is fourth?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "crab"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1022",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/23813/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"How many shapes are there?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['2', '1', '10', '3', '7']\""
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1133",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/20060/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"The first picture is a sun. Which picture is third?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['sun', 'barn', 'tractor']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "barn"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1143",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/37958/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"The first picture is a plane. Which picture is fifth?\" based on the document. Please select one answer from the followeing options: \": ['train', 'plane', 'bear']\""
+            },
+            {
+                "from": "gpt",
+                "value": "bear"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1170",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/35003/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"If you select a marble without looking, how likely is it that you will pick a black one?\" by selecting an answer from given options\": ['impossible', 'probable', 'certain', 'unlikely']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "impossible"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1252",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/3742/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"Meg is at the circus one afternoon. The clock shows the time. What time is it?\" based on the document. Please select one answer from the followeing options: \": ['5:00 P.M.', '5:00 A.M.']\""
+            },
+            {
+                "from": "gpt",
+                "value": "5:00 P.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1273",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/67565/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['2', '5', '4', '1', '3']\" Question \"How many snakes are there?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1295",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/68626/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"What fraction of the shape is orange?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['5/12', '8/11', '8/12', '6/12']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "8/12"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1307",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/19817/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"How many stars are there?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['8', '5', '2', '4', '10']\""
+            },
+            {
+                "from": "gpt",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1310",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/1591/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"Are there more crayons than pieces of paper?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['no', 'yes']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1323",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/32612/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"Ella's family is going for a bike ride in the afternoon. Her father's watch shows the time. What time is it?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['1:00 A.M.', '1:00 P.M.']\""
+            },
+            {
+                "from": "gpt",
+                "value": "1:00 P.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1332",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/73970/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Are there enough carrots for every rabbit?\" by selecting an answer from given options\": ['yes', 'no']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1338",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/22845/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"What has been done to this letter?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['flip', 'turn', 'slide']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "turn"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1401",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/48746/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"The clocks show when some friends woke up Sunday morning. Who woke up last?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['Sarah', 'Matt', 'Wendy']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "Wendy"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1463",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/79917/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"Can you trace a triangle with this shape?\" based on the document. Options: \": ['yes', 'no']\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1575",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/6838/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"How many owls are there?\" from the document. Options: \": ['3', '5', '1', '9', '8']\""
+            },
+            {
+                "from": "gpt",
+                "value": "9"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1628",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/77509/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"The first picture is a dog. Which picture is fourth?\" based on the content of the given document. Options: \": ['dog', 'house', 'paw']\""
+            },
+            {
+                "from": "gpt",
+                "value": "paw"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1629",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/99572/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Is the number of fish even or odd?\" based on the content of the given document. Options: \": ['even', 'odd']\""
+            },
+            {
+                "from": "gpt",
+                "value": "even"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1716",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/20994/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"How many dots are there?\" based on the document. Options: \": ['3', '2', '1', '4', '5']\""
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1728",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/32468/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"How many triangles are on the frame?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['9', '8', '3', '7', '6']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1741",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/60951/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Are there enough leaves for every snail?\" based on the content of the given document. Options: \": ['yes', 'no']\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1763",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/44850/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"The first picture is a sub. Which picture is fifth?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['fish', 'sub', 'turtle']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "sub"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1791",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/24991/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"The first picture is a turtle. Which picture is eighth?\" based on the document. Please select one answer from the followeing options: \": ['sub', 'turtle', 'fish']\""
+            },
+            {
+                "from": "gpt",
+                "value": "sub"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1796",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/87457/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"If you select a marble without looking, how likely is it that you will pick a black one?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['unlikely', 'impossible', 'certain', 'probable']\""
+            },
+            {
+                "from": "gpt",
+                "value": "certain"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1799",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/87453/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"What fraction of the shape is pink?\" based on the document. Options: \": ['11/12', '10/12', '5/12', '9/12']\""
+            },
+            {
+                "from": "gpt",
+                "value": "9/12"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1805",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/34923/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"The clocks show when some friends got home from school Friday afternoon. Who got home from school later?\" based on the document. Options: \": ['Myra', 'Nick']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Myra"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1828",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/96964/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many marbles are there? Estimate.\" based on the content of the given document. Options: \": ['about 60', 'about 90']\""
+            },
+            {
+                "from": "gpt",
+                "value": "about 60"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1866",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/2749/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['55', '47', '51']\" Question \"How many triangles are there?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "51"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1876",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/94601/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['2:00 A.M.', '2:00 P.M.']\" Question \"Zoe is flying a kite on a windy afternoon. Her watch shows the time. What time is it?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2:00 P.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1905",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/78138/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"Are there more daisies than bugs?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['no', 'yes']\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1907",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/73127/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"On which color is the spinner less likely to land?\" based on the document. Options: \": ['pink', 'white']\""
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2005",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/28490/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"How many shapes are there?\" based on the document. Please select one answer from the followeing options: \": ['6', '8', '10', '3', '5']\""
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2006",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/83406/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"What has been done to this letter?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['slide', 'flip', 'turn']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "turn"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2020",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/1188/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"If you select a marble without looking, how likely is it that you will pick a black one?\" based on the document. Options: \": ['probable', 'certain', 'unlikely', 'impossible']\""
+            },
+            {
+                "from": "gpt",
+                "value": "probable"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2059",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/45816/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"How many shapes are on the frame?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['5', '4', '6', '7', '9']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2152",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/53949/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['no', 'yes']\" Question \"Are there more spoons than plates?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2157",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/86403/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"How many shapes are there?\" based on the document. Options: \": ['2', '5', '4', '3', '1']\""
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2166",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/91751/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What fraction of the shapes are rectangles?\" by selecting an answer from given options\": ['8/10', '2/7', '7/10', '1/5']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "2/7"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2169",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/2063/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"What has been done to this letter?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['turn', 'flip', 'slide']\""
+            },
+            {
+                "from": "gpt",
+                "value": "slide"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2185",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/1313/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['7:00 A.M.', '7:00 P.M.']\" Question \"Jon is playing in the snow one morning. His watch shows the time. What time is it?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "7:00 A.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2187",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/36721/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"On which color is the spinner less likely to land?\" by selecting an answer from given options\": ['green', 'white']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "green"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2193",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/5443/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"Sophie is flying a kite on a windy afternoon. Her watch shows the time. What time is it?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['2:30 A.M.', '2:30 P.M.']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "2:30 P.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2211",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/27064/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"What has been done to this letter?\" from the document. Options: \": ['slide', 'turn', 'flip']\""
+            },
+            {
+                "from": "gpt",
+                "value": "turn"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2253",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/61429/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['7:00 P.M.', '7:00 A.M.']\" Question \"Rob is riding the train one evening. His watch shows the time. What time is it?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "7:00 P.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2276",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/72857/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"If you select a marble without looking, how likely is it that you will pick a black one?\" by selecting an answer from given options\": ['probable', 'unlikely', 'certain', 'impossible']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "unlikely"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2277",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/15253/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"How many rectangles are there?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['4', '1', '10', '8', '3']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2278",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/18623/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Can you answer my question \"Are there enough carrot noses for every snowman?\" by finding the evidence on the document? Answer options: \": ['no', 'yes']\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2370",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/9555/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many dots are there?\" based on the content of the given document. Options: \": ['60', '70', '77']\""
+            },
+            {
+                "from": "gpt",
+                "value": "77"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2401",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/90270/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"How many marbles are there? Estimate.\" after reading and comprehending the document. Pick up one answer from the following options: \": ['about 80', 'about 50']\""
+            },
+            {
+                "from": "gpt",
+                "value": "about 50"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2404",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/101107/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Can you answer my question \"How many shapes are there?\" by finding the evidence on the document? Answer options: \": ['9', '1', '4', '6', '3']\""
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2444",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/76295/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['100', '91', '94']\" Question \"How many dots are there?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "91"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2577",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/61650/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"The first picture is a bear. Which picture is second?\" based on the document. Options: \": ['plane', 'bear', 'train']\""
+            },
+            {
+                "from": "gpt",
+                "value": "train"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2584",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/75942/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many marbles are there? Estimate.\" based on the content of the given document. Options: \": ['about 20', 'about 50']\""
+            },
+            {
+                "from": "gpt",
+                "value": "about 50"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2655",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/41586/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"The clocks show three things Samuel did Thursday evening. Which did Samuel do first?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['practiced piano', 'went for a walk', 'wrote a poem']\""
+            },
+            {
+                "from": "gpt",
+                "value": "wrote a poem"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2656",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/34907/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"Is the number of triangles even or odd?\" based on the document. Please select one answer from the followeing options: \": ['odd', 'even']\""
+            },
+            {
+                "from": "gpt",
+                "value": "even"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2757",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/38892/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"How many hearts are there?\" from the document. Options: \": ['4', '5', '3', '2', '1']\""
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2786",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/6520/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"How many marbles are there? Estimate.\" based on the document. Options: \": ['about 20', 'about 90']\""
+            },
+            {
+                "from": "gpt",
+                "value": "about 20"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2787",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/5346/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"How many triangles are there?\" based on the document. Options: \": ['85', '97', '92']\""
+            },
+            {
+                "from": "gpt",
+                "value": "97"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2817",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/84074/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['3:00 A.M.', '3:00 P.M.']\" Question \"Zack is swimming on a hot afternoon. The clock at the pool shows the time. What time is it?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "3:00 P.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2910",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/58351/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"Is the number of stars even or odd?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['odd', 'even']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "even"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2940",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/17135/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"If you select a marble without looking, which color are you less likely to pick?\" from the document. Options: \": ['neither; black and pink are equally likely', 'black', 'pink']\""
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2962",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/60243/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"Mike is taking his new puppy for an afternoon walk. Mike's watch shows the time. What time is it?\" based on the document. Please select one answer from the followeing options: \": ['3:00 A.M.', '3:00 P.M.']\""
+            },
+            {
+                "from": "gpt",
+                "value": "3:00 P.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2965",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/74693/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"Does this picture have symmetry?\" based on the document. Options: \": ['no', 'yes']\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2988",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/104718/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"How many dots are there?\" based on the document. Please select one answer from the followeing options: \": ['50', '62', '55']\""
+            },
+            {
+                "from": "gpt",
+                "value": "55"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3032",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/58618/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['8', '7', '1', '9', '2']\" Question \"How many stars are there?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3063",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/3740/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['9/11', '3/8', '10/11', '3/5']\" Question \"What fraction of the shape is pink?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "3/5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3100",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/106002/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['bear', 'plane', 'train']\" Question \"The first picture is a bear. Which picture is eighth?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "plane"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3108",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/38779/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many squares are there?\" based on the content of the given document. Options: \": ['3', '8', '7', '9', '2']\""
+            },
+            {
+                "from": "gpt",
+                "value": "9"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3112",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/81426/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Can you answer my question \"The clocks show three things Maya did Sunday morning. Which did Maya do earliest?\" by finding the evidence on the document? Answer options: \": ['watched TV', 'walked the dog', 'got dressed']\""
+            },
+            {
+                "from": "gpt",
+                "value": "walked the dog"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3113",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/11156/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"How many flowers are there?\" from the document. Options: \": ['65', '71', '77']\""
+            },
+            {
+                "from": "gpt",
+                "value": "77"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3126",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/104181/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What has been done to this letter?\" based on the content of the given document. Options: \": ['flip', 'slide', 'turn']\""
+            },
+            {
+                "from": "gpt",
+                "value": "flip"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3152",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/75731/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many squares are there?\" based on the content of the given document. Options: \": ['6', '10', '2', '7', '3']\""
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3241",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/10104/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"On which color is the spinner less likely to land?\" by selecting an answer from given options\": ['white', 'blue']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3271",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/22309/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"If you select a marble without looking, which color are you more likely to pick?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['pink', 'black']\""
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3286",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/64547/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"How many rectangles are there?\" from the document. Options: \": ['7', '2', '3', '10', '6']\""
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3436",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/86756/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"The first picture is a sun. Which picture is tenth?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['tractor', 'sun', 'barn']\""
+            },
+            {
+                "from": "gpt",
+                "value": "barn"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3456",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/49332/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"Are there enough cow bells for every cow?\" from the document. Options: \": ['no', 'yes']\""
+            },
+            {
+                "from": "gpt",
+                "value": "yes"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3458",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/44846/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['3', '8', '6', '7', '2']\" Question \"How many shapes are on the frame?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3462",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/5680/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"How many rectangles are there?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['4', '1', '5', '3', '2']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3509",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/22310/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"Is the dotted line a line of symmetry?\" based on the document. Please select one answer from the followeing options: \": ['no', 'yes']\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3561",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/8929/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"What has been done to this letter?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['flip', 'slide', 'turn']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "flip"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3679",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/27309/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['about 20', 'about 70']\" Question \"How many marbles are there? Estimate.\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "about 20"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3714",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/96065/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many flowers are there?\" by selecting an answer from given options\": ['90', '87', '92']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "87"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3716",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/72540/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"Does this shape have a circle as a face?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['yes', 'no']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3758",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/38718/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"What fraction of the shape is blue?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['1/3', '1/4', '1/5', '1/2']\""
+            },
+            {
+                "from": "gpt",
+                "value": "1/2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3763",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/51767/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What has been done to this letter?\" by selecting an answer from given options\": ['slide', 'turn', 'flip']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "flip"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3786",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/37137/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['3', '4', '8', '5', '7']\" Question \"How many shapes are there?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3834",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/88308/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Can you answer my question \"How many shapes are on the frame?\" by finding the evidence on the document? Answer options: \": ['2', '4', '1', '5', '3']\""
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4002",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/21223/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"Are there enough tulips for every butterfly?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['yes', 'no']\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4042",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/72650/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many shapes are there?\" by selecting an answer from given options\": ['3', '4', '1', '2', '5']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4089",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/26410/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['10', '7', '2', '6', '3']\" Question \"How many hearts are there?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4100",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/85938/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many shapes are there?\" by selecting an answer from given options\": ['1', '2', '5', '4', '3']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4139",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/83302/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"Rose is staying home one evening. The clock shows the time. What time is it?\" from the document. Options: \": ['7:00 P.M.', '7:00 A.M.']\""
+            },
+            {
+                "from": "gpt",
+                "value": "7:00 P.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4158",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/101511/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['1', '4', '7', '8', '2']\" Question \"How many cars are there?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4174",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/70007/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Can you answer my question \"How many shapes are there?\" by finding the evidence on the document? Answer options: \": ['3', '2', '1', '4', '5']\""
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4334",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/49095/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"The first picture is a paw. Which picture is eighth?\" based on the document. Please select one answer from the followeing options: \": ['paw', 'house', 'dog']\""
+            },
+            {
+                "from": "gpt",
+                "value": "paw"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4344",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/96592/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Can you answer my question \"How many triangles are there?\" by finding the evidence on the document? Answer options: \": ['2', '10', '7', '4', '8']\""
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4375",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/9813/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['4/9', '8/9', '6/10', '5/12']\" Question \"What fraction of the shapes are squares?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "8/9"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4392",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/78349/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"How many flowers are there?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['51', '56', '60']\""
+            },
+            {
+                "from": "gpt",
+                "value": "51"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4398",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/41749/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What has been done to this letter?\" by selecting an answer from given options\": ['turn', 'flip', 'slide']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "flip"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4415",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/53917/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"The clocks show when some friends went out for ice cream Sunday night. Who went out for ice cream last?\" based on the content of the given document. Options: \": ['Dave', 'Owen', 'Ruben']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Owen"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4418",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/46811/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"On which color is the spinner less likely to land?\" from the document. Options: \": ['blue', 'white']\""
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4464",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/55487/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"What shape is this?\" based on the document. Please select one answer from the followeing options: \": ['cone', 'sphere', 'cube', 'cylinder']\""
+            },
+            {
+                "from": "gpt",
+                "value": "cylinder"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4467",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/44069/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"The first picture is a rocket. Which picture is third?\" based on the document. Options: \": ['star', 'rocket', 'moon']\""
+            },
+            {
+                "from": "gpt",
+                "value": "moon"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4522",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/1528/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['38', '52', '47']\" Question \"How many dots are there?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "38"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4532",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/17492/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"How many squares are there?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['9', '2', '10', '3', '7']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4562",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/31077/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Can you answer my question \"Mark is writing a letter one evening. The clock shows the time. What time is it?\" by finding the evidence on the document? Answer options: \": ['7:30 P.M.', '7:30 A.M.']\""
+            },
+            {
+                "from": "gpt",
+                "value": "7:30 P.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4597",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/71952/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"What has been done to this letter?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['slide', 'flip', 'turn']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "slide"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4598",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/25132/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"On which color is the spinner more likely to land?\" from the document. Options: \": ['blue', 'white']\""
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4646",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/6248/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many rectangles are there?\" by selecting an answer from given options\": ['5', '3', '4', '1', '2']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4729",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/20915/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Is the number of squares even or odd?\" based on the content of the given document. Options: \": ['odd', 'even']\""
+            },
+            {
+                "from": "gpt",
+                "value": "even"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4780",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/36967/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['8', '7', '4', '2', '10']\" Question \"How many rectangles are there?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4788",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/12471/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['2:30 P.M.', '2:30 A.M.']\" Question \"Brenda is taking an afternoon nap. The clock in Brenda's room shows the time. What time is it?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "2:30 P.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4827",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/92227/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"The first picture is a fish. Which picture is sixth?\" based on the document. Options: \": ['fish', 'turtle', 'sub']\""
+            },
+            {
+                "from": "gpt",
+                "value": "sub"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4837",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/88503/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What has been done to this letter?\" based on the content of the given document. Options: \": ['turn', 'slide', 'flip']\""
+            },
+            {
+                "from": "gpt",
+                "value": "flip"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4881",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/78352/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['74', '68', '71']\" Question \"How many diamonds are there?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "71"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4885",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/1262/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Tim is reading a book in the evening. The clock on his desk shows the time. What time is it?\" by selecting an answer from given options\": ['8:00 A.M.', '8:00 P.M.']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "8:00 P.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4906",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/9756/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['yes', 'no']\" Question \"Are there enough shovels for every pail?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4931",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/95255/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"Is the number of flowers even or odd?\" based on the document. Please select one answer from the followeing options: \": ['even', 'odd']\""
+            },
+            {
+                "from": "gpt",
+                "value": "even"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4945",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/14321/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['10', '1', '9', '4', '3']\" Question \"How many hearts are there?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4988",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/51129/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many stars are there?\" by selecting an answer from given options\": ['5', '4', '1', '2', '3']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_4990",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/38329/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"How many marbles are there? Estimate.\" from the document. Options: \": ['about 90', 'about 30']\""
+            },
+            {
+                "from": "gpt",
+                "value": "about 30"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5066",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/89289/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['boat', 'crab', 'bucket']\" Question \"The first picture is a crab. Which picture is fourth?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "bucket"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5122",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/105470/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Can you answer my question \"The first picture is a bear. Which picture is fifth?\" by finding the evidence on the document? Answer options: \": ['plane', 'bear', 'train']\""
+            },
+            {
+                "from": "gpt",
+                "value": "plane"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5140",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/64623/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['Frank', 'Lily', 'Brad']\" Question \"The clocks show when some friends went out for ice cream Saturday before bed. Who went out for ice cream latest?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Frank"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5149",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/58203/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Can you trace a square with this shape?\" based on the content of the given document. Options: \": ['no', 'yes']\""
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5201",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/103745/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['unlikely', 'certain', 'impossible', 'probable']\" Question \"If you select a marble without looking, how likely is it that you will pick a black one?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "unlikely"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5207",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/83292/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"The clocks show three things Evan did Thursday night. Which did Evan do first?\" based on the document. Options: \": ['wrote a poem', 'listened to music', 'went for a walk']\""
+            },
+            {
+                "from": "gpt",
+                "value": "listened to music"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5234",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/9023/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"How many flowers are there?\" based on the document. Please select one answer from the followeing options: \": ['94', '99', '100']\""
+            },
+            {
+                "from": "gpt",
+                "value": "94"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5238",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/73910/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many shapes are there?\" by selecting an answer from given options\": ['4', '1', '2', '5', '3']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5242",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/105371/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many shapes are there?\" by selecting an answer from given options\": ['2', '1', '5', '4', '3']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5250",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/77937/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Can you answer my question \"The first picture is a moon. Which picture is fourth?\" by finding the evidence on the document? Answer options: \": ['star', 'rocket', 'moon']\""
+            },
+            {
+                "from": "gpt",
+                "value": "rocket"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5266",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/59192/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Can you answer my question \"What has been done to this letter?\" by finding the evidence on the document? Answer options: \": ['turn', 'slide', 'flip']\""
+            },
+            {
+                "from": "gpt",
+                "value": "flip"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5308",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/71993/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"Are there enough beach towels for every beach chair?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['yes', 'no']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5323",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/5507/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Is the number of birds even or odd?\" based on the content of the given document. Options: \": ['even', 'odd']\""
+            },
+            {
+                "from": "gpt",
+                "value": "even"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5369",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/89469/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Bob is taking an afternoon nap. The clock in Bob's room shows the time. What time is it?\" by selecting an answer from given options\": ['2:00 P.M.', '2:00 A.M.']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "2:00 P.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5417",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/46491/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"What has been done to this letter?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['slide', 'flip', 'turn']\""
+            },
+            {
+                "from": "gpt",
+                "value": "slide"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5490",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/73011/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['yes', 'no']\" Question \"Are there enough pairs of socks for every pair of shoes?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5543",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/64224/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['Brandon', 'Linda']\" Question \"The clocks show when some friends took out the trash Friday night. Who took out the trash earlier?\" A short answer to the question is"
+            },
+            {
+                "from": "gpt",
+                "value": "Linda"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5572",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/95718/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"How many squares are on the frame?\" based on the document. Options: \": ['3', '2', '1', '4', '5']\""
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5574",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/81461/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"Ella's mom is reading before work one morning. The clock shows the time. What time is it?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['5:00 A.M.', '5:00 P.M.']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "5:00 A.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5584",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/76755/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"The first picture is a tractor. Which picture is fifth?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['tractor', 'barn', 'sun']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "sun"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5599",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/78377/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"How many shapes are there?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['6', '2', '8', '5', '10']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5608",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/37147/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many marbles are there? Estimate.\" based on the content of the given document. Options: \": ['about 20', 'about 50']\""
+            },
+            {
+                "from": "gpt",
+                "value": "about 20"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5637",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/45826/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Adam is getting out of bed in the morning. The clock in his room shows the time. What time is it?\" by selecting an answer from given options\": ['7:00 P.M.', '7:00 A.M.']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "7:00 A.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5719",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/91908/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"The first picture is a boat. Which picture is fifth?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['bucket', 'crab', 'boat']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "bucket"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5745",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/77004/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"On which color is the spinner more likely to land?\" based on the document. Please select one answer from the followeing options: \": ['blue', 'white']\""
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5749",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/51194/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"How many squares are there?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['4', '2', '5', '3', '1']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5771",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/50792/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['9:00 A.M.', '9:00 P.M.']\" Question \"A teacher says good morning. The clock shows the time. What time is it?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "9:00 A.M."
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5865",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/11132/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"Does this shape have a triangle as a face?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['yes', 'no']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5881",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/38670/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"How many shapes are there?\" based on the document. Options: \": ['5', '3', '1', '2', '4']\""
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5895",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/85702/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What shape is this?\" by selecting an answer from given options\": ['circle', 'square']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "square"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5904",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/64689/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Can you answer my question \"How many marbles are there? Estimate.\" by finding the evidence on the document? Answer options: \": ['about 30', 'about 80']\""
+            },
+            {
+                "from": "gpt",
+                "value": "about 30"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5915",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/101493/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"How many stars are on the frame?\" from the document. Options: \": ['10', '8', '6', '4', '1']\""
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5973",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/33108/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many marbles are there? Estimate.\" based on the content of the given document. Options: \": ['about 50', 'about 20']\""
+            },
+            {
+                "from": "gpt",
+                "value": "about 20"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_5977",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/7995/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must answer to the question \"On which color is the spinner less likely to land?\" after reading and comprehending the document. Pick up one answer from the following options: \": ['yellow', 'white']\""
+            },
+            {
+                "from": "gpt",
+                "value": "white"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_6033",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/53267/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"The first picture is a turtle. Which picture is fifth?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['fish', 'sub', 'turtle']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "fish"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_6067",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/37293/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"The first picture is a barn. Which picture is eighth?\" based on the document. Please select one answer from the followeing options: \": ['barn', 'tractor', 'sun']\""
+            },
+            {
+                "from": "gpt",
+                "value": "barn"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_6074",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/34214/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"The clocks show when some friends woke up yesterday morning. Who woke up first?\" based on the content of the given document. Options: \": ['Ava', 'Jon', 'Owen']\""
+            },
+            {
+                "from": "gpt",
+                "value": "Owen"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_6102",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/87274/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"If you select a marble without looking, which color are you less likely to pick?\" based on the content of the given document. Options: \": ['orange', 'black']\""
+            },
+            {
+                "from": "gpt",
+                "value": "black"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_6119",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/98309/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"What has been done to this letter?\" based on the document. Options: \": ['flip', 'slide', 'turn']\""
+            },
+            {
+                "from": "gpt",
+                "value": "slide"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_6151",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/17786/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Can you answer my question \"How many squares are on the frame?\" by finding the evidence on the document? Answer options: \": ['4', '2', '8', '3', '9']\""
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_6191",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/95968/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer options: \": ['slide', 'flip', 'turn']\" Question \"What has been done to this letter?\" Short answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "turn"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_6216",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/37900/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Are there enough birdcages for every bird?\" by selecting an answer from given options\": ['no', 'yes']\"."
+            },
+            {
+                "from": "gpt",
+                "value": "no"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_6241",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/85070/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"How many rectangles are there?\" based on the document. Please select one answer from the followeing options: \": ['3', '1', '4', '5', '2']\""
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_6246",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/41238/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. I am trying to figure out the answer to the question \"Is the number of diamonds even or odd?\".  I found the following the document has the answer. Can you tell me the short answer to pick up from options: \": ['odd', 'even']\"?"
+            },
+            {
+                "from": "gpt",
+                "value": "odd"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_6254",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/46827/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"How many hearts are there?\" based on the document. Options: \": ['6', '2', '7', '8', '4']\""
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_6294",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/68017/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. There is some text on the image. Provide your short answer to the question \"If you select a marble without looking, how likely is it that you will pick a black one?\" based on the document. Options: \": ['unlikely', 'certain', 'probable', 'impossible']\""
+            },
+            {
+                "from": "gpt",
+                "value": "impossible"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_6296",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/choose_txt/90210/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer to the question \"Peter is taking his new puppy for an afternoon walk. Peter's watch shows the time. What time is it?\" from the document. Options: \": ['2:00 A.M.', '2:00 P.M.']\""
+            },
+            {
+                "from": "gpt",
+                "value": "2:00 P.M."
+            }
+        ]
+    }
+]

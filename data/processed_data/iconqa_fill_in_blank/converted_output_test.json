@@ -1,0 +1,2802 @@
+[
+    {
+        "id": "iconqa_1_13",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/84075/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"How many shapes are on the frame?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_26",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/58233/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many cubes long is the pair of scissors?\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_47",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/63209/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many dots are there?\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "85"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_102",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/20847/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many fish are there?\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "19"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_108",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/81389/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"How many cars are there?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "19"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_122",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/92043/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many shapes are green?\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_130",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/40284/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_131",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/72268/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_177",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/30363/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\". "
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_187",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/102424/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Use dice to measure the line. The line is about (_) dice long.\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_192",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/32116/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_229",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/63050/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many cubes long is the paint?\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_260",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/67522/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many shapes are blue?\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_271",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/73840/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many flowers are there?\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_284",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/43612/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"What time is shown? Answer by typing a time word, not a number. It is (_) to nine.\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "quarter"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_292",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/40870/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Move the ruler to measure the length of the twig to the nearest inch. The twig is about (_) inches long.\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_322",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/91796/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_326",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/55545/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"How many cubes long is the paintbrush? The paintbrush is (_) cubes long.\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_356",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/15926/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Fill in the blank to describe the model. The model has 6 dots divided into 3 equal groups. There are (_) dots in each group.\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_372",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/68122/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"How many shapes are blue?\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_379",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/60186/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many cubes long is the clip?\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_383",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/89399/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"How many trucks are there?\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "16"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_396",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/27125/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many shapes are blue?\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_413",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/49968/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"Use paper clips to measure the line. The line is about (_) paper clips long.\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_418",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/24295/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"How many shapes are purple?\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_419",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/95366/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many flowers are there?\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "16"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_449",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/9397/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"How many shapes are blue?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_456",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/97912/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What time is shown? Answer by typing a time word, not a number. It is (_) to seven.\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "quarter"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_469",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/84758/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"What is the perimeter of the rectangle?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "24"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_511",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/99387/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Move the ruler to measure the length of the bean to the nearest inch. The bean is about (_) inches long.\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_566",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/77294/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many boats are there?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "13"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_571",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/13995/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"There are 5 planes in the top row. How many planes are in the bottom row?\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_585",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/81687/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many hot-air balloons are there?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "15"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_626",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/78429/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_636",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/82870/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"How many shapes are green?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_647",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/37543/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"How many shapes are orange?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_653",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/79278/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Move the ruler to measure the length of the nail to the nearest inch. The nail is about (_) inches long.\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_655",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/55587/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"Move the ruler to measure the length of the nail to the nearest inch. The nail is about (_) inches long.\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_666",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/103601/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"Use dice to measure the line. The line is about (_) dice long.\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_669",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/107084/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many flowers are there?\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "40"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_700",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/6417/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"What number is shown?\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "50"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_787",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/93055/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many shapes are blue?\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_814",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/17830/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"There are 2 daisies in the top row. How many daisies are in the bottom row?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_858",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/67766/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"How many shapes are orange?\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_864",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/68385/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"Move the ruler to measure the length of the twig to the nearest inch. The twig is about (_) inches long.\". "
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_870",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/37076/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Fill in the blank to describe the model. The model has 6 dots divided into 2 equal groups. There are (_) dots in each group.\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_881",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/41782/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"What is the perimeter of the rectangle?\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "22"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_895",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/71230/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_898",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/76077/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"There are 6 balls in the top ten frame. How many balls are in the bottom ten frame?\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_899",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/28324/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_902",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/82923/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Count the tally marks. What number is shown?\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "14"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_914",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/36813/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"There is 1 bug in the top row. How many bugs are in the bottom row?\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_933",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/94118/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_938",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/21307/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many shapes are blue?\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_952",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/79203/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Fill in the blank to describe the model. The model has 6 dots divided into 2 equal groups. There are (_) dots in each group.\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_953",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/40433/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1002",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/7154/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many flowers are there?\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "57"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1003",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/43616/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many birds are there?\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1010",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/51070/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"How many triangles are there?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "14"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1029",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/69027/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"How many diamonds are there?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "53"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1076",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/24732/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many shapes are blue?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1078",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/20606/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many fish are there?\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1083",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/27199/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"How many birds are there?\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1084",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/79366/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What number is shown?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "2,256"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1092",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/34135/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"What number is shown?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "9,522"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1093",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/35058/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"How many shapes are blue?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1096",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/106533/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"How many donuts are there?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "20"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1105",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/32655/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"How many shapes are green?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1126",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/80999/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Use dice to measure the line. The line is about (_) dice long.\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1138",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/36917/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Use paper clips to measure the line. The line is about (_) paper clips long.\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1139",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/86097/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1185",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/26659/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many circles are there?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "11"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1200",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/12518/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"How many stars are on the frame?\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1202",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/97652/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many shapes are green?\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1288",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/103929/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Use paper clips to measure the line. The line is about (_) paper clips long.\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1292",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/52823/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Move the ruler to measure the length of the nail to the nearest inch. The nail is about (_) inches long.\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1328",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/69922/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"How many ovals are there?\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1378",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/63868/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"How many triangles are on the frame?\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1393",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/4529/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many ovals are there?\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1408",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/70712/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1455",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/79179/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many shapes are green?\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1470",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/16371/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many rectangles are there?\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "19"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1481",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/84170/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"What time is shown? Answer by typing a time word, not a number. It is five (_).\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "o'clock"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1482",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/25238/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"How many apple slices are there?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1494",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/57005/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"What is the perimeter of the square?\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1516",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/99327/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"Move the ruler to measure the length of the sword to the nearest inch. The sword is about (_) inches long.\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1550",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/79412/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Use dice to measure the line. The line is about (_) dice long.\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1554",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/93110/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1556",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/71653/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"What time is shown? Answer by typing a time word, not a number. It is (_) past twelve.\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "half"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1563",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/4942/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\". "
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1576",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/58513/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many shapes are purple?\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1620",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/11800/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"How many pigs are there?\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "25"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1635",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/21010/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"How many triangles are there?\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "13"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1643",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/20244/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"How many shapes are orange?\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1718",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/48212/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Move the ruler to measure the length of the nail to the nearest inch. The nail is about (_) inches long.\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1728",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/76076/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What time is shown? Answer by typing a time word, not a number. It is (_) past five.\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "half"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1729",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/35527/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many shapes are blue?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1731",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/101897/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many hearts are on the frame?\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1754",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/56618/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"Use dice to measure the line. The line is about (_) dice long.\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1780",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/99729/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"How many shapes are orange?\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1839",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/24076/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1857",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/37060/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many circles are there?\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "61"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1858",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/9678/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many shapes are orange?\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1879",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/5048/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"How many cookies are there?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "90"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1881",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/77522/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"What number is shown?\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "4,322"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1893",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/71329/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many hearts are on the frame?\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_1917",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/8300/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"Use dice to measure the line. The line is about (_) dice long.\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2021",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/15852/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many shapes are green?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2044",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/107247/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"Move the ruler to measure the length of the slug to the nearest inch. The slug is about (_) inches long.\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2069",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/12048/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"What number is shown?\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "3,346"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2087",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/51421/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"The shape is made of unit squares. What is the area of the shape?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2167",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/28812/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"Move the ruler to measure the length of the twig to the nearest inch. The twig is about (_) inches long.\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2187",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/25121/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2196",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/31517/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What time is shown? Answer by typing a time word, not a number. It is twelve (_).\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "o'clock"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2199",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/46536/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many shapes are blue?\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2207",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/16164/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"How many cubes long is the colored pencil? The colored pencil is (_) cubes long.\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2232",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/48839/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Move the ruler to measure the length of the sword to the nearest inch. The sword is about (_) inches long.\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2233",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/8977/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many rectangles are there?\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "11"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2261",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/18855/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2266",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/59590/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"How many triangles are there?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "70"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2281",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/81609/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Move the ruler to measure the length of the twig to the nearest inch. The twig is about (_) inches long.\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2298",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/86291/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"How many dots are on the frame?\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2299",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/45676/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many ovals are there?\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "37"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2323",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/67309/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many birds are there?\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2364",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/71617/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"What is the perimeter of the shape?\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "12"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2390",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/9732/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"What number is shown?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "1,877"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2394",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/43034/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"How many shapes are blue?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2413",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/46755/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Move the ruler to measure the length of the slug to the nearest inch. The slug is about (_) inches long.\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2418",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/85095/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many shapes are green?\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2440",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/105825/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"How many shapes are green?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2442",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/52594/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What is the perimeter of the square?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "16"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2465",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/62048/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2472",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/36874/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"Move the ruler to measure the length of the twig to the nearest inch. The twig is about (_) inches long.\". "
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2495",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/9254/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"Use dice to measure the line. The line is about (_) dice long.\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2533",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/69524/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"What time does the clock show?\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "12:00"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2570",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/23158/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\". "
+            },
+            {
+                "from": "gpt",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2574",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/99474/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many stars are there?\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "50"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2600",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/60571/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"What is the perimeter of the rectangle?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2603",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/27844/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What number is shown?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "48"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2619",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/51449/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Move the ruler to measure the length of the nail to the nearest inch. The nail is about (_) inches long.\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2621",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/30293/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"Use dice to measure the line. The line is about (_) dice long.\". "
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2625",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/58182/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Use dice to measure the line. The line is about (_) dice long.\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2633",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/106582/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"How many helicopters are there?\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "16"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2654",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/13113/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many dots are on the frame?\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2661",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/66422/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"How many shapes are purple?\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2684",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/21188/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"How many shapes are purple?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2708",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/72357/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Use paper clips to measure the line. The line is about (_) paper clips long.\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2745",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/4897/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many fish are there?\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2771",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/84969/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many donuts are there?\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "90"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2786",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/71900/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"There is 1 pretzel in the top row. How many pretzels are in the bottom row?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2787",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/4357/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Use dice to measure the line. The line is about (_) dice long.\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2792",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/96745/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"What number is shown?\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "98"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2799",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/3607/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"There are 7 ladybugs in the top ten frame. How many ladybugs are in the bottom ten frame?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2804",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/85557/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many shapes are purple?\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2818",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/59011/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"What number is shown?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "3,496"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2859",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/75186/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"There are 7 ladybugs in the top ten frame. How many ladybugs are in the bottom ten frame?\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2872",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/15956/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"What time does the clock show?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "10:30"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2874",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/21036/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many stars are on the frame?\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "8"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2885",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/27105/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Use paper clips to measure the line. The line is about (_) paper clips long.\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2932",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/18444/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"Use paper clips to measure the line. The line is about (_) paper clips long.\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2940",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/14875/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"How many flowers are there?\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "11"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2947",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/47270/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many stars are there?\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "20"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2952",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/72748/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2957",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/76912/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"There are 3 cars in the top row. How many cars are in the bottom row?\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2986",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/73483/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"Use paper clips to measure the line. The line is about (_) paper clips long.\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_2988",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/12429/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many squares are there?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "19"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3016",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/107371/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Move the ruler to measure the length of the bean to the nearest inch. The bean is about (_) inches long.\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3033",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/61480/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Move the ruler to measure the length of the nail to the nearest inch. The nail is about (_) inches long.\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3037",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/15473/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many shapes are orange?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3051",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/79338/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many cubes long is the marker?\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3059",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/50477/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI am trying to filling in missing parts (_) in the question \"Move the ruler to measure the length of the sword to the nearest inch. The sword is about (_) inches long.\".  Can you tell me the short answer?"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3075",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/10964/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"How many dots are there?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "96"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3095",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/27579/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many shapes are green?\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3108",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/48528/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many shapes are orange?\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3127",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/14118/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"How many rectangles are there?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "11"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3147",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/61607/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"Move the ruler to measure the length of the nail to the nearest inch. The nail is about (_) inches long.\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3148",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/9984/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"How many birds are there?\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "11"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3166",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/1359/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"How many shapes are blue?\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3178",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/68716/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many shapes are green?\" Fill in the empty spaces:"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3244",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/31884/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"How many fish are there?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3297",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/65562/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. You must fill in the (_) answer to the question \"How many shapes are orange?\" after reading and comprehending the document."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3300",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/98716/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"How many beads are there?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "20"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3305",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/79395/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"How many shapes are blue?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3315",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/41652/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"What number is shown?\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "43"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3366",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/61621/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Question \"How many triangles are there?\" Provide the missing words"
+            },
+            {
+                "from": "gpt",
+                "value": "12"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3397",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/17329/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"Move the ruler to measure the length of the nail to the nearest inch. The nail is about (_) inches long.\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3416",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/40190/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"How many shapes are green?\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3452",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/68952/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"How many shapes are blue?\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "5"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3471",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/9193/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"How many gumdrops are there?\". "
+            },
+            {
+                "from": "gpt",
+                "value": "50"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3503",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/18461/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Use paper clips to measure the line. The line is about (_) paper clips long.\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3525",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/25210/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRespond to the question \"How many cookies are there?\" with a short answer based on the content of the document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "90"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3527",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/55844/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"Move the ruler to measure the length of the line to the nearest centimeter. The line is about (_) centimeters long.\". "
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3529",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/76000/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many cookies are there?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "30"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3549",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/16378/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"Use paper clips to measure the line. The line is about (_) paper clips long.\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3560",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/12872/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you answer my question \"How many butterflies are there?\" by filling out the missing information."
+            },
+            {
+                "from": "gpt",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3587",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/84148/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"How many cubes tall is the cactus?\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3589",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/80790/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Answer shortly the following question \"How many rectangles are there?\" based on the document. \nPlease fill the correct words to make the given sentence fluent."
+            },
+            {
+                "from": "gpt",
+                "value": "20"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3623",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/86318/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nRepresent the icon. Complete the question \"Use dice to measure the line. The line is about (_) dice long.\". "
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3624",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/104118/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nProvide your short answer to the question \"There are 8 bears in the top ten frame. How many bears are in the bottom ten frame?\" based on the document.\nYou can insert the appropriate words to answer the question."
+            },
+            {
+                "from": "gpt",
+                "value": "7"
+            }
+        ]
+    },
+    {
+        "id": "iconqa_1_3626",
+        "image": "data/raw_datasets/iconqa/iconqa_data/iconqa/val/fill_in_blank/13525/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nI want to know a short answer to the question \"How many flowers are there?\" based on the content of the given document.\nPlease use short numerical values or one word to answer. If there is a (_), please fill in the appropriate number or word in the (_).  If you can answer with a short number, please answer with the shortest number possible."
+            },
+            {
+                "from": "gpt",
+                "value": "12"
+            }
+        ]
+    }
+]
