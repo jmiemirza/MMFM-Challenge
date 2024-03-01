@@ -56,6 +56,57 @@ The top 3 performers will be declared as the challenge winners and receive a mon
 The three winners will also be invited for spotlight talks at the workshop. Details will 
 be shared with the winners after the challenge conclusion and before the workshop date.
 
+# Baselines
+Here we provide three baselines for the challenge by training the LLAVA-1.5 model on three types of data, and we provide the results obtained from the 
+resulting model on the test sets of the 10 datasets which contain 200 randomly sampled from the original `validation split` of the dataset. 
+Due to the nature of the datasets, we evaluate the models with two metrics: 
+- The [MMMU metric](https://arxiv.org/abs/2311.16502). Used for 6 datasetes: `iconqa_fill, funsd, iconqa_choose, wildreceipt, textbookqa, tabfact`
+- Using Mixtral as a judge to evaluate the outputs of the models. Used for 4 datasets: `docvqa, inforgraphicsvqa, websrc`
+
+
+### Model trained on the LLAVA dataset only:
+
+- MMMU Evaluation 
+
+| Iconqa-Fill | Funsd | Iconqa-Choose | Wildreceipt | Textbookqa | Tabfact | Average |
+|-------------|-------|---------------|-------------|------------|---------|---------|
+| 14.0        | 34.5  | 31.0          | 35.0        | 52.5       | 48.5    | 35.9    |
+
+- Mixtral Evaluation
+
+| DocVQA | InfographicsVQA | WebSRC | WTQ | Average |
+|--------|-----------------|--------|-----|---------|
+| 22.5   | 20.5            | 29.5   | 8.0 | 20.1    |
+
+
+
+### Model trained on the train sets of the 10 datasets:
+
+- MMMU Evaluation 
+
+| Iconqa-Fill | Funsd | Iconqa-Choose | Wildreceipt | Textbookqa | Tabfact | Average |
+|-------------|-------|---------------|-------------|------------|---------|---------|
+| 36.0        | 81.0  | 53.0          | 87.0        | 61.0       | 59.5    | 62.9    |
+
+- Mixtral Evaluation
+
+| DocVQA | InfographicsVQA | WebSRC | WTQ  | Average |
+|--------|-----------------|--------|------|---------|
+| 38.0   | 30.0            | 36.5   | 22.5 | 31.8    |
+
+### Model trained with LLAVA and the train sets of the 10 datasets:
+
+- MMMU Evaluation 
+
+| Iconqa-Fill | Funsd | Iconqa-Choose | Wildreceipt | Textbookqa | Tabfact | Average |
+|-------------|-------|---------------|-------------|------------|---------|---------|
+| 45.5        | 80.5  | 52.0          | 88.5        | 68.5       | 57.5    | 65.4    |
+
+- Mixtral Evaluation
+
+| DocVQA | InfographicsVQA | WebSRC | WTQ  | Average |
+|--------|-----------------|--------|------|---------|
+| 35.0   | 29.0            | 40.5   | 22.0 | 31.6    |
 
 # Disclaimer
 The organizers reserve the right to disqualify any participant who is found to be in violation of the rules of the challenge. 
