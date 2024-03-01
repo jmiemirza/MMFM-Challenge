@@ -59,7 +59,7 @@ be shared with the winners after the challenge conclusion and before the worksho
 # Baselines
 Here we provide three baselines for the challenge by training the LLAVA-1.5 model on three types of data, and we provide the results obtained from the 
 resulting model on the test sets of the 10 datasets which contain 200 randomly sampled from the original `validation split` of the dataset. 
-Due to the nature of the datasets, we evaluate the models with two metrics: 
+Due to the nature of the datasets, we evaluate the models with two metrics (and report the Accuracy %): 
 - The [MMMU metric](https://arxiv.org/abs/2311.16502). Used for 6 datasetes: `iconqa_fill, funsd, iconqa_choose, wildreceipt, textbookqa, tabfact`
 - Using Mixtral as a judge to evaluate the outputs of the models. Used for 4 datasets: `docvqa, inforgraphicsvqa, websrc`
 
