@@ -2,8 +2,7 @@
 
 This repository contains instructions on how to set up the code for the challenge which is part of our 
 [2nd workshop on Multi-Modal Foundation Models](https://sites.google.com/view/2nd-mmfm-workshop/home?authuser=0) 
-to appear as a part of 
-the [CVPR 2024](https://cvpr.thecvf.com/) program. 
+to appear in the [CVPR 2024](https://cvpr.thecvf.com/) program. 
 For other details on the challenge, we refer to the
 [challenge website](https://sites.google.com/view/2nd-mmfm-workshop/challenge?authuser=0).
 
@@ -18,12 +17,42 @@ For detailed instructions on how to setup the codebase and all the environments,
 
 ### General Rules
 - To be eligible for participation in our challenge, you must register by sending an email to the organizers (please see the contact email below).
-- For all submission, the participants will be required to submit their code and the model weights with the instructions on how to reproduce the results. The winners of the competition will be required to open source their code under MIT or more permissive licence. 
+  - The email should contain the following information:
+    - Subject: Registration for MMFM Challenge
+    - Team Name
+    - Name of the participants
+    - Affiliation of the participants
+    
+- For all submission, the participants will be required to submit their code and the model weights with the instructions on how to reproduce the results. 
+    - The code should be submitted through a public `github repository` and the model weight should be uploaded to some storage. The teams are responsible for informing the organizers via email. 
+    - The `github repository` should contain:
+      - The code for the submission
+      - Details about the model architecture and the training details
+      - The instructions on how to reproduce the results
+      - The model weights (link to the storage where the weights are uploaded)
+      - The `requirements.txt` file
+      - The code should be well-documented and easy to understand.
+      
+[//]: # (    - The results should be reported in the form of an informal write-up. It should be minimum 2 pages and maximum 4 pages. The write-up should contain the following:)
+
+[//]: # (      - The model architecture and the training details.)
+
+[//]: # (      - The results on the current test set &#40;see challenge phase 1, below&#41;.)
+
+[//]: # (      - The results on the alien test set &#40;see challenge phase 2, below&#41;.)
+
+[//]: # (      - The instructions on how to reproduce the results.)
+
+[//]: # (      - The write-up should be submitted as a pdf file.)
+      
+- The organizing committee will verify the results and the code.
+- The winners of the competition will be required to open source their code under MIT or more permissive licence. 
 
 ### Challenge Phases
 - The challenge will be running in two phases: 
   - Phase 1: The participants will submit their results on the test sets which is already present in `data/pre_processed` for all datasets.
-  - Phase 2: An alien test set will be released after the phase 1 deadline. The participants will be required to submit their results on the alien test set. Again, with the code and the model weights. 
+  - Phase 2: An alien test set will be released after the phase 1 deadline. The participants will be required to submit their results on the alien test set. Again, with the code and the model weights (which should be same as phase 1). 
+    - The alien test set will be of a similar domain to the current `test data`.
   - The model submitted for Phase 2 shall reproduce the results of Phase 1. This is stipulated in order to discourage people from overfitting on the test set. An immediate *disqualification* will be in place if the results of Phase 2 are not reproducible from the model submitted in Phase 1.
   - There is a 40% weightage for Phase 1 and 60% weightage for Phase 2.
   - Only participants that submitted results for Phase 1 before its deadline will receive access to Phase 2 evaluation data, and only participants that submitted Phase 2 results will be eligible for the competition.
@@ -42,10 +71,10 @@ able to consider them for the prize money. This is to ensure that the organizers
 All submitted results would be documented in a leaderboard, closed-source results will be marked.
 
 # Important Dates
-- Initial registration deadline: 
-- Phase 1 deadline:
-- Phase 2 deadline:
-- Announcement of winners:
+- Initial registration deadline: 1st April 2024
+- Phase 1 deadline: 15th May 2024
+- Phase 2 deadline: 27th May 2024
+- Announcement of winners: 8th June 2024
 
 
 
