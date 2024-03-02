@@ -25,6 +25,7 @@ For detailed instructions on how to setup the codebase and all the environments,
 6. [Baselines](#baselines)
 7. [Disclaimer](#disclaimer)
 8. [Contact](#contact)
+9. [License](#license)
 
 
 [//]: # (1. [Installation]&#40;docs/installation.md&#41;)
