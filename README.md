@@ -8,10 +8,33 @@ For other details on the challenge, we refer to the
 
 For detailed instructions on how to setup the codebase and all the environments, and setup the code for evaluation, please read through these separate instructions:
 
-1. [Installation](docs/installation.md)
-2. [Data Download](docs/download.md)
-3. [Evaluation](docs/evaluation.md)
-4. [Training](docs/training.md)
+
+## Table of Contents
+1. [Overview](#overview)
+2. [Instructions](#instructions)
+   1. [Installation](docs/installation.md)
+   2. [Data Download](docs/download.md)
+   3. [Evaluation](docs/evaluation.md)
+   4. [Training](docs/training.md)
+3. [Rules](#rules)
+   - [General Rules](#general-rules)
+   - [Challenge Phases](#challenge-phases)
+   - [Metric](#metric)
+   - [Open Source Models](#open-source-models)
+4. [Important Dates](#important-dates)
+5. [Prize Money](#prize-money)
+6. [Baselines](#baselines)
+7. [Disclaimer](#disclaimer)
+8. [Contact](#contact)
+
+
+[//]: # (1. [Installation]&#40;docs/installation.md&#41;)
+
+[//]: # (2. [Data Download]&#40;docs/download.md&#41;)
+
+[//]: # (3. [Evaluation]&#40;docs/evaluation.md&#41;)
+
+[//]: # (4. [Training]&#40;docs/training.md&#41;)
 
 # Rules
 
@@ -31,21 +54,8 @@ For detailed instructions on how to setup the codebase and all the environments,
       - Details about the model architecture and the training details
       - The instructions on how to reproduce the results
       - The model weights (link to the storage where the weights are uploaded)
-      - The `requirements.txt` file
+      - The `requirements.txt` file consisting the dependencies for the code
       - The code should be well-documented and easy to understand.
-      
-[//]: # (    - The results should be reported in the form of an informal write-up. It should be minimum 2 pages and maximum 4 pages. The write-up should contain the following:)
-
-[//]: # (      - The model architecture and the training details.)
-
-[//]: # (      - The results on the current test set &#40;see challenge phase 1, below&#41;.)
-
-[//]: # (      - The results on the alien test set &#40;see challenge phase 2, below&#41;.)
-
-[//]: # (      - The instructions on how to reproduce the results.)
-
-[//]: # (      - The write-up should be submitted as a pdf file.)
-      
 - The organizing committee will verify the results and the code.
 - The winners of the competition will be required to open source their code under MIT or more permissive licence. 
 
