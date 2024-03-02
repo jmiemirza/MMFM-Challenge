@@ -10,8 +10,7 @@ For detailed instructions on how to setup the codebase and all the environments,
 
 
 ## Table of Contents
-1. [Overview](#overview)
-2. [Instructions](#instructions)
+1. [Getting Started](#instructions)
    1. [Installation](docs/installation.md)
    2. [Data Download](docs/download.md)
    3. [Evaluation](docs/evaluation.md)
