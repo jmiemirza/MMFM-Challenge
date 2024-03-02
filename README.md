@@ -27,6 +27,7 @@ For detailed instructions on how to setup the codebase and all the environments,
     - The code should be submitted through a public `github repository` and the model weight should be uploaded to some storage. The teams are responsible for informing the organizers via email. 
     - The `github repository` should contain:
       - The code for the submission
+      - The results for the phases 1 (on 10 datasets) and 2 (on alien test set) - see below for details on the phases 
       - Details about the model architecture and the training details
       - The instructions on how to reproduce the results
       - The model weights (link to the storage where the weights are uploaded)
