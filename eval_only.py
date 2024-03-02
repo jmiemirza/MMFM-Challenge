@@ -11,7 +11,12 @@ from argparse import ArgumentParser
 from utils.data_utils import save_json, CAT_SHORT2LONG, DOMAIN_CAT2SUB_CAT
 from utils.eval_utils import evaluate, parse_multi_choice_response, parse_open_response, calculate_ins_level_acc
 
-
+def get_category_name(data_id):
+    items = data_id.split("_")[0:2]
+    if items[0] == items[1]:
+        return items[0]
+    else:
+        return '_'.join(items)
 if __name__ == '__main__':
 
     parser = ArgumentParser()
@@ -31,7 +36,7 @@ if __name__ == '__main__':
     output_dict_w_cat = {}
     for data_id, parsed_pred in output_dict.items():
         # category = data_id.split("_")[0] #[1:-1]
-        category = '_'.join(data_id.split("_")[0:2])
+        category = get_category_name(data_id)
         if category not in output_dict_w_cat:
             output_dict_w_cat.update({category: {}})
         output_dict_w_cat[category].update({data_id: parsed_pred})
@@ -40,7 +45,7 @@ if __name__ == '__main__':
     answer_dict_w_cat = {}
     for data_id, parsed_pred in answer_dict.items():
         # category = data_id.split("_")[0] #[1:-1]
-        category = '_'.join(data_id.split("_")[0:2])
+        category = get_category_name(data_id)
         if category not in answer_dict_w_cat:
             answer_dict_w_cat.update({category: {}})
         answer_dict_w_cat[category].update({data_id: parsed_pred})

@@ -64,23 +64,29 @@ Due to the nature of the datasets, we evaluate the models with two metrics (and 
 - Using Mixtral as a judge to evaluate the outputs of the models. Used for 4 datasets: `docvqa, inforgraphicsvqa, websrc`
 
 
-### Model trained on the LLAVA dataset only:
+### Vanilla LLaVA Models:
 
 - MMMU Evaluation 
 
-| Iconqa-Fill | Funsd | Iconqa-Choose | Wildreceipt | Textbookqa | Tabfact | Average |
-|-------------|-------|---------------|-------------|------------|---------|---------|
-| 14.0        | 34.5  | 31.0          | 35.0        | 52.5       | 48.5    | 35.9    |
+| Model | Iconqa-Fill | Funsd | Iconqa-Choose | Wildreceipt | Textbookqa | Tabfact | Average |
+|---------------|-------------|-------|---------------|-------------|------------|---------|---------|
+| LLaVA 1.5 7B  | 13.5        | 21.5  | 36.0          | 6.0        | 37.5       | 54.0    | 28.1    |
+| LLaVA 1.6 7B  | 13.0        | 17.5  | 38.5          | 20.0        | 44.0       | 49.0    | 30.3    |
+| LLaVA 1.5 13B | 14.0        | 34.5  | 31.0          | 35.0        | 52.5       | 48.5    | 35.9    |
+| LLaVA 1.6 13B | 14.5        | 39.5  | 35.0          | 44.5        | 54.5       | 47.5    | 39.3    |
 
 - Mixtral Evaluation
 
-| DocVQA | InfographicsVQA | WebSRC | WTQ | Average |
-|--------|-----------------|--------|-----|---------|
-| 22.5   | 20.5            | 29.5   | 8.0 | 20.1    |
+| Model | DocVQA | InfographicsVQA | WebSRC | WTQ | Average |
+|---------------|--------|-----------------|--------|-----|---------|
+| LLaVA 1.5 7B  | 18.0   | 17.0            | 31.0   | 9.5 | 18.9    |
+| LLaVA 1.6 7B  | 24.0   | 16.5            | 31.0   | 9.5 | 20.3    |
+| LLaVA 1.5 13B | 22.5   | 20.5            | 29.5   | 8.0 | 20.1    |
+| LLaVA 1.6 13B | 27.0   | 21.0            | 28.5   | 13.5 | 22.5    |
 
 
 
-### Model trained on the train sets of the 10 datasets:
+### LLaVA 1.5 13B instruction-tuned on the train sets of the 10 datasets:
 
 - MMMU Evaluation 
 
@@ -94,7 +100,7 @@ Due to the nature of the datasets, we evaluate the models with two metrics (and 
 |--------|-----------------|--------|------|---------|
 | 38.0   | 30.0            | 36.5   | 22.5 | 31.8    |
 
-### Model trained with LLAVA and the train sets of the 10 datasets:
+### LLaVA 1.5 13B instruction-tuned with LLAVA instruction-tuning data and the train sets of the 10 datasets:
 
 - MMMU Evaluation 
 

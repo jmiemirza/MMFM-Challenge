@@ -118,7 +118,12 @@ def LLM_eval(model_id, model, tokenizer, batch_size, samples, cuda=True):
         return {'acc': 0, 'avg_score': 0}
     return judge_dict, {'acc': pred_correct / len(samples), 'avg_score': score_sum / len(samples)}
 
-
+def get_category_name(data_id):
+    items = data_id.split("_")[0:2]
+    if items[0] == items[1]:
+        return items[0]
+    else:
+        return '_'.join(items)
 if __name__ == '__main__':
 
     parser = ArgumentParser()
@@ -151,7 +156,7 @@ if __name__ == '__main__':
     output_dict_w_cat = {}
     for data_id, parsed_pred in output_dict.items():
         # category = data_id.split("_")[0] #[1:-1]
-        category = '_'.join(data_id.split("_")[0:2])
+        category = get_category_name(data_id)
         if category not in output_dict_w_cat:
             output_dict_w_cat.update({category: {}})
         output_dict_w_cat[category].update({ '_'.join(data_id.split('_')[:-1]) : parsed_pred})
@@ -160,7 +165,7 @@ if __name__ == '__main__':
     answer_dict_w_cat = {}
     for data_id, parsed_pred in answer_dict.items():
         # category = data_id.split("_")[0] #[1:-1]
-        category = '_'.join(data_id.split("_")[0:2])
+        category = get_category_name(data_id)
         if category not in answer_dict_w_cat:
             answer_dict_w_cat.update({category: {}})
         answer_dict_w_cat[category].update({ '_'.join(data_id.split('_')[:-1]) : parsed_pred})
