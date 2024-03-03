@@ -3,12 +3,12 @@
 #### Run the inference on LLaVA 1.5
 Activate the LLaVA environment
 ```
-conda activate doc-vl-eval
+conda activate MMFM-Challenge
 ```
 Run the inference on the test data of the 4 datasets of open-ended questions: `docvqa,infographicvqa,websrc,wtq`. This generates the output file of predicted answers `results/output_4_datasets.json`. 
 The predicted answers on these 4 datasets will be evaluated by the LLM - Mixtral 8x7b model. Specify the path to the processed data splits `data/processed_data` and the path to the LLaVA 1.5 model `/llava/model/path`
 ```
-cd ../doc-vl-eval
+cd ../MMFM-Challenge
 CUDA_VISIBLE_DEVICES=0 python eval_llava.py \
   --output_path inference_results/output_4_datasets.json \
   --data_path data/processed_data \  # path to the processed data splits

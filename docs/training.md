@@ -2,7 +2,7 @@
 #### Run the inference on LLaVA 1.5
 Activate the LLaVA environment
 ```
-conda activate doc-vl-eval
+conda activate MMFM-Challenge
 ```
 Build the visual instruction tuning data mix. Use `--mixin` parameter to mix additional instruction tuning data (e.g. LLaVA finetuning JSON):
 ```
