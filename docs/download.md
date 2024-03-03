@@ -17,6 +17,6 @@ The following datasets have been chosen for the challenge:
 
 For downloading, processing and merging all these datasets, please run: 
 ```bash
-conda activate doc-vl-eval
+conda activate MMFM-Challenge
 bash download_process_merge.sh
 ```
