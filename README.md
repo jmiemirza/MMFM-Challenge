@@ -55,8 +55,8 @@ For detailed instructions on how to setup the codebase and all the environments,
       - The instructions on how to reproduce the results
       - The model weights (link to the storage where the weights are uploaded)
       - The `requirements.txt` file consisting the dependencies for the code
-      - The code should be well-documented and easy to understand.
-- The organizing committee will verify the results and the code.
+      - The code should be well-documented and easy to understand
+- The organizing committee reserves the right to verify the results and the code.
 - The winners of the competition will be required to open source their code under MIT or more permissive licence. 
 
 ### Challenge Phases
