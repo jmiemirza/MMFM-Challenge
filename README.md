@@ -20,12 +20,13 @@ For detailed instructions on how to setup the codebase and all the environments,
    - [Challenge Phases](#challenge-phases)
    - [Metric](#metric)
    - [Open Source Models](#open-source-models)
-4. [Important Dates](#important-dates)
-5. [Prize Money](#prize-money)
-6. [Baselines](#baselines)
-7. [Disclaimer](#disclaimer)
-8. [Contact](#contact)
-9. [License](#license)
+4. [Submission](#submission)
+5. [Important Dates](#important-dates)
+6. [Prize Money](#prize-money)
+7. [Baselines](#baselines)
+8. [Disclaimer](#disclaimer)
+9. [Contact](#contact)
+10. [License](#license)
 
 
 [//]: # (1. [Installation]&#40;docs/installation.md&#41;)
@@ -41,7 +42,25 @@ For detailed instructions on how to setup the codebase and all the environments,
 ### General Rules
 - To be eligible for participation in our challenge, you must register your team via CMT (deadline 15th April): [https://cmt3.research.microsoft.com/MMFM2024](https://cmt3.research.microsoft.com/MMFM2024).
     - Please select the `challenge track` while registering.
-    
+
+- The organizing committee reserves the right to verify the results and the code.
+- The winners of the competition will be required to open source their code under MIT or more permissive licence. 
+- For eligibility to win the prize money, the participants are required to open source their code and the model weights. For participants who submit results with closed-source models, the organizers will not be able to consider them for the prize money. This is to ensure that the organizers can verify the results and the code. All submitted results would be documented in a leaderboard, closed-source results will be marked.
+
+### Challenge Phases
+- The challenge will be running in two phases: 
+  - Phase 1: The participants will submit their results on the test sets which is already present in `data/pre_processed` for all datasets.
+  - Phase 2: An alien test set will be released after the phase 1 deadline. The participants will be required to submit their results on the alien test set. Again, with the code and the model weights (which should be same as phase 1). 
+    - The alien test set will be of a similar domain to the current `test data`.
+  - The model submitted for Phase 2 shall reproduce the results of Phase 1. This is stipulated in order to discourage people from overfitting on the test set. An immediate *disqualification* will be in place if the results of Phase 2 are not reproducible from the model submitted in Phase 1.
+  - There is a 40% weightage for Phase 1 and 60% weightage for Phase 2.
+  - Only participants that submitted results for Phase 1 before its deadline will receive access to Phase 2 evaluation data, and only participants that submitted Phase 2 results will be eligible for the competition.
+  - Phase 2 is intended only for evaluating a model finalized in Phase 1, no model modification is allowed for Phase 2 (it should exactly reproduce Phase 1 evaluation).
+
+- Important: To be eligible for the prize money, the participants are required to register, and participate in both phases of the challenge.
+
+
+### Submission
 - For all submission, the participants will be required to submit their code and the model weights with the instructions on how to reproduce the results. 
     - For Phase 1 The code should be submitted through a public `github repository` and the model weights should be uploaded to some storage. The teams are responsible for informing the organizers via email. 
       - Please email the organizers with following information. 
@@ -56,19 +75,7 @@ For detailed instructions on how to setup the codebase and all the environments,
 - For Phase 2, please submit a 1-2 page report and submit the `github repository` link, and model weights link via [CMT]((https://cmt3.research.microsoft.com/MMFM2024)). 
   - The report should contain results for both pages and on overview of the methodology. 
     - The challenge winners will not be evaluated on the quality of the writing. 
-- The organizing committee reserves the right to verify the results and the code.
-- The winners of the competition will be required to open source their code under MIT or more permissive licence. 
-- Important: To be eligible for the prize money, the participants are required to register, and participate in both phases of the challenge.
 
-### Challenge Phases
-- The challenge will be running in two phases: 
-  - Phase 1: The participants will submit their results on the test sets which is already present in `data/pre_processed` for all datasets.
-  - Phase 2: An alien test set will be released after the phase 1 deadline. The participants will be required to submit their results on the alien test set. Again, with the code and the model weights (which should be same as phase 1). 
-    - The alien test set will be of a similar domain to the current `test data`.
-  - The model submitted for Phase 2 shall reproduce the results of Phase 1. This is stipulated in order to discourage people from overfitting on the test set. An immediate *disqualification* will be in place if the results of Phase 2 are not reproducible from the model submitted in Phase 1.
-  - There is a 40% weightage for Phase 1 and 60% weightage for Phase 2.
-  - Only participants that submitted results for Phase 1 before its deadline will receive access to Phase 2 evaluation data, and only participants that submitted Phase 2 results will be eligible for the competition.
-  - Phase 2 is intended only for evaluating a model finalized in Phase 1, no model modification is allowed for Phase 2 (it should exactly reproduce Phase 1 evaluation).
 
 ### Metric
   The evaluation metric agreed upon by the organizers is: 
@@ -76,11 +83,8 @@ For detailed instructions on how to setup the codebase and all the environments,
       Dataset Result = (performance of submitted model - performance of leading baseline) / (distance of leading baseline to 100%)
   the overall score will be computed as an average over the individual dataset results.
 
-### Open Source Models
-For eligibility to win the prize money, the participants are required to open source their code and the model weights. 
-For participants who submit results with closed-source models, the organizers will not be 
-able to consider them for the prize money. This is to ensure that the organizers can verify the results and the code.
-All submitted results would be documented in a leaderboard, closed-source results will be marked.
+[//]: # (### Open Source Models)
+
 
 # Important Dates
 - Initial registration deadline: 15th April 2024
