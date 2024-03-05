@@ -39,25 +39,26 @@ For detailed instructions on how to setup the codebase and all the environments,
 # Rules
 
 ### General Rules
-- To be eligible for participation in our challenge, you must register by sending an email to the organizers (please see the contact email below).
-  - The email should contain the following information:
-    - Subject: Registration for MMFM Challenge
-    - Team Name
-    - Name of the participants
-    - Affiliation of the participants
+- To be eligible for participation in our challenge, you must register your team via CMT (deadline 15th April): [https://cmt3.research.microsoft.com/MMFM2024](https://cmt3.research.microsoft.com/MMFM2024).
+    - Please select the `challenge track` while registering.
     
 - For all submission, the participants will be required to submit their code and the model weights with the instructions on how to reproduce the results. 
-    - The code should be submitted through a public `github repository` and the model weight should be uploaded to some storage. The teams are responsible for informing the organizers via email. 
-    - The `github repository` should contain:
-      - The code for the submission
-      - The results for the phases 1 (on 10 datasets) and 2 (on alien test set) - see below for details on the phases 
-      - Details about the model architecture and the training details
-      - The instructions on how to reproduce the results
-      - The model weights (link to the storage where the weights are uploaded)
-      - The `requirements.txt` file consisting the dependencies for the code
-      - The code should be well-documented and easy to understand
+    - For Phase 1 The code should be submitted through a public `github repository` and the model weights should be uploaded to some storage. The teams are responsible for informing the organizers via email. 
+      - Please email the organizers with following information. 
+        - The `github repository` should contain:
+          - The code for the submission
+          - The results for the phases 1 on 10 datasets see below for details on the phases 
+          - Details about the model architecture and the training details
+          - The instructions on how to reproduce the results
+          - The model weights (link to the storage where the weights are uploaded)
+          - The `requirements.txt` file consisting the dependencies for the code
+          - The code should be well-documented and easy to understand
+- For Phase 2, please submit a 1-2 page report and submit the `github repository` link, and model weights link via [CMT]((https://cmt3.research.microsoft.com/MMFM2024)). 
+  - The report should contain results for both pages and on overview of the methodology. 
+    - The challenge winners will not be evaluated on the quality of the writing. 
 - The organizing committee reserves the right to verify the results and the code.
 - The winners of the competition will be required to open source their code under MIT or more permissive licence. 
+- Important: To be eligible for the prize money, the participants are required to register, and participate in both phases of the challenge.
 
 ### Challenge Phases
 - The challenge will be running in two phases: 
@@ -82,9 +83,9 @@ able to consider them for the prize money. This is to ensure that the organizers
 All submitted results would be documented in a leaderboard, closed-source results will be marked.
 
 # Important Dates
-- Initial registration deadline: 1st April 2024
+- Initial registration deadline: 15th April 2024
 - Phase 1 deadline: 15th May 2024
-- Phase 2 deadline: 27th May 2024
+- Phase 2 deadline: 30th May 2024
 - Announcement of winners: 8th June 2024
 
 
