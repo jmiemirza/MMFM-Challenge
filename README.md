@@ -15,18 +15,18 @@ For detailed instructions on how to setup the codebase and all the environments,
    2. [Data Download](docs/download.md)
    3. [Evaluation](docs/evaluation.md)
    4. [Training](docs/training.md)
-3. [Rules](#rules)
+2. [Prize Money](#prize-money)
+3. [Important Dates](#important-dates)
+4. [Rules](#rules)
    - [General Rules](#general-rules)
    - [Challenge Phases](#challenge-phases)
    - [Metric](#metric)
    - [Open Source Models](#open-source-models)
-4. [Submission](#submission)
-5. [Important Dates](#important-dates)
-6. [Prize Money](#prize-money)
-7. [Baselines](#baselines)
-8. [Disclaimer](#disclaimer)
-9. [Contact](#contact)
-10. [License](#license)
+5. [Submission](#submission)
+6. [Baselines](#baselines)
+7. [Disclaimer](#disclaimer)
+8. [Contact](#contact)
+9. [License](#license)
 
 
 [//]: # (1. [Installation]&#40;docs/installation.md&#41;)
@@ -36,6 +36,26 @@ For detailed instructions on how to setup the codebase and all the environments,
 [//]: # (3. [Evaluation]&#40;docs/evaluation.md&#41;)
 
 [//]: # (4. [Training]&#40;docs/training.md&#41;)
+
+# Prize Money
+
+The top 3 performers will be declared as the challenge winners and receive a prize totalling $10,000 USD, to be split as follows:.
+
+- 1st Place: $5000
+- 2nd Place: $3000
+- 3rd Place: $2000
+
+The three winners will also be invited for spotlight talks at the workshop. Details will 
+be shared with the winners after the challenge conclusion and before the workshop date.
+
+
+# Important Dates
+- Initial registration deadline: 15th April 2024
+- Phase 1 deadline: 15th May 2024
+- Phase 2 deadline: 30th May 2024
+- Announcement of winners: 8th June 2024
+
+
 
 # Rules
 
@@ -86,20 +106,7 @@ For detailed instructions on how to setup the codebase and all the environments,
 [//]: # (### Open Source Models)
 
 
-# Important Dates
-- Initial registration deadline: 15th April 2024
-- Phase 1 deadline: 15th May 2024
-- Phase 2 deadline: 30th May 2024
-- Announcement of winners: 8th June 2024
 
-
-
-# Prize Money
-
-The top 3 performers will be declared as the challenge winners and receive a money award. Details of the award will be disclosed soon! 
-
-The three winners will also be invited for spotlight talks at the workshop. Details will 
-be shared with the winners after the challenge conclusion and before the workshop date.
 
 # Baselines
 Here we provide three baselines for the challenge by training the LLAVA-1.5 model on three types of data, and we provide the results obtained from the 
