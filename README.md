@@ -39,7 +39,7 @@ For detailed instructions on how to setup the codebase and all the environments,
 
 # Prize Money
 
-The top 3 performers will be declared as the challenge winners and receive a prize totalling $10,000 USD, to be split as follows:.
+The top 3 performers will be declared as the challenge winners and receive a prize totalling $10,000 USD, to be split as follows:
 
 - 1st Place: $5000
 - 2nd Place: $3000
