@@ -13,7 +13,7 @@ cd .. && git clone https://github.com/haotian-liu/LLaVA.git
 # checkout to an older version of the LLaVA repo which is compatible with the LLaVA 1.5 model
 cd LLaVA && git checkout ac89962d8fb191f42a0eed965a949c8bb316833a
 # create a symbolic link to the LLaVA repository
-cd .. && ln -s LLaVA MMFM-Challenge/lib/LLaVA
+cd .. && ln -s /absolute/path/of/LLaVA MMFM-Challenge/lib/LLaVA
 # environment configuration
 cd LLaVA
 pip install --upgrade pip

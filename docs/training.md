@@ -4,6 +4,10 @@ Activate the LLaVA environment
 ```
 conda activate MMFM-Challenge
 ```
+Download the LLaVA instruction tuning data following the instructions in the [LLaVA repo](https://github.com/haotian-liu/LLaVA/tree/main?tab=readme-ov-file#visual-instruction-tuning). 
+Place the json file `llava_v1_5_mix665k.json` in `LLaVA/data`. 
+Organize the image data in the directory of `./data/processed_data`. 
+
 Build the visual instruction tuning data mix. Use `--mixin` parameter to mix additional instruction tuning data (e.g. LLaVA finetuning JSON):
 ```
 python build_train_data.py \
