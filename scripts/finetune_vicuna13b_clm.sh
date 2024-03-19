@@ -9,7 +9,7 @@ deepspeed llava/train/train_mem.py \
     --data_path ./data/$1.json \
     --image_folder $2 \
     --vision_tower openai/clip-vit-large-patch14-336 \
-    --pretrain_mm_mlp_adapter ./lib/LLaVA/checkpoints/llava-v1.5-13b-pretrain/mm_projector.bin \
+    --pretrain_mm_mlp_adapter ./lib/LLaVA/checkpoints/llava-v1.5-mlp2x-336px-pretrain-vicuna-13b-v1.5/mm_projector.bin \
     --mm_projector_type mlp2x_gelu \
     --mm_vision_select_layer -2 \
     --mm_use_im_start_end False \
