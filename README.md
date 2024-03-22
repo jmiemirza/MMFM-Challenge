@@ -39,13 +39,16 @@ For detailed instructions on how to setup the codebase and all the environments,
 
 # Prize Money
 
-The top 3 performers will be declared as the challenge winners and receive a prize totalling $10,000 USD, to be split as follows:
+<!-- The top 3 performers will be declared as the challenge winners and receive a prize totalling $10,000 USD, to be split as follows: -->
 
-- 1st Place: $5000
-- 2nd Place: $3000
-- 3rd Place: $2000
+<!-- - 1st Place: $5000 -->
+<!-- - 2nd Place: $3000 -->
+<!-- - 3rd Place: $2000 -->
 
-The three winners will also be invited for spotlight talks at the workshop. Details will 
+
+The top 3 performers will be declared as the challenge winners and receive a cash prize, details about this will be shared later.
+
+The three winners will also be invited for spotlight talks at the workshop. Details about the talk will 
 be shared with the winners after the challenge conclusion and before the workshop date.
 
 
