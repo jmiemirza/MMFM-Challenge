@@ -53,7 +53,6 @@ be shared with the winners after the challenge conclusion and before the worksho
 
 
 # Important Dates
-- Initial registration deadline: 15th April 2024
 - Phase 1 deadline: 15th May 2024
 - Phase 2 deadline: 30th May 2024
 - Announcement of winners: 8th June 2024
@@ -63,7 +62,7 @@ be shared with the winners after the challenge conclusion and before the worksho
 # Rules
 
 ### General Rules
-- To be eligible for participation in our challenge, you must register your team via CMT (deadline 15th April): [https://cmt3.research.microsoft.com/MMFM2024](https://cmt3.research.microsoft.com/MMFM2024).
+- To be eligible for participation in our challenge, you must register your team via CMT: [https://cmt3.research.microsoft.com/MMFM2024](https://cmt3.research.microsoft.com/MMFM2024).
     - Please select the `challenge track` while registering.
 
 - The organizing committee reserves the right to verify the results and the code.
