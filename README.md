@@ -72,7 +72,7 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
 ### Submission
 - For all submission, the participants will be required to submit results to our online evaluaton and a instruction to [MMFM Challenge CMT]((https://cmt3.research.microsoft.com/MMFM2024)).
     - Online Evaluation
-    -  - will release at the same day with the phase 2 data
+       - will release at the same day with the phase 2 data
     - Instruction
        - The teamname
        - The captured result screenshots 
