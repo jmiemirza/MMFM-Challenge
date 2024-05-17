@@ -57,7 +57,7 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
 ## Rules
 
 ### General Rules
-- To be eligible for participation in our challenge, you must register your team via CMT: [https://cmt3.research.microsoft.com/MMFM2024](https://cmt3.research.microsoft.com/MMFM2024).
+- To be eligible for participation in our challenge, you must register your team via [MMFM Challenge CMT](https://cmt3.research.microsoft.com/MMFM2024).
     - Please select the `challenge track` while registering.
 
 - The organizing committee reserves the right to verify the results and the code.
