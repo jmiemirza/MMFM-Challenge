@@ -3,8 +3,7 @@
 Multimodal Foundation Models (MMFMs) have shown unprecedented performance in many computer vision tasks. However, on some very specific tasks like document understanding, their performance is still underwhelming. In order to evaluate and improve these strong multi-modal models for the task of document image understanding, we harness a large amount of publicly available and privately gathered data (listed in the image above) and propose a challenge. In the following, we list all the important details related to the challenge. Our challenge is running in two separate phases. For the first phase, we have released a training set consisting of publicly available data and for the second phase, an alien test set will be released soon.
 
 This repository contains instructions on how to set up the code for the challenge which is part of our 
-[The CVPR workshop on Multi-Modal Foundation Models](https://sites.google.com/view/2nd-mmfm-workshop/home?authuser=0) 
-to appear in the [CVPR 2024](https://cvpr.thecvf.com/) program. 
+[The CVPR workshop on Multi-Modal Foundation Models](https://sites.google.com/view/2nd-mmfm-workshop/home?authuser=0). 
 
 
 For detailed instructions on how to setup the codebase and all the environments, and setup the code for evaluation, please read through these separate instructions:
@@ -38,7 +37,7 @@ For detailed instructions on how to setup the codebase and all the environments,
 
 [//]: # (4. [Training]&#40;docs/training.md&#41;)
 
-# Prize Money
+# Awards
 
 <!-- The top 3 performers will be declared as the challenge winners and receive a prize totalling $10,000 USD, to be split as follows: -->
 
@@ -47,17 +46,14 @@ For detailed instructions on how to setup the codebase and all the environments,
 <!-- - 3rd Place: $2000 -->
 
 
-The top 3 performers will be declared as the challenge winners and receive a cash prize, details about this will be shared later.
-
-The three winners will also be invited for spotlight talks at the workshop. Details about the talk will 
-be shared with the winners after the challenge conclusion and before the workshop date.
+The challenge winners will be awarded with $10K in prizes sponsored by TensorLeap, and details about this will be shared later.
 
 
 # Important Dates
-- Phase 1 deadline: 15th May 2024
-- Phase 2 deadline: 30th May 2024
-- Announcement of winners: 8th June 2024
-
+- Phase 1 Data Release: March 20 2024
+- Phase 2 Data Release: May 20 2024
+- Final Evaluation Open: May 20 2024
+- Phase 1&2 Due Date: 5th June 2024
 
 
 # Rules
@@ -68,33 +64,27 @@ be shared with the winners after the challenge conclusion and before the worksho
 
 - The organizing committee reserves the right to verify the results and the code.
 - The winners of the competition will be required to open source their code under MIT or more permissive licence. 
-- For eligibility to win the prize money, the participants are required to open source their code and the model weights. For participants who submit results with closed-source models, the organizers will not be able to consider them for the prize money. This is to ensure that the organizers can verify the results and the code. All submitted results would be documented in a leaderboard, closed-source results will be marked.
+- For eligibility to win the prize, the participants are required to open source their code and the model weights. For participants who submit results with closed-source models, the organizers will not be able to consider them for the prize. This is to ensure that the organizers can verify the results and the code. All submitted results would be documented in a leaderboard, closed-source results will be marked.
 
 ### Challenge Phases
 - The challenge will be running in two phases: 
   - Phase 1: The participants will submit their results on the test sets which is already present in `data/pre_processed` for all datasets.
-  - Phase 2: An alien test set will be released after the phase 1 deadline. The participants will be required to submit their results on the alien test set. Again, with the code and the model weights (which should be same as phase 1). 
+  - Phase 2: An alien test set will be released. The participants will be required to submit their results on the alien test set. The code and the model weights should be same as phase 1. 
     - The alien test set will be of a similar domain to the current `test data`.
-  - The model submitted for Phase 2 shall reproduce the results of Phase 1. This is stipulated in order to discourage people from overfitting on the test set. An immediate *disqualification* will be in place if the results of Phase 2 are not reproducible from the model submitted in Phase 1.
-  - There is a 40% weightage for Phase 1 and 60% weightage for Phase 2.
-  - Only participants that submitted results for Phase 1 before its deadline will receive access to Phase 2 evaluation data, and only participants that submitted Phase 2 results will be eligible for the competition.
-  - Phase 2 is intended only for evaluating a model finalized in Phase 1, no model modification is allowed for Phase 2 (it should exactly reproduce Phase 1 evaluation).
-
-- Important: To be eligible for the prize money, the participants are required to register, and participate in both phases of the challenge.
-
+  - The model submitted for Phase 2 should exactly reproduce the Phase 1 evaluation. 
+  - Only participants that submitted results for both Phase 1 and Phase 2 results will be eligible for the competition.
 
 ### Submission
-- For all submission, the participants will be required to submit their code and the model weights with the instructions on how to reproduce the results. 
-    - For Phase 1 The code should be submitted through a public `github repository` and the model weights should be uploaded to some storage. The teams are responsible for informing the organizers via email. 
+- For all submission, the participants will be required to inform the organizers via email, and submit their code and the model weights with the instructions on how to reproduce the results. 
+    - The code should be submitted through a public `github repository` and the model weights should be uploaded to some storage. 
       - Please email the organizers with following information. 
         - The `github repository` should contain:
-          - The code for the submission
-          - The results for the phases 1 on 10 datasets see below for details on the phases 
-          - Details about the model architecture and the training details
+          - The results for the Phase 1 and Phase 2
+          - The code for the submission and should be well-documented and easy to understand
           - The instructions on how to reproduce the results
           - The model weights (link to the storage where the weights are uploaded)
           - The `requirements.txt` file consisting the dependencies for the code
-          - The code should be well-documented and easy to understand
+          - Details about the model architecture and the training details
 - For Phase 2, please submit a 1-2 page report and submit the `github repository` link, and model weights link via [CMT]((https://cmt3.research.microsoft.com/MMFM2024)). 
   - The report should contain results for both pages and on overview of the methodology. 
     - The challenge winners will not be evaluated on the quality of the writing. 
