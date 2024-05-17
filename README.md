@@ -61,8 +61,7 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
     - Please select the `challenge track` while registering.
 
 - The organizing committee reserves the right to verify the results and the code.
-- The winners of the competition will be required to open source their code under MIT or more permissive licence. 
-- For eligibility to win the prize, the participants are required to open source their code and the model weights. For participants who submit results with closed-source models, the organizers will not be able to consider them for the prize. This is to ensure that the organizers can verify the results and the code. All submitted results would be documented in a leaderboard, closed-source results will be marked.
+- For eligibility to win the prize, the participants are required to open source their code and the model weights to the challenge. This is to ensure that the organizers can verify the results and the code. All submitted results would be documented in a leaderboard.
 
 ### Challenge Phases
 - The challenge will be running in two phases: 
