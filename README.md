@@ -15,7 +15,7 @@ For detailed instructions on how to setup the codebase and all the environments,
    2. [Data Download](docs/download.md)
    3. [Evaluation](docs/evaluation.md)
    4. [Training](docs/training.md)
-2. [Prize Money](#prize-money)
+2. [Prize](#prize-money)
 3. [Important Dates](#important-dates)
 4. [Rules](#rules)
    - [General Rules](#general-rules)
