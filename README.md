@@ -70,12 +70,14 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
   - Only participants that submitted results for both Phase 1 and Phase 2 results will be eligible for the competition.
 
 ### Submission
-- For all submission, the participants will be required to submit results to our online evaluaton, a instruction to [MMFM Challenge CMT]((https://cmt3.research.microsoft.com/MMFM2024)).
-- We will ask the top teams to release a Github Repository (codes, model weights, and a well-documented Readme) to the reviewer account `mmfm2024` and invite the winners to provide the solution report if necessary. 
+- For all submission, the participants will be required to submit results to our online evaluaton and a instruction to [MMFM Challenge CMT]((https://cmt3.research.microsoft.com/MMFM2024)).
+    - Online Evaluation
+    -  - will release at the same day with the phase 2 data
     - Instruction
        - The teamname
        - The captured result screenshots 
-       - The 1-2 page instruction should introduce how to reproduce the submitted results and a Github Repository link with all necessary files or links for the repoducibility
+       - The 1-2 page instruction should introduce how to reproduce the submitted results and a Github Repository link with all necessary files or links for the repoducibility 
+- We will ask the top teams to release a Github Repository (codes, model weights, and a well-documented Readme) to the reviewer account `mmfm2024` and invite the winners to provide the solution report if necessary. 
     - Github Repository
        - The repository should add the reviewer account `mmfm2024` as membership
        - The codes and Readme for the submission should be well-documented and easy to understand
