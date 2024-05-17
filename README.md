@@ -5,28 +5,24 @@ Multimodal Foundation Models (MMFMs) have shown unprecedented performance in man
 This repository contains instructions on how to set up the code for the challenge which is part of our 
 [The CVPR workshop on Multi-Modal Foundation Models](https://sites.google.com/view/2nd-mmfm-workshop/home?authuser=0). 
 
-
-For detailed instructions on how to setup the codebase and all the environments, and setup the code for evaluation, please read through these separate instructions:
-
-
 ## Table of Contents
-1. [Getting Started](#instructions)
+1. [Important Dates](#important-dates)
+2. [Prize](#prize)
+3. [Getting Started](#instructions)
    1. [Installation](docs/installation.md)
    2. [Data Download](docs/download.md)
    3. [Evaluation](docs/evaluation.md)
    4. [Training](docs/training.md)
-2. [Prize](#prize-money)
-3. [Important Dates](#important-dates)
-4. [Rules](#rules)
+5. [Rules](#rules)
    - [General Rules](#general-rules)
    - [Challenge Phases](#challenge-phases)
    - [Metric](#metric)
    - [Open Source Models](#open-source-models)
-5. [Submission](#submission)
-6. [Baselines](#baselines)
-7. [Disclaimer](#disclaimer)
-8. [Contact](#contact)
-9. [License](#license)
+6. [Submission](#submission)
+7. [Baselines](#baselines)
+8. [Disclaimer](#disclaimer)
+9. [Contact](#contact)
+10. [License](#license)
 
 
 [//]: # (1. [Installation]&#40;docs/installation.md&#41;)
@@ -37,7 +33,18 @@ For detailed instructions on how to setup the codebase and all the environments,
 
 [//]: # (4. [Training]&#40;docs/training.md&#41;)
 
-# Awards
+
+For detailed instructions on how to setup the codebase and all the environments, and setup the code for evaluation, please read through these separate instructions:
+
+# Important Dates
+- Phase 1 Data Release: March 20 2024
+- Phase 2 Data Release: May 20 2024
+- Final Evaluation Open: May 20 2024
+- Phase 1&2 Due Date: 5th June 2024
+
+
+
+# Prize
 
 <!-- The top 3 performers will be declared as the challenge winners and receive a prize totalling $10,000 USD, to be split as follows: -->
 
@@ -48,12 +55,6 @@ For detailed instructions on how to setup the codebase and all the environments,
 
 The challenge winners will be awarded with $10K in prizes sponsored by TensorLeap, and details about this will be shared later.
 
-
-# Important Dates
-- Phase 1 Data Release: March 20 2024
-- Phase 2 Data Release: May 20 2024
-- Final Evaluation Open: May 20 2024
-- Phase 1&2 Due Date: 5th June 2024
 
 
 # Rules
