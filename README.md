@@ -17,7 +17,6 @@ This repository contains instructions on how to set up the code for the challeng
    - [General Rules](#general-rules)
    - [Challenge Phases](#challenge-phases)
    - [Metric](#metric)
-   - [Open Source Models](#open-source-models)
 6. [Submission](#submission)
 7. [Baselines](#baselines)
 8. [Disclaimer](#disclaimer)
@@ -70,36 +69,27 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
   - Phase 1: The participants will submit their results on the test sets which is already present in `data/pre_processed` for all datasets.
   - Phase 2: An alien test set will be released. The participants will be required to submit their results on the alien test set. The code and the model weights should be same as phase 1. 
     - The alien test set will be of a similar domain to the current `test data`.
-  - The model submitted for Phase 2 should exactly reproduce the Phase 1 evaluation. 
   - Only participants that submitted results for both Phase 1 and Phase 2 results will be eligible for the competition.
 
 ### Submission
-- For all submission, the participants will be required to inform the organizers via email, and submit their code and the model weights with the instructions on how to reproduce the results. 
-    - The code should be submitted through a public `github repository` and the model weights should be uploaded to some storage. 
-      - Please email the organizers with following information. 
-        - The `github repository` should contain:
-          - The results for the Phase 1 and Phase 2
-          - The code for the submission and should be well-documented and easy to understand
-          - The instructions on how to reproduce the results
-          - The model weights (link to the storage where the weights are uploaded)
-          - The `requirements.txt` file consisting the dependencies for the code
-          - Details about the model architecture and the training details
-- For Phase 2, please submit a 1-2 page report and submit the `github repository` link, and model weights link via [CMT]((https://cmt3.research.microsoft.com/MMFM2024)). 
-  - The report should contain results for both pages and on overview of the methodology. 
-    - The challenge winners will not be evaluated on the quality of the writing. 
-
-
-For detailed instructions on how to setup the codebase and all the environments, and setup the code for evaluation, please read through these separate instructions:
+- For all submission, the participants will be required to submit results to our online evaluaton, a instruction to [MMFM Challenge CMT]((https://cmt3.research.microsoft.com/MMFM2024)).
+- We will ask the top teams to release a Github Repository (codes, model weights, and a well-documented Readme) to the reviewer account `mmfm2024` and invite the winners to provide the solution report if necessary. 
+    - Instruction
+       - The teamname
+       - The captured result screenshots 
+       - The 1-2 page instruction should introduce how to reproduce the submitted results and a Github Repository link with all necessary files or links for the repoducibility
+    - Github Repository
+       - The repository should add the reviewer account `mmfm2024` as membership
+       - The codes and Readme for the submission should be well-documented and easy to understand
+       - The model weights (link to the accessible storage where the weights are uploaded), and the model submitted for Phase 2 should exactly reproduce the Phase 1 evaluation results
+       - The `requirements.txt` file consisting the dependencies for the code
+   - Winner Report
+     - We will notify the report details for the winners 
+     - A 1-2 page report to introduce details about the model architecture and the training details via [CMT]((https://cmt3.research.microsoft.com/MMFM2024))
+     - The report should contain results for both phases and on overview of the methodology
 
 ### Metric
-  The evaluation metric agreed upon by the organizers is: 
-
-      Dataset Result = (performance of submitted model - performance of leading baseline) / (distance of leading baseline to 100%)
-  the overall score will be computed as an average over the individual dataset results.
-
-[//]: # (### Open Source Models)
-
-
+  The evaluation metric is the overall score be computed as an average over the individual dataset results.
 
 
 # Baselines
