@@ -1,4 +1,4 @@
-# Overview
+## Overview
 [MMFM Challenge](https://sites.google.com/view/2nd-mmfm-workshop/challenge?authuser=0).
 Multimodal Foundation Models (MMFMs) have shown unprecedented performance in many computer vision tasks. However, on some very specific tasks like document understanding, their performance is still underwhelming. In order to evaluate and improve these strong multi-modal models for the task of document image understanding, we harness a large amount of publicly available and privately gathered data (listed in the image above) and propose a challenge. In the following, we list all the important details related to the challenge. Our challenge is running in two separate phases. For the first phase, we have released a training set consisting of publicly available data and for the second phase, an alien test set will be released soon.
 
@@ -33,7 +33,7 @@ This repository contains instructions on how to set up the code for the challeng
 [//]: # (4. [Training]&#40;docs/training.md&#41;)
 
 
-# Important Dates
+## Important Dates
 - Phase 1 Data Release: March 20 2024
 - Phase 2 Data Release: May 20 2024
 - Final Evaluation Open: May 20 2024
@@ -41,7 +41,7 @@ This repository contains instructions on how to set up the code for the challeng
 
 
 
-# Prize
+## Prizes
 
 <!-- The top 3 performers will be declared as the challenge winners and receive a prize totalling $10,000 USD, to be split as follows: -->
 
@@ -54,7 +54,7 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
 
 
 
-# Rules
+## Rules
 
 ### General Rules
 - To be eligible for participation in our challenge, you must register your team via CMT: [https://cmt3.research.microsoft.com/MMFM2024](https://cmt3.research.microsoft.com/MMFM2024).
@@ -92,7 +92,7 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
   The evaluation metric is the overall score be computed as an average over the individual dataset results.
 
 
-# Baselines
+## Baselines
 Here we provide three baselines for the challenge by training the LLAVA-1.5 model on three types of data, and we provide the results obtained from the 
 resulting model on the test sets of the 10 datasets which contain 200 randomly sampled from the original `validation split` of the dataset. 
 Due to the nature of the datasets, we evaluate the models with two metrics (and report the Accuracy %): 
@@ -150,16 +150,16 @@ Due to the nature of the datasets, we evaluate the models with two metrics (and 
 |--------|-----------------|--------|------|---------|
 | 35.0   | 29.0            | 40.5   | 22.0 | 31.6    |
 
-# Disclaimer
+## Disclaimer
 The organizers reserve the right to disqualify any participant who is found to be in violation of the rules of the challenge. 
 The organizers also reserve the right to modify the rules of the challenge at any time.
 
-# Contact
+## Contact
 For any questions, please write an email to the organizers, a team member will get back to you as soon as possible:
 
 [contactmmfm2024@gmail.com](contactmmfm2024@gmail.com).
 
-# License
+## License
 
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
 To view the licenses of the datasets used in the challenge, please see [LICENSES](docs/licenses.md).
