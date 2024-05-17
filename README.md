@@ -67,8 +67,7 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
 ### Challenge Phases
 - The challenge will be running in two phases: 
   - Phase 1: The participants will submit their results on the test sets which is already present in `data/pre_processed` for all datasets.
-  - Phase 2: An alien test set will be released. The participants will be required to submit their results on the alien test set. The code and the model weights should be same as phase 1. 
-    - The alien test set will be of a similar domain to the current `test data`.
+  - Phase 2: An alien test set will be released. The participants will be required to submit their results on the alien test set. The code and the model weights should be same as phase 1. The alien test set will be of a similar domain to the current `test data`.
   - Only participants that submitted results for both Phase 1 and Phase 2 results will be eligible for the competition.
 
 ### Submission
