@@ -70,9 +70,9 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
   - Only participants that submitted results for both Phase 1 and Phase 2 results will be eligible for the competition.
 
 ### Submission
-- For all submission, the participants will be required to submit results to our online evaluaton and a instruction to [MMFM Challenge CMT]((https://cmt3.research.microsoft.com/MMFM2024)).
+- For all submission, the participants will be required to submit results to our online evaluaton and a instruction to [MMFM Challenge CMT](https://cmt3.research.microsoft.com/MMFM2024).
     - Online Evaluation
-       - will release at the same day with the phase 2 data
+       - will release at the same day with the Phase 2 data
     - Instruction
        - The teamname
        - The captured result screenshots 
@@ -85,7 +85,7 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
        - The `requirements.txt` file consisting the dependencies for the code
    - Winner Report
      - We will notify the report details for the winners 
-     - A 1-2 page report to introduce details about the model architecture and the training details via [CMT]((https://cmt3.research.microsoft.com/MMFM2024))
+     - A 1-2 page report to introduce details about the model architecture and the training details via [MMFM Challenge CMT]((https://cmt3.research.microsoft.com/MMFM2024))
      - The report should contain results for both phases and on overview of the methodology
 
 ### Metric
