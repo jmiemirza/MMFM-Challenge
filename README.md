@@ -34,8 +34,6 @@ This repository contains instructions on how to set up the code for the challeng
 [//]: # (4. [Training]&#40;docs/training.md&#41;)
 
 
-For detailed instructions on how to setup the codebase and all the environments, and setup the code for evaluation, please read through these separate instructions:
-
 # Important Dates
 - Phase 1 Data Release: March 20 2024
 - Phase 2 Data Release: May 20 2024
@@ -90,6 +88,8 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
   - The report should contain results for both pages and on overview of the methodology. 
     - The challenge winners will not be evaluated on the quality of the writing. 
 
+
+For detailed instructions on how to setup the codebase and all the environments, and setup the code for evaluation, please read through these separate instructions:
 
 ### Metric
   The evaluation metric agreed upon by the organizers is: 
