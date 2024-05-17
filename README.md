@@ -79,7 +79,7 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
     - Github Repository
        - The repository should add the reviewer account `mmfm2024` as membership
        - The codes and Readme for the submission should be well-documented and easy to understand
-       - The model weights (link to the accessible storage where the weights are uploaded), and the model submitted for Phase 2 should exactly reproduce the Phase 1 evaluation results
+       - The model weights (link to the accessible storage where the weights are uploaded)
        - The `requirements.txt` file consisting the dependencies for the code
    - Winner Report
      - We will notify the report details for the winners 
