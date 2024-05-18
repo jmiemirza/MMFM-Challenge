@@ -86,9 +86,9 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
    - Winner Report
      - We will notify the report details for the winners 
      - A 1-2 page report to introduce details about the model architecture and the training details via [MMFM Challenge CMT]((https://cmt3.research.microsoft.com/MMFM2024))
-     - The report should contain results for both phases and on overview of the methodology
+     - The report should contain results for both phases and on overview of the methodology  
 
-### Metric
+ ### Metric
   The evaluation metric is the overall score be computed as an average over the individual dataset results.
 
 
