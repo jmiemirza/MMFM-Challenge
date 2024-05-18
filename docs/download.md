@@ -1,5 +1,5 @@
 
-# Data Download Instructions 
+# Data Download & Process 
 The datasets will be downloaded into `data/raw_datasets` in the current repo. The datasets take around 90G. The dataset-wise train/val/test splits and merged splits will be saved in `data/processed_data` and `data/merged_data`
 The test splits are already provided in `data/pre_processed` for all datasets.
 The following datasets have been chosen for the challenge:
