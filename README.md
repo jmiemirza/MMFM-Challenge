@@ -69,24 +69,21 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
   - Phase 2: An alien test set will be released. The participants will be required to submit their results on the alien test set. The code and the model weights should be same as phase 1. The alien test set will be of a similar domain to the current `test data`.
 
 ### Submission
-- For all submission, the participants will be required to submit results to our online evaluation and a instruction document to [MMFM Challenge CMT](https://cmt3.research.microsoft.com/MMFM2024).
+- For all submission, the participants will be required to submit results to our online evaluation and an instruction document to [MMFM Challenge CMT](https://cmt3.research.microsoft.com/MMFM2024).
+- We also ask teams to release a Github Repository (codes, model weights, and a well-documented Readme) to the reviewer account `mmfm2024`. 
     - Online Evaluation
        - Please submit both Phase 1 and Phase 2 results
        - Will release on May 20, 2024
     - Instruction Document
        - The teamname
        - The captured result screenshots 
-       - The 1-2 page instruction should introduce how to reproduce the submitted results and a Github Repository link with all necessary files or links for the repoducibility 
-- We will ask the top teams to release a Github Repository (codes, model weights, and a well-documented Readme) to the reviewer account `mmfm2024` and invite the winners to provide the solution report if necessary. 
+       - The 1-2 page document should introduce how to reproduce the submitted results and a Github Repository link with all necessary files or links for the repoducibility
+       - The document should conatain an overview of the methodology, training settings, and results for both phases
     - Github Repository
        - The repository should add the reviewer account `mmfm2024` as membership
        - The codes and Readme for the submission should be well-documented and easy to understand
        - The model weights (link to the accessible storage where the weights are uploaded)
        - The `requirements.txt` file consisting the dependencies for the code
-   - Winner Report
-     - We will notify the report details for the winners 
-     - A 1-2 page report to introduce details about the model architecture and the training details
-     - The report should contain results for both phases and on overview of the methodology  
 
  ### Metric
   The evaluation metric is the overall score be computed as an average over the individual dataset results.
