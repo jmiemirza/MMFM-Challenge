@@ -79,7 +79,7 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
        - The 1-2 page document should introduce how to reproduce the submitted results and a Github Repository link with all necessary files or links for the repoducibility
        - The document should conatain an overview of the methodology, training settings, and results for both phases
     - Github Repository
-       - The repository should add the reviewer account `mmfm2024` as membership
+       - The repository should add the reviewer account `mmfm2024` as a repository member
        - The codes and Readme for the submission should be well-documented and easy to understand
        - The model weights (link to the accessible storage where the weights are uploaded)
        - The `requirements.txt` file consisting the dependencies for the code
