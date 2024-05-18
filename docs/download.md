@@ -7,7 +7,7 @@ The following datasets have been chosen for the challenge:
 1. [DocVQA](https://www.docvqa.org/datasets)
 2. [FUNSD](https://guillaumejaume.github.io/FUNSD/)
 3. [IconQA](https://iconqa.github.io/)
-4. [InfogrpahicsVQA](https://www.docvqa.org/datasets/infographicvqa)
+4. [InfogrpahicVQA](https://www.docvqa.org/datasets/infographicvqa)
 5. [Tabfact](https://tabfact.github.io/) 
 6. [TextbookVQA](https://allenai.org/data/tqa)
 7. [WebSrc](https://x-lance.github.io/WebSRC/)
