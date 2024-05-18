@@ -2,7 +2,7 @@
 [MMFM Challenge](https://sites.google.com/view/2nd-mmfm-workshop/challenge?authuser=0).
 Multimodal Foundation Models (MMFMs) have shown unprecedented performance in many computer vision tasks. However, on some very specific tasks like document understanding, their performance is still underwhelming. In order to evaluate and improve these strong multi-modal models for the task of document image understanding, we harness a large amount of publicly available and privately gathered data (listed in the image above) and propose a challenge. In the following, we list all the important details related to the challenge. Our challenge is running in two separate phases. For the first phase, we have released a training set consisting of publicly available data and for the second phase, an alien test set will be released soon.
 
-This repository contains instructions on how to set up the code for the challenge which is part of our 
+This repository contains instructions for the challenge which is part of our 
 [CVPR workshop on “What’s Next in Multimodal Foundation Models?”](https://sites.google.com/view/2nd-mmfm-workshop/home?authuser=0). 
 
 ## Table of Contents
