@@ -73,7 +73,6 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
     - Online Evaluation
        - One team use the same Huggingface account to login the online evaluation for all submissions
        - Please submit both Phase 1 and Phase 2 results
-       - Phase 2 data and online evaluation will be released on May 20, 2024
     - Instruction Document
        - The teamname and the Huggingface account name
        - 1-2 pages
