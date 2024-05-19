@@ -66,7 +66,7 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
 ### Challenge Phases
 - The challenge will be running in two phases: 
   - Phase 1: The participants will submit their results on the test sets which is already present in `data/pre_processed` for all datasets.
-  - Phase 2: An alien test set will be released. The participants will be required to submit their results on the alien test set. The code and the model weights should be same as phase 1. The alien test set will be of a similar domain to the current `test data`.
+  - Phase 2: An alien test set will be released. The participants will be required to submit their results on the alien test set. The alien test set will be of a similar domain to the Phase 1 `test data`.
 
 ### Submission
 - For all submission, the participants will be required to submit results via [MMFM Online Evaluation](https://huggingface.co/spaces/ai-competition/MMFMChallenge) and submit an Instruction Document via [MMFM Challenge CMT](https://cmt3.research.microsoft.com/MMFM2024). We also ask teams to share the Github Repository to the reviewer account `mmfm2024` for repoducibility. 
