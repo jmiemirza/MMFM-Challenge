@@ -69,15 +69,16 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
   - Phase 2: An alien test set will be released. The participants will be required to submit their results on the alien test set. The code and the model weights should be same as phase 1. The alien test set will be of a similar domain to the current `test data`.
 
 ### Submission
-- For all submission, the participants will be required to submit results via [MMFM Evaluation](https://huggingface.co/spaces/ai-competition/MMFMChallenge) and submit an instruction document via [MMFM Challenge CMT](https://cmt3.research.microsoft.com/MMFM2024). We also ask teams to share the Github Repository (codes, model weights, and a well-documented Readme) to the reviewer account `mmfm2024`. 
+- For all submission, the participants will be required to submit results via [MMFM Online Evaluation](https://huggingface.co/spaces/ai-competition/MMFMChallenge) and submit an Instruction Document via [MMFM Challenge CMT](https://cmt3.research.microsoft.com/MMFM2024). We also ask teams to share the Github Repository to the reviewer account `mmfm2024` for repoducibility. 
     - Online Evaluation
-       - Please use your Huggingface account to login in the online evaluation
+       - One team use the same Huggingface account to login the online evaluation for all submissions
        - Please submit both Phase 1 and Phase 2 results
        - Phase 2 data and online evaluation will be released on May 20, 2024
     - Instruction Document
-       - The teamname
-       - The captured result screenshots 
-       - The 1-2 page document should introduce how to reproduce the submitted results and a Github Repository link with all necessary files or links for the repoducibility
+       - The teamname and the Huggingface account name
+       - 1-2 pages
+       - The link of the Github repository with all necessary files or links for the repoducibility
+       - The document should introduce how to reproduce the submitted results
        - The document should contain an overview of the methodology, training settings, and results for both phases
     - Github Repository
        - The repository should add the reviewer account `mmfm2024` as a repository member
