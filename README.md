@@ -69,8 +69,9 @@ The challenge winners will be awarded with $10K in prizes sponsored by TensorLea
   - Phase 2: An alien test set will be released. The participants will be required to submit their results on the alien test set. The code and the model weights should be same as phase 1. The alien test set will be of a similar domain to the current `test data`.
 
 ### Submission
-- For all submission, the participants will be required to submit results to our online evaluation and an instruction document to [MMFM Challenge CMT](https://cmt3.research.microsoft.com/MMFM2024). We also ask teams to release a Github Repository (codes, model weights, and a well-documented Readme) to the reviewer account `mmfm2024`. 
+- For all submission, the participants will be required to submit results via [MMFM Evaluation](https://huggingface.co/spaces/ai-competition/MMFMChallenge) and submit an instruction document via [MMFM Challenge CMT](https://cmt3.research.microsoft.com/MMFM2024). We also ask teams to share the Github Repository (codes, model weights, and a well-documented Readme) to the reviewer account `mmfm2024`. 
     - Online Evaluation
+       - Please use your Huggingface account to login in the online evaluation
        - Please submit both Phase 1 and Phase 2 results
        - Phase 2 data and online evaluation will be released on May 20, 2024
     - Instruction Document
