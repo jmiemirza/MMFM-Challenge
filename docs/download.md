@@ -51,7 +51,7 @@ The folder structure is as follows:
 The annotation is in the same format as the phase 1 data except that the answer is not provided. 
 ```
     {
-        "id": "myinfographic_5_ee32504e910419e5f76eb4d5d129f723010b72ea55e8b147204e561af11138c8",
+        "id": "myinfographic_5",
         "image": "bally-chohan-recipe--healthy-herbs-for-healing_53b18ea91da93_w450_h300.jpg",
         "conversations": [
             {
