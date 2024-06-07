@@ -37,7 +37,7 @@ This repository contains instructions for the challenge which is part of our
 - Phase 1 Data Release: March 20 2024
 - Phase 2 Data Release: May 20 2024
 - Final Evaluation Open: May 20 2024
-- Phase 1&2 Due Date: 5th June 2024
+- Phase 1&2 Due Date: 9th June 2024
 
 
 
