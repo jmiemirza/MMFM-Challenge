@@ -6,13 +6,13 @@ Members: [Franz Louis Cesista](https://huggingface.co/leloy)
 
 GitHub Repo: https://github.com/leloykun/MMFM-Challenge
 
-My codes are in the `mmfm` branch. This repo should contain jupyter notebooks, scripts for running inference on the cloud (Huggingface Inference Endpoints & Modal Labs), and all inference results I've produced during the challenge.
+My codes are in the [mmfm](https://github.com/leloykun/MMFM-Challenge/tree/mmfm) branch. This repo contains jupyter notebooks, scripts for running inference on the cloud (Huggingface Inference Endpoints & Modal Labs), and all inference results I've produced during the challenge.
 
 ---
 
 ## (Preliminary) Main Results
 
-1. **Structured Generation can supplant finetuning, and maybe even multimodality, for document understanding.** The language-only foundation model (NousHermes 2 Pro) I augmented with Structured Generation outperformed finetuned multimodal models on the MyDoc dataset. Likewise, the vanila Llava-Next model augmented with Structured Generation outperformed even finetuned _multimodal_ models I tried on the MyInfographic dataset. This shows the effectiveness of Structured Generation and should be the first thing teams should try when tackling document-image understanding tasks.
+1. **Structured Generation can supplant finetuning, and maybe even multimodality, for document understanding.** The language-only foundation model (NousHermes 2 Pro) I augmented with Structured Generation outperformed finetuned multimodal models on the MyDoc dataset. Likewise, the vanila Llava-Next model augmented with Structured Generation outperformed even finetuned multimodal models I tried on the MyInfographic dataset. This shows the effectiveness of Structured Generation and should be the first thing teams should try when tackling document-image understanding tasks.
 
 This is perhaps the first in-the-wild experimental support of the results in our paper, [Retrieval Augmented Structured Generation: Business Document Information Extraction As Tool Use](https://arxiv.org/abs/2405.20245v1).
 
@@ -30,7 +30,9 @@ My Solution | 62.25\% | 4.5\% | 60.98\% | 50.49\%
 
 ### Phase 1
 
-I didn't focus too much on Phase 1 as the test set was already released and therefore not a true test set anymore. I propose we exclude this from the final evaluation. That said, here's how you can reproduce my Phase 1 results with just 1 line of code:
+I didn't focus too much on Phase 1 as the test set was already released from the outset and therefore not a true test set anymore. I propose we exclude this from the final evaluation.
+
+That said, here's how you can reproduce my Phase 1 results with just 1 line of code:
 
 ```bash
 MODEL_ID=liuhaotian/llava-v1.5-13b \
@@ -39,7 +41,7 @@ MODEL_ID=liuhaotian/llava-v1.5-13b \
   --output-file-name="output_datasets_all--liuhaotian/llava-v1.5-13b.json"
 ```
 
-The first run should take ~3 hours (due to the dataset preparation step) and cost ~\$10 or so on Modal Labs. But subsequent runs should only take ~30 mins and cost ~\$1.
+The first run should take ~3 hours (due to the dataset preparation step) and cost ~\$5 or so on Modal Labs. But subsequent runs should only take ~30 mins and cost ~\$1.
 
 You can then download the results file from Modal using `modal volume get mmfm-inference-results <results_file>.json inference_results/`.
 
@@ -53,9 +55,10 @@ Upon manual inspection and simple color analysis (see `1b-analysis-document-colo
 The documents in the MyDoc dataset, however, are a lot denser. They could contain thousand of text tokens, yet even Llava-Next only uses hundreds of visual tokens. Thus, I figured that a properly-augmented LLM should be able to outperform multimodal models. And I was right. To reproduce my results, you can follow these steps:
 
 1. First, run OCR on the MyDoc dataset using Surya by running `modal run modal_surya.py::run_surya_extraction --dataset="mydoc"`.
-2. Then run the `5b-mydoc-nous-hermes-docile.ipynb` notebook. Note that you might need to re-run them with different seeds in case some of the runs fail.
+2. Then, create the Huggingface Inference Endpoint by runnign the `0d-create-huggingface-endpoint-nous-hermes-docile.ipynb` notebook.
+3. Finally, run the `5b-mydoc-nous-hermes-docile.ipynb` notebook. Note that you might need to re-run them with different seeds in case some of the runs fail.
 
-### Solution Generation
+### Formatting the solution for submission
 
 To generate the final solution you can submit to the challenge platform, simply run the `build-submission.ipynb` notebook.
 
