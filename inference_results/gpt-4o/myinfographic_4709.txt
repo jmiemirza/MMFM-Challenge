@@ -1,0 +1,1 @@
+Responsive design caters to different devices by offering a consistent experience across various devices, ensuring that the website layout adjusts to fit the screen size of each device.

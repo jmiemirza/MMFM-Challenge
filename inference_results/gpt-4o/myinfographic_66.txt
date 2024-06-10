@@ -1,0 +1,1 @@
+Bitmap images are made up of colored dots (pixels) in a grid, also known as raster images, resolution dependent meaning resizing affects image quality, and include scanned images and digital photos.

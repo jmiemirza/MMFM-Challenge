@@ -1,0 +1,1 @@
+Event Analytics refers to tracking and analyzing website activity. It is a way to gather data on user interactions with elements of a website such as clicks, scrolling, page visits, form completions, etc. This data can be used to improve website performance, user experience, and gather insights into user behavior and preferences.

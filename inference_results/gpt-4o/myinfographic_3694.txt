@@ -1,0 +1,1 @@
+Octave pedals shift the pitch of guitar notes to either a higher or lower octave.

@@ -1,0 +1,1 @@
+The data is represented by color-coded dots, with higher density and darker colors indicating higher numbers of fatal crashes involving intoxication.

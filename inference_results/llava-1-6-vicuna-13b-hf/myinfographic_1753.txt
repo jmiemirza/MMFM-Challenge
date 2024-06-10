@@ -1,0 +1,1 @@
+A best practice related to user access mentioned in this infographic is using groups to assign permissions, as it allows you to manage permissions in a more organized and secure way.

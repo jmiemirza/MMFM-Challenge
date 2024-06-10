@@ -1,0 +1,1 @@
+The actual average LGD is approximately 10 (10^1) on the logarithmic scale.

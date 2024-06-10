@@ -1,0 +1,1 @@
+These infographics primarily discuss the importance of testing different aspects of app performance before an app goes live.

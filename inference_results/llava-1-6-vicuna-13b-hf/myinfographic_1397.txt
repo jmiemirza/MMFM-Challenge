@@ -1,0 +1,1 @@
+The main area of the infographic uses a heat map-like visual representation, which is a common type of data visualization that shows the magnitude of a phenomenon being measured for different groups, locations, time periods, etc. based on a color gradient scale that indicates the level of the quantitative variable of interest.

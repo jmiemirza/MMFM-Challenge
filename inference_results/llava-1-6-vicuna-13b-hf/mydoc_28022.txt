@@ -1,0 +1,1 @@
+string, description: Customer No. is a unique identifier for a business or individual receiving invo

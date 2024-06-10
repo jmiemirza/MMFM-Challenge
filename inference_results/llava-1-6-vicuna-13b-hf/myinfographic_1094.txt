@@ -1,0 +1,1 @@
+Additional context in the form of labels for each element, a clear title for each category, an explanation of the relationships between the elements, and an indication of the scale (if relevant). Include sources for data if needed, and provide a legend if the icons are not standard symbols.

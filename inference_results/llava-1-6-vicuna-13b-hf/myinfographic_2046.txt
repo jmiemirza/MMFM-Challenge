@@ -1,0 +1,1 @@
+An issue with the code that runs on the server is suggested by the infographics, where the red '10' mark (indicating poor performance) is accompanied by a graphic of a web server and a coding brace, implying that the server side code is a factor in slow loading times.

@@ -1,0 +1,1 @@
+The unique patient count in 2013 can be visually estimated from the length of the pink bar corresponding to the year 2013.

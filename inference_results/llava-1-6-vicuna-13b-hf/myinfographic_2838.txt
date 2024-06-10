@@ -1,0 +1,1 @@
+EMV chip cards are preferred due to their enhanced security features, such as chip-to-chip encryption and dynamic data which make them harder to counterfeit and less prone to tampering than magnetic stripe cards.

@@ -1,0 +1,1 @@
+The total number of escrowed options vesting on August 31, 2018, and expiring on August 31, 2019, can be calculated by summing up the heights of the bars corresponding to $0.20 Options vesting 31/08/16 and $0.28 Options vesting 31/08/18. The sum is 131000000 + 11100000 = 142000000.

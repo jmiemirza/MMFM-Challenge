@@ -1,0 +1,1 @@
+The thermal readings at the bottom show temperature values ranging from 85.0°F to 98.2°F.

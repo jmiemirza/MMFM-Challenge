@@ -1,0 +1,1 @@
+Duplication of Bitcoins is prevented through the use of a P2P network, ensuring that a single bitcoin cannot be spent in multiple places at the same time. This is monitored by the Bitcoin network, which checks every transaction for validity.

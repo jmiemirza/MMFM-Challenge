@@ -1,0 +1,1 @@
+Actual has an LGD estimate of 1. It is on the left side, the lowest part of the chart, which corresponds to 'Average LGD' as described by the key.

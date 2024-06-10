@@ -1,0 +1,1 @@
+Material Demo is likely meant to demonstrate the user interface and design elements of the Bootstrap-based Laravel admin template.

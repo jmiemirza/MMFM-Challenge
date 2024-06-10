@@ -1,0 +1,1 @@
+The infographic uses a horizontal bar chart (bar chart) to illustrate the number of seats in Congress for each party in both the Senate and the House of Representatives. Each bar is divided into segments, with each segment representing a seat, and the colors corresponding to the party affiliation.

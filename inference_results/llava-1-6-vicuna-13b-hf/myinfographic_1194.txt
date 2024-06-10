@@ -1,0 +1,1 @@
+According to the infographic, if a data breach goes undetected, the attack surface grows exponentially larger, the cost in terms of dollars, time, and customer trust increases, and the scope and damage of the data breach become harder to determine and manage.

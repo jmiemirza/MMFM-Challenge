@@ -1,4 +1,10 @@
 .idea
-.idea
 data_preprocessors/__pycache__
 lib/MMMU/eval/utils/__pycache__
+__pycache__/
+.ipynb_checkpoints/
+GoNotoCurrent.ttf
+*.zip
+lib/*
+data/*
+answer_dicts/*

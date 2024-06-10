@@ -1,0 +1,1 @@
+The mixed-use properties are not visualized on this chart because there is no such representation. The data and labels suggest that only the development property and the redvelopment properties are displayed.

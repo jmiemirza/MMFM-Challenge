@@ -1,0 +1,1 @@
+'R' stands for the interest rate and it is applied by multiplying it with the principal amount (P) and the loan period (T) to calculate the interest (I) of the loan using the formula I = P * R * T.

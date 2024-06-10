@@ -1,0 +1,1 @@
+The infographics explains how traditional databases are not equipped to handle the explosion of unstructured data, highlighting new types of databases designed to handle it, such as Nested NoSQL Databases, Polystores, and Wire Databases.

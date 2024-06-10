@@ -1,0 +1,1 @@
+string, description=The image shows a line item from a contract or agreement for a printing service,

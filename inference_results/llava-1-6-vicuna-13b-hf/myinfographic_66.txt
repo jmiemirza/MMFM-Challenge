@@ -1,0 +1,1 @@
+In the infographic, 'bitmap' images are described as having the following characteristics: 'Bitmap images are made up of colored dots (pixels). They are large, detailed images. Files are often saved with .jpg, .png, .bmp extensions.'

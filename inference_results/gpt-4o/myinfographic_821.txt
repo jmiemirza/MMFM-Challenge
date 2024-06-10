@@ -1,0 +1,1 @@
+Web merchants are advised to update their system software, remove any old software, upgrade any front end software, use a PCI compliant checkout system, and scan their web applications.

@@ -1,0 +1,1 @@
+Compares activities done on different days with relative frequency to encourage them.

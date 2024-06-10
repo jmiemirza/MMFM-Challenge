@@ -1,0 +1,1 @@
+As per the infographic, 'Event Analytics' refers to a method available in the GA.js tracking code that can be used to record user interaction with website elements.
